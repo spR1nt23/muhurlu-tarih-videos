@@ -12,7 +12,7 @@ Google hesabı: **selinarica.2007** (Secret Spawn ile aynı hesap). Dil: Türkç
 | Uzun video (5–8 dk) | 20:00 |
 | Shorts 3 | 21:30 |
 
-Hepsi **yayın günü** tarihine planlanır. Görev gece çalışır; o günün videolarını üretir ve planlar.
+Görev her akşam 22:37 (İstanbul) çalışır ve **ertesi günün** videolarını üretip ertesi güne planlar. Tarih seçiciden doğru günü seçmeyi unutma.
 
 ## 1. Kurulum (her oturumda)
 ```bash
