@@ -1,0 +1,13 @@
+{"format":"short","seed":11,"scenes":[
+{"motif":"mountains","params":{"tent":true},"heading":"DYATLOV GEÇİDİ","lines":[
+ {"say":"Bin dokuz yüz elli dokuz yılının şubat ayı. Ural Dağları'nda dokuz genç dağcı, dondurucu bir gecede çadırlarını içeriden keserek dışarı kaçtı.","show":"Şubat 1959. Ural Dağları'nda dokuz genç dağcı, dondurucu bir gecede çadırlarını içeriden keserek dışarı kaçtı."},
+ "Bazıları ayakkabısızdı, bazılarının üzerinde neredeyse hiçbir şey yoktu."]},
+{"motif":"document","params":{"stamp":"1959"},"lines":[
+ "Cesetleri haftalar sonra, çadırdan bir buçuk kilometreye kadar uzakta bulundu.",
+ "Bazılarında ağır kafatası ve kaburga kırıkları vardı, ama dışarıdan neredeyse hiç yara yoktu.",
+ "Sovyet soruşturması tek cümleyle kapandı: Ölümlerin sebebi, karşı konulamaz bir doğa gücüydü."]},
+{"motif":"question","lines":[
+ "Yıllarca gizli silah denemeleri, ses dalgaları, hatta yetiler konuşuldu.",
+ {"say":"İki bin yirmi bir yılında İsviçreli bilim insanları yeni bir model yayımladı: çadırın üstüne düşen küçük bir kar levhası çığı.","show":"2021'de İsviçreli bilim insanları yeni bir model yayımladı: çadırın üstüne düşen küçük bir kar levhası çığı."},
+ "Peki dokuz deneyimli dağcıyı karanlığa koşturan gerçekten bu muydu? Sence ne oldu?"]}
+]}

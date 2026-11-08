@@ -1,0 +1,14 @@
+{"format":"short","seed":12,"scenes":[
+{"motif":"sea","heading":"KAYIP KOLONİ","lines":[
+ {"say":"Bin beş yüz seksen yedi. Yüzden fazla İngiliz, Amerika kıyısındaki Roanoke Adası'na yerleşti.","show":"1587. Yüzden fazla İngiliz, Amerika kıyısındaki Roanoke Adası'na yerleşti."},
+ "Aralarında Amerika'da doğan ilk İngiliz bebek, Virginia Dare de vardı."]},
+{"motif":"map","params":{"x":true},"lines":[
+ "Koloninin lideri John White, erzak getirmek için İngiltere'ye döndü.",
+ "Ama İspanya ile çıkan savaş yüzünden tam üç yıl geri gelemedi.",
+ {"say":"Bin beş yüz doksanda adaya döndüğünde koloni yoktu. Ne bir ceset vardı, ne de bir mezar.","show":"1590'da adaya döndüğünde koloni yoktu. Ne bir ceset vardı, ne de bir mezar."}]},
+{"motif":"forest","params":{"carve":"CROATOAN"},"lines":[
+ {"say":"Sadece bir kazığa kazınmış tek bir kelime: Kroatoan.","show":"Sadece bir kazığa kazınmış tek bir kelime: CROATOAN."},
+ "Önceden anlaşmışlardı: zorla giderlerse yanına bir haç kazıyacaklardı. Haç yoktu.",
+ {"say":"Kroatoan, yakındaki bir adanın ve orada yaşayan yerli halkın adıydı.","show":"Croatoan, yakındaki bir adanın ve orada yaşayan yerli halkın adıydı."},
+ "Oraya mı gittiler, yoksa başka bir şey mi oldu? Dört yüz yılı aşkın süredir kimse kesin olarak bilmiyor."]}
+]}

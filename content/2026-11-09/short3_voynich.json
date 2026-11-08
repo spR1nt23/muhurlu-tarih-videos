@@ -1,0 +1,12 @@
+{"format":"short","seed":13,"scenes":[
+{"motif":"parchment","heading":"VOYNICH EL YAZMASI","lines":[
+ "Bu kitabı yüz yılı aşkın süredir kimse okuyamadı.",
+ "Yaklaşık iki yüz kırk sayfa, bilinmeyen bir alfabe ve dünyada karşılığı bulunamayan bitki çizimleri."]},
+{"motif":"hourglass","lines":[
+ {"say":"Karbon testine göre parşömeni on beşinci yüzyılın başlarına ait.","show":"Karbon testine göre parşömeni 15. yüzyılın başlarına ait."},
+ {"say":"Adını, onu bin dokuz yüz on iki yılında satın alan kitapçı Wilfrid Voynich'ten alıyor.","show":"Adını, onu 1912'de satın alan kitapçı Wilfrid Voynich'ten alıyor."},
+ "İkinci Dünya Savaşı'nın usta şifre çözücüleri bile denedi ve başaramadı."]},
+{"motif":"question","lines":[
+ "Kimine göre kayıp bir dil, kimine göre bir şifre, kimine göre de çok pahalı bir şaka.",
+ "Bugün Yale Üniversitesi'nin kütüphanesinde, hâlâ çözülmeyi bekliyor. Sence ne anlatıyor?"]}
+]}

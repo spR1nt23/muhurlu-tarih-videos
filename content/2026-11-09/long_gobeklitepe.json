@@ -1,0 +1,129 @@
+{
+ "format": "long",
+ "seed": 21,
+ "intro": true,
+ "title_card": "Göbeklitepe Neden Gömüldü?",
+ "scenes": [
+  {
+   "motif": "pillars",
+   "heading": "GÖBEKLİTEPE",
+   "lines": [
+    "Şanlıurfa'nın yaklaşık on beş kilometre kuzeydoğusunda, sıradan görünen bir tepe var.",
+    "Yüzyıllar boyunca köylüler bu tepede tarla sürdü, hayvan otlattı. Altında ne olduğunu kimse bilmiyordu.",
+    "Oysa toprağın birkaç metre altında, insanlık tarihinin bilinen en eski anıtsal yapılarından biri uyuyordu.",
+    "Ve bu yapının etrafındaki en büyük soru hâlâ cevapsız: Göbeklitepe, toprağın altına nasıl girdi?"
+   ]
+  },
+  {
+   "motif": "year",
+   "params": {
+    "year": "1963"
+   },
+   "lines": [
+    {
+     "say": "Hikâye bin dokuz yüz altmış üç yılında başlıyor.",
+     "show": "Hikâye 1963 yılında başlıyor."
+    },
+    "İstanbul ve Chicago üniversitelerinden araştırmacılar bölgede bir yüzey araştırması yapıyor ve tepede çakmaktaşı parçaları ile kırık kireçtaşı levhalar görüyor.",
+    "Ama bu levhaları, sonradan yapılmış bir mezarlığın taşları sanıyorlar. Tepe, otuz yıl boyunca unutuluyor.",
+    {
+     "say": "Bin dokuz yüz doksanların ortasında Alman arkeolog Klaus Schmidt eski raporları okuyor ve tepeye kendisi gidiyor.",
+     "show": "1990'ların ortasında Alman arkeolog Klaus Schmidt eski raporları okuyor ve tepeye kendisi gidiyor."
+    },
+    "Gördüklerinin bir mezarlık olmadığını hemen anlıyor. Kazılar başlıyor ve tarih kitaplarının bir sayfası yeniden yazılıyor."
+   ]
+  },
+  {
+   "motif": "hourglass",
+   "lines": [
+    "Toprağın altından dev, T biçimli taş dikilitaşlar çıkıyor. Bazıları beş metreyi aşıyor, tonlarca ağırlığında.",
+    "Dikilitaşlar daireler oluşturacak şekilde dizilmiş, ortalarında ise en büyük iki taş karşılıklı duruyor.",
+    "Taşların üzerinde tilkiler, yaban domuzları, yılanlar, akbabalar ve akrepler oyulmuş.",
+    "Bazı dikilitaşlarda kollar, eller ve kemerler var. Yani bu taşlar, belki de insan ya da insanüstü varlıkları temsil ediyor.",
+    "Ama asıl şaşırtıcı olan yaşları. Radyokarbon tarihlerine göre en eski yapılar yaklaşık on bir bin altı yüz yıl öncesine gidiyor.",
+    "Bu, Stonehenge'den altı bin yıldan, Mısır piramitlerinden ise yaklaşık yedi bin yıldan daha eski demek."
+   ]
+  },
+  {
+   "motif": "stars",
+   "heading": "AKBABA TAŞI",
+   "lines": [
+    "Göbeklitepe'nin en çok tartışılan taşlarından biri, kırk üç numaralı dikilitaş. Halk arasında Akbaba Taşı olarak biliniyor.",
+    "Üzerinde kanatlarını açmış bir akbaba, yanında akrep gibi hayvanlar ve tam ortada, akbabanın kanadının üstünde yuvarlak bir şekil var.",
+    {
+     "say": "İki bin on yedi yılında bazı araştırmacılar bu figürlerin takımyıldızları gösterdiğini ve bir kuyruklu yıldız felaketini anlattığını öne sürdü.",
+     "show": "2017'de bazı araştırmacılar bu figürlerin takımyıldızları gösterdiğini ve bir kuyruklu yıldız felaketini anlattığını öne sürdü."
+    },
+    "Bu fikir çok ses getirdi ama kazı ekibindeki arkeologların büyük kısmı ikna olmadı. Onlara göre akbaba, büyük ihtimalle ölüm ve ölüm sonrası inançlarla ilgili bir semboldü.",
+    "Çünkü bu insanların akbabalara, cesetlerin etini temizleyen kuşlar olarak özel bir anlam yüklediği düşünülüyor.",
+    "Yani aynı taşa bakan iki kişi, biri gökyüzünü, diğeri ölümü görüyor. Gerçek anlamını belki de hiçbir zaman tam olarak bilemeyeceğiz."
+   ]
+  },
+  {
+   "motif": "ruins",
+   "lines": [
+    "Daha da ilginci şu: Göbeklitepe'yi yapanlar çiftçi değildi. Henüz çanak çömlek yoktu, metal yoktu, yazı yoktu.",
+    "Bu insanlar avcı toplayıcı olarak biliniyordu. Ve yine de yüzlerce kişinin birlikte çalışmasını gerektiren dev bir proje gerçekleştirdiler.",
+    "Klaus Schmidt buraya, insanlığın ilk tapınağı dedi. Ona göre önce tapınak geldi, şehirler ve tarım sonra.",
+    "Son yıllardaki kazılar ise tabloyu biraz değiştirdi. Tepede evler, su toplama çukurları ve günlük yaşamın izleri bulundu.",
+    "Yani Göbeklitepe yalnızca bir tören alanı değil, aynı zamanda insanların yaşadığı bir yerleşimin parçası olabilir."
+   ]
+  },
+  {
+   "motif": "document",
+   "params": {
+    "stamp": "?"
+   },
+   "heading": "BÜYÜK SORU",
+   "lines": [
+    "Şimdi asıl gizeme gelelim. Arkeologlar dairesel yapıları kazdıklarında, içlerinin metrelerce dolgu ile dolu olduğunu gördü.",
+    "Bu dolgunun içinde kireçtaşı molozu, çakmaktaşı aletler, hayvan kemikleri ve az miktarda insan kemiği vardı.",
+    "Klaus Schmidt'in yorumu çok çarpıcıydı: Bu yapılar, kullanımları sona erince insanlar tarafından bilerek gömülmüştü.",
+    "Sanki bir dönem kapanıyor, kutsal alan mühürlenip toprağa veriliyordu. Belki bir ritüel, belki bir veda.",
+    "Bu fikir yıllarca Göbeklitepe'nin en ünlü hikâyesi oldu. Belgesellerde, kitaplarda, hatta komplo teorilerinde anlatıldı."
+   ]
+  },
+  {
+   "motif": "mountains",
+   "params": {},
+   "lines": [
+    "Ama son yıllarda, kazıyı yürüten ekipteki araştırmacılar bu hikâyeyi sorgulamaya başladı.",
+    "Dairesel yapılar, tepenin çukur kısımlarında, etrafı daha yüksek yerleşim katmanlarıyla çevrili alanlarda duruyor.",
+    "Yeni çalışmalara göre bu yapıların içi, büyük ölçüde yamaçlardan kayan toprak ve molozla, yani heyelanlarla dolmuş olabilir.",
+    {
+     "say": "İki bin yirmi altıda yayımlanan bir çalışma da önemli bir ipucu verdi: Göbeklitepe'de ilk kez bozulmamış mezarlar bulundu.",
+     "show": "2026'da yayımlanan bir çalışma da önemli bir ipucu verdi: Göbeklitepe'de ilk kez bozulmamış mezarlar bulundu."
+    },
+    "Araştırmacılar, dolgudaki dağınık insan kemiklerinin bir kısmının da doğal süreçlerle dağılmış olabileceğini gösterdi."
+   ]
+  },
+  {
+   "motif": "ruins",
+   "heading": "KARAHANTEPE",
+   "lines": [
+    "Göbeklitepe'nin hikâyesi artık tek bir tepeyle sınırlı değil.",
+    "Şanlıurfa çevresinde, Taş Tepeler adı verilen bölgede, benzer dönemden kalma çok sayıda yerleşim tespit edildi.",
+    "Bunların en dikkat çekenlerinden biri Karahantepe. Burada ana kayaya oyulmuş bir odada, duvardan çıkan bir insan başı heykeli bulundu.",
+    "Odanın içinde ise yerden yükselen, kayadan oyulmuş çok sayıda dikme sıralanıyor.",
+    "Bu keşifler, Göbeklitepe'nin tek başına bir mucize değil, büyük ve birbirine bağlı bir kültürün parçası olduğunu gösteriyor."
+   ]
+  },
+  {
+   "motif": "question",
+   "lines": [
+    "Peki hangisi doğru? Bilinçli bir gömme töreni mi, yoksa yüzyıllar boyunca yavaş yavaş akan toprak mı?",
+    "Dürüst cevap şu: Henüz kesin olarak bilmiyoruz. Belki de her iki süreç de farklı zamanlarda rol oynadı.",
+    "Unutmayalım, Göbeklitepe'nin bugüne kadar sadece küçük bir kısmı kazıldı. Tepenin büyük bölümü hâlâ toprağın altında."
+   ]
+  },
+  {
+   "motif": "seal",
+   "lines": [
+    "Ama bir şey kesin: Göbeklitepe'yi toprağın altına sokan şey, insan eli de olsa doğa da olsa, onu on bir bin yıldan fazla korudu.",
+    "Ve bugün, bu sessiz taşlar bize hâlâ aynı soruyu soruyor: Uygarlığı gerçekten ne başlattı?",
+    "Sence Göbeklitepe bilerek mi gömüldü, yoksa zaman mı onu sakladı? Düşünceni yorumlara yaz.",
+    "Bir sonraki mührü birlikte açmak için abone olmayı unutma. Mühürlü Tarih'te görüşmek üzere."
+   ]
+  }
+ ]
+}
