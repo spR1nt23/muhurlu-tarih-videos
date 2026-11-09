@@ -81,4 +81,6 @@ Yazdıktan sonra iki kutunun `innerText`'ini okuyup kontrol et, sonra 4. adımda
 ## Dikkat
 - Escape'e basma (yükleme penceresini kapatır). Yükleme bitmeden sayfadan ayrılma.
 - Tarayıcı başka sohbetlerle ortak: her yüklemeden önce kanalın Mühürlü Tarih olduğunu kontrol et.
+- Tarayıcı Secret Spawn'dayken `.../UCeb67.../content/shorts` doğrudan açılınca "Oops, something went wrong" verir. Önce `studio.youtube.com` aç, profil → Switch account → Mühürlü Tarih; sonra soldaki **Content** menüsüne tıkla ve Shorts sekmesine geç.
+- Görev aynı gün iki kez çalışabilir: `videos/<TARIH>/` varsa önce Studio listelerine bak; dördü de "Scheduled" ise hiçbir şey yükleme.
 - Doğrulanmamış kanalda günlük yükleme sınırı düşük; sınır uyarısı görürsen dur ve raporla.
