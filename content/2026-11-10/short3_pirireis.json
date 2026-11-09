@@ -1,0 +1,13 @@
+{"format":"short","seed":33,"scenes":[
+{"motif":"map","heading":"PİRİ REİS HARİTASI","lines":[
+ {"say":"Bin dokuz yüz yirmi dokuz. Topkapı Sarayı müzeye dönüştürülürken, tozlu rulolar arasından ceylan derisine çizilmiş bir harita çıkıyor.","show":"1929. Topkapı Sarayı müzeye dönüştürülürken, tozlu rulolar arasından ceylan derisine çizilmiş bir harita çıkıyor."},
+ {"say":"Altında Osmanlı denizcisi Piri Reis'in imzası ve bir tarih var: bin beş yüz on üç.","show":"Altında Osmanlı denizcisi Piri Reis'in imzası ve bir tarih var: 1513."}]},
+{"motif":"parchment","params":{"plant":false},"lines":[
+ "Haritada Amerika kıyıları görülüyor, Kolomb'un yolculuğundan sadece yirmi bir yıl sonra.",
+ "Piri Reis notlarında yaklaşık yirmi eski haritadan yararlandığını, bunlardan birinin Kolomb'a ait olduğunu yazıyor.",
+ "Kolomb'un kendi haritaları bugün kayıp. Yani bu harita, o kayıp haritanın izini taşıyor olabilir."]},
+{"motif":"question","lines":[
+ "Bazıları haritanın güneyinde buzsuz bir Antarktika gördüğünü iddia ediyor.",
+ "Tarihçilerin çoğu ise bunun, dönemin hayali güney kıtasının bir çizimi olduğunu düşünüyor.",
+ "Haritanın üçte ikisi kayıp. Sence geri kalanında ne vardı?"]}
+]}

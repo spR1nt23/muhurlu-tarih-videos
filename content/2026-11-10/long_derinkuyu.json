@@ -1,0 +1,68 @@
+{"format":"long","seed":41,"intro":true,"title_card":"Derinkuyu: Yerin 85 Metre Altındaki Şehir","scenes":[
+{"motif":"ruins","heading":"DERİNKUYU","lines":[
+ "Kapadokya'nın ortasında, Nevşehir'e bağlı küçük bir kasaba var: Derinkuyu.",
+ "Yüzeyde sıradan evler, sokaklar ve bahçeler görürsünüz. Ama ayağınızın altında, bambaşka bir dünya uzanıyor.",
+ "Yerin yaklaşık seksen beş metre altına kadar inen, katlar halinde oyulmuş koca bir şehir.",
+ "Binlerce insanı, hayvanlarıyla ve erzaklarıyla birlikte aylarca saklayabilecek kadar büyük.",
+ "Peki bu şehri kim yaptı, neden yaptı ve nasıl yüzyıllarca unutuldu?"]},
+{"motif":"year","params":{"year":"1963"},"lines":[
+ {"say":"Hikâyenin modern kısmı bin dokuz yüz altmış üç yılında başlıyor.","show":"Hikâyenin modern kısmı 1963 yılında başlıyor."},
+ "Derinkuyu'da yaşayan bir adam evini onarırken bir duvarı yıkıyor ve arkasında beklemediği bir boşlukla karşılaşıyor.",
+ "Boşluk bir odaya, oda bir tünele, tünel de başka odalara açılıyor.",
+ "Kısa süre sonra arkeologlar geliyor ve kasabanın altında katlar halinde inen dev bir yapı olduğu anlaşılıyor.",
+ "Temizlik çalışmalarının ardından yeraltı şehri ziyaretçilere açılıyor. Bugün Kapadokya'nın en çok gezilen yerlerinden biri."]},
+{"motif":"mountains","params":{},"heading":"YUMUŞAK TAŞ","lines":[
+ "Derinkuyu'nun sırrını anlamak için önce Kapadokya'nın toprağını anlamak gerekiyor.",
+ "Milyonlarca yıl önce Erciyes, Hasandağı ve çevredeki yanardağlar bölgeyi kalın kül katmanlarıyla kapladı.",
+ "Bu kül zamanla tüf denen yumuşak bir kayaya dönüştü. Tüf, basit aletlerle bile kolayca oyulabiliyor.",
+ "Üstelik havayla temas ettikçe sertleşiyor. Yani oyduğunuz oda, zamanla daha sağlam hale geliyor.",
+ "Kapadokya'nın peribacaları, kaya kiliseleri ve yeraltı şehirleri hep bu eşsiz taş sayesinde var."]},
+{"motif":"hourglass","heading":"KİM YAPTI?","lines":[
+ "Derinkuyu'yu ilk kimin kazdığı kesin olarak bilinmiyor. İşte gizemin ilk katmanı burada.",
+ {"say":"Pek çok kaynak, ilk oyuntuların milattan önce yedinci ya da sekizinci yüzyılda, Frigler döneminde açıldığını öne sürüyor.","show":"Pek çok kaynak, ilk oyuntuların MÖ 8. ya da 7. yüzyılda, Frigler döneminde açıldığını öne sürüyor."},
+ "Bazı araştırmacılar daha da eskiye, Hititlere kadar gitmeye çalışıyor. Ama bunu kesin olarak kanıtlayan bir buluntu yok.",
+ "Bilinen şu: Şehir tek seferde yapılmadı. Yüzyıllar boyunca farklı halklar onu genişletti, derinleştirdi, yeni katlar ekledi.",
+ "En büyük genişleme ise Bizans döneminde yaşandı."]},
+{"motif":"map","params":{"x":true},"heading":"SALDIRILAR","lines":[
+ "Kapadokya, tarih boyunca imparatorlukların arasında kalmış bir geçit bölgesiydi.",
+ "Bizans döneminde bölge sık sık akınlara ve savaşlara sahne oldu.",
+ "Yerel halk için en iyi savunma, düşmanla savaşmak değil, ortadan kaybolmaktı.",
+ "Tehlike yaklaşınca köylüler hayvanlarını, yiyeceklerini ve eşyalarını alıp yerin altına iniyordu.",
+ "Yukarıdan bakan biri boş bir köy görüyordu. Oysa herkes, birkaç kat aşağıda nefesini tutmuş bekliyordu."]},
+{"motif":"document","params":{"stamp":"85 m"},"heading":"ŞEHRİN İÇİ","lines":[
+ "Derinkuyu'nun içi, gerçek bir şehrin ihtiyaçlarına göre düzenlenmiş.",
+ "Üst katlarda ahırlar vardı. Hayvanlar yüzeye yakın tutuluyordu, böylece koku ve pislik aşağıya inmiyordu.",
+ "Biraz aşağıda yatakhaneler, mutfaklar, şarap ve yağ işlikleri, erzak depoları yer alıyordu.",
+ "Üst katlarda okul olarak kullanıldığı düşünülen tonozlu bir salon, en derin katlarda ise haç planlı bir kilise bulunuyor.",
+ "Bugün sadece sekiz kat ziyarete açık. Daha derin katların bir kısmı hâlâ kapalı ya da tam olarak temizlenmemiş durumda.",
+ "Tahminlere göre şehir, hayvanlarıyla birlikte yirmi bine yakın insanı barındırabiliyordu. Ama bu sayı bir tahmin, kesin bir rakam değil."]},
+{"motif":"stars","heading":"NEFES ALAN ŞEHİR","lines":[
+ "Bu kadar derinde insanlar nasıl nefes alıyordu? Cevap, şehrin en etkileyici mühendislik detayında saklı.",
+ "Derinkuyu boyunca yukarıdan aşağıya uzanan dikey havalandırma bacaları var.",
+ "Bu bacalar temiz havayı en alt katlara kadar taşıyor. Aşağı inildikçe hava bile serin ve taze kalıyor.",
+ "Bazı bacalar aynı zamanda kuyu olarak kullanılıyordu ve yeraltı suyuna ulaşıyordu.",
+ "Kasabanın adı da büyük ihtimalle buradan geliyor: Derin Kuyu.",
+ "Anlatılana göre bazı kuyuların yüzeyle bağlantısı yoktu. Böylece yukarıdaki düşman suyu zehirleyemiyordu."]},
+{"motif":"seal","heading":"TAŞ KAPILAR","lines":[
+ "Şehrin savunması da en az havalandırması kadar zekice.",
+ "Katlar arasındaki geçitlerde, tekerlek şeklinde dev taş kapılar duruyor.",
+ "Bu taşlar yüzlerce kilo ağırlığında ve sadece içeriden yuvarlanarak kapatılabiliyor.",
+ "Dışarıdan açmak neredeyse imkânsız. Her kat, kendi başına kapatılabilen bir kale gibi.",
+ "Tüneller de bilerek dar ve alçak yapılmış. İçeri giren bir düşman eğilerek, tek sıra halinde ilerlemek zorunda kalıyordu."]},
+{"motif":"forest","params":{"carve":"KAYMAKLI"},"heading":"GİZLİ TÜNEL","lines":[
+ "Derinkuyu'nun etrafında efsaneler de eksik değil. En ünlüsü, yaklaşık sekiz kilometre ötedeki Kaymaklı yeraltı şehrine uzanan bir tünel.",
+ "Yerel anlatılara göre iki şehir yerin altından birbirine bağlıydı ve insanlar gerektiğinde bir şehirden diğerine kaçabiliyordu.",
+ "Böyle bir tünelin varlığından sık sık söz ediliyor. Ama tamamı açılıp baştan sona yürünebilmiş değil.",
+ "Kapadokya'da onlarca, hatta bazı tahminlere göre yüzden fazla yeraltı yerleşimi var. Bunların ne kadarının birbirine bağlı olduğu hâlâ tam bilinmiyor."]},
+{"motif":"ruins","heading":"SON SIĞINANLAR","lines":[
+ "Derinkuyu'nun hikâyesi sanıldığı kadar eski bir geçmişte kalmadı.",
+ "Bölgede yaşayan Kapadokyalı Rumların yeraltı şehirlerini yirminci yüzyıla kadar sığınak ve depo olarak kullandığı biliniyor.",
+ {"say":"Bin dokuz yüz yirmi üçteki nüfus mübadelesiyle bu topluluklar bölgeden ayrıldı ve tüneller yavaş yavaş unutuldu.","show":"1923'teki nüfus mübadelesiyle bu topluluklar bölgeden ayrıldı ve tüneller yavaş yavaş unutuldu."},
+ "Ta ki kırk yıl sonra, bir duvar yıkılana kadar."]},
+{"motif":"question","lines":[
+ "Bugün Derinkuyu hakkında hâlâ cevaplanmamış sorular var.",
+ "İlk tünelleri kim kazdı? Şehrin en derin katları tam olarak ne kadar aşağı iniyor? Kaç yeraltı şehri birbirine bağlı?",
+ "Kesin olan tek şey şu: Derinkuyu, insanların hayatta kalmak için ne kadar ileri gidebileceğinin taşa oyulmuş bir kanıtı.",
+ "Sen olsan, tehlike yaklaşırken bu karanlık tünellere iner miydin? Yorumlarda yaz.",
+ "Bir sonraki mührü birlikte açmak için abone olmayı unutma. Mühürlü Tarih'te görüşmek üzere."]}
+]}

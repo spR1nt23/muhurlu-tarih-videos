@@ -1,0 +1,13 @@
+{"format":"short","seed":31,"scenes":[
+{"motif":"sea","heading":"HAYALET GEMİ","lines":[
+ {"say":"Aralık bin sekiz yüz yetmiş iki. Atlantik'in ortasında, yelkenleri açık bir gemi tek başına sürükleniyor.","show":"Aralık 1872. Atlantik'in ortasında, yelkenleri açık bir gemi tek başına sürükleniyor."},
+ "Adı Mary Celeste. Ve gemide tek bir insan bile yok."]},
+{"motif":"document","params":{"stamp":"1872"},"lines":[
+ "Kaptan Benjamin Briggs, eşi, iki yaşındaki kızı ve yedi mürettebat, toplam on kişi kaybolmuştu.",
+ "Ama gemi sağlamdı. Altı aylık erzak duruyordu, kişisel eşyalara dokunulmamıştı.",
+ "Eksik olan sadece birkaç şeydi: tek filika, sekstant, kronometre ve geminin belgeleri."]},
+{"motif":"question","lines":[
+ {"say":"Ambarda bin yedi yüz bir varil endüstriyel alkol vardı. Dokuzu bomboştu.","show":"Ambarda 1701 varil endüstriyel alkol vardı. Dokuzu bomboştu."},
+ "En güçlü teori: sızan alkolün buharı patlama korkusu yarattı, herkes filikaya geçti ve gemiden koptu.",
+ "Ama filika hiç bulunmadı. On kişiye gerçekte ne oldu? Sence?"]}
+]}

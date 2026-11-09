@@ -188,7 +188,7 @@ def m_map(w, h, rnd, p):
         y = y0 + (y1 - y0) * t
         d.ellipse([x - 4, y - 4, x + 4, y + 4], fill=SEAL)
     # compass
-    cxp, cyp, r = w * 0.18, h * 0.2, min(w, h) * 0.09
+    cxp, cyp, r = w * 0.2, h * 0.34, min(w, h) * 0.09
     d.ellipse([cxp - r, cyp - r, cxp + r, cyp + r], outline=GOLD, width=3)
     for a in range(0, 360, 90):
         ra = math.radians(a)

@@ -1,0 +1,13 @@
+{"format":"short","seed":32,"scenes":[
+{"motif":"sea","params":{"ship":false},"heading":"ANTİKYTHERA DÜZENEĞİ","lines":[
+ {"say":"Bin dokuz yüz bir. Yunan süngercileri Antikythera adası açıklarında batık bir Roma gemisinden heykeller çıkarıyor.","show":"1901. Yunan süngercileri Antikythera adası açıklarında batık bir Roma gemisinden heykeller çıkarıyor."},
+ "Aralarında, kimsenin önemsemediği paslı bir bronz yığını da var."]},
+{"motif":"hourglass","lines":[
+ "Bir yıl sonra bir arkeolog bu yığının içinde bir dişli çark fark ediyor.",
+ {"say":"İki bin beşteki röntgen taramaları gerçeği ortaya çıkardı: içinde otuzdan fazla bronz dişli vardı.","show":"2005'teki röntgen taramaları gerçeği ortaya çıkardı: içinde otuzdan fazla bronz dişli vardı."},
+ "Bu düzenek Güneş'in ve Ay'ın konumunu hesaplıyor, tutulmaları önceden tahmin ediyordu."]},
+{"motif":"stars","lines":[
+ "Yaklaşık iki bin yüz yıllık. Bilinen en eski analog bilgisayar olarak anılıyor.",
+ "Benzer karmaşıklıkta bir makine ancak bin dört yüz yıl sonra, Orta Çağ Avrupası'nın astronomik saatlerinde görülüyor.",
+ "Peki bu bilgi nereden geldi ve neden kayboldu?"]}
+]}
