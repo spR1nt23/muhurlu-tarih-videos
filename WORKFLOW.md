@@ -67,6 +67,14 @@ let m=null; if(date===DATE&&norm(time)===TIME){document.querySelector('#done-but
 ```
    - `result` null ise ekran görüntüsü al: hâlâ Visibility adımındaysan sağ alttaki **Schedule** düğmesine tıkla. "Video processing … will be set to public on …" penceresi de başarı demektir; Close ile kapat.
    - Saat listesindeki metinlerde özel boşluk var; `norm()` şart.
+### Daha güvenilir başlık/açıklama yazma (denendi, çalışıyor)
+Kutuya koordinatla tıklamak yerine JS ile odaklayıp içeriği seç, sonra `computer type` ile yaz:
+```js
+window.__mtFocus=(which)=>{const tb=[...document.querySelectorAll('ytcp-social-suggestions-textbox #textbox')].filter(e=>e.offsetParent); const el=which==='title'?tb[0]:tb[1]; el.focus(); const r=document.createRange(); r.selectNodeContents(el); const s=getSelection(); s.removeAllRanges(); s.addRange(r); return tb.length;};
+window.__mtFocus('title')   // sonra type: başlık;  ardından __mtFocus('desc') ve type: açıklama
+```
+Yazdıktan sonra iki kutunun `innerText`'ini okuyup kontrol et, sonra 4. adımdaki JS'i çalıştır. Gezinti (navigate) `window` fonksiyonlarını siler; her videoda yeniden tanımla.
+
 5. Uzun video için kapak: `input#file-loader` (thumbnail) şu an çalışmıyor (kanal doğrulanınca açılır). Doğrulama sonrası aynı DataTransfer yöntemiyle `thumb_x.jpg` verilebilir.
 6. Sonraki video için 1'den tekrar. En sonda Content → Shorts ve Videos listelerinde hepsinin **Scheduled** olduğunu kontrol et; "Draft" kalan varsa "Edit draft" ile açıp 4. adımı tekrarla.
 
