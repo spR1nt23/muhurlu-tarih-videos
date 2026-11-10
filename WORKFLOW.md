@@ -60,7 +60,8 @@ await W(800); document.querySelector('#second-container-expand-button').click();
 let date=norm(document.querySelector('#datepicker-trigger').innerText);
 // tarih yanlışsa: #datepicker-trigger tıkla, takvimde .calendar-day (bugün = .calendar-day.today) seç
 document.querySelector('#time-of-day-container input').click(); await W(800);
-const it=[...document.querySelectorAll('tp-yt-paper-item')].filter(e=>e.offsetParent!==null).find(e=>norm(e.innerText)===TIME); it.scrollIntoView(); it.click(); await W(800);
+let it=null; for(let i=0;i<10&&!it;i++){it=[...document.querySelectorAll('tp-yt-paper-item')].filter(e=>e.offsetParent!==null).find(e=>norm(e.innerText)===TIME); if(!it){document.querySelector('#time-of-day-container input').click(); await W(1000);}}
+it.scrollIntoView(); it.click(); await W(800);
 const time=document.querySelector('#time-of-day-container input').value;
 let m=null; if(date===DATE&&norm(time)===TIME){document.querySelector('#done-button').click(); for(let i=0;i<12&&!m;i++){await W(1000); m=document.body.innerText.replace(/\s+/g,' ').match(/Video scheduled.{0,80}|will be set to public on.{0,40}/);}}
 ({date,time,result:m&&m[0]})
@@ -83,4 +84,7 @@ Yazdıktan sonra iki kutunun `innerText`'ini okuyup kontrol et, sonra 4. adımda
 - Tarayıcı başka sohbetlerle ortak: her yüklemeden önce kanalın Mühürlü Tarih olduğunu kontrol et.
 - Tarayıcı Secret Spawn'dayken `.../UCeb67.../content/shorts` doğrudan açılınca "Oops, something went wrong" verir. Önce `studio.youtube.com` aç, profil → Switch account → Mühürlü Tarih; sonra soldaki **Content** menüsüne tıkla ve Shorts sekmesine geç.
 - Görev aynı gün iki kez çalışabilir: `videos/<TARIH>/` varsa önce Studio listelerine bak; dördü de "Scheduled" ise hiçbir şey yükleme.
+- Saat listesi (`tp-yt-paper-item`) bazen 800 ms'de açılmıyor; yukarıdaki JS bu yüzden tekrar deneme döngüsü içeriyor.
+- Tarayıcı paneli gizliyken başlık kutuları bir süre `offsetParent` null kalabiliyor (`__mtFocus` "reading 'focus'" hatası). Bir ekran görüntüsü al, sonra `__mtFocus`'u tekrar çağır.
+- JS içinde 45 sn'den uzun bekleme yapma (araç zaman aşımına düşer). Uzun video planlanınca birkaç dakika "Processing" görünür, sonra Scheduled olur.
 - Doğrulanmamış kanalda günlük yükleme sınırı düşük; sınır uyarısı görürsen dur ve raporla.
