@@ -1,0 +1,12 @@
+{"format":"short","seed":52,"scenes":[
+{"motif":"ruins","heading":"BAĞDAT PİLİ","lines":[
+ {"say":"Bin dokuz yüz otuz altı. Bağdat yakınlarında, antik Ktesifon'un çevresinde küçük bir kil kavanoz bulunuyor.","show":"1936. Bağdat yakınlarında, antik Ktesifon'un çevresinde küçük bir kil kavanoz bulunuyor."},
+ "İçinde bakır bir silindir, silindirin ortasında paslanmış bir demir çubuk var. Ağzı ziftle mühürlenmiş."]},
+{"motif":"document","params":{"stamp":"1938"},"lines":[
+ {"say":"Bin dokuz yüz otuz sekizde Alman araştırmacı Wilhelm König cesur bir iddia ortaya atıyor: bu bir pil!","show":"1938'de Alman araştırmacı Wilhelm König cesur bir iddia ortaya atıyor: bu bir pil!"},
+ "Gerçekten de kopyalarına sirke ya da limon suyu konunca zayıf bir elektrik akımı üretiliyor."]},
+{"motif":"question","lines":[
+ "Ama arkeologların çoğu ikna olmuş değil. Hiç kablo bulunmadı, bakır silindir dışarıya bile çıkmıyor.",
+ "Benzer kavanozlar, içine kutsal yazılar konan saklama kapları olarak açıklanıyor.",
+ "Sence bu kavanoz antik bir pil miydi, yoksa sadece bir sır saklama kabı mı?"]}
+]}

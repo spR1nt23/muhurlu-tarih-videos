@@ -1,0 +1,12 @@
+{"format":"short","seed":53,"scenes":[
+{"motif":"sea","params":{"ship":false},"heading":"TAMAM ŞUD","lines":[
+ {"say":"Bir Aralık, bin dokuz yüz kırk sekiz. Avustralya'da, Adelaide'deki Somerton sahilinde şık giyimli bir adam ölü bulunuyor.","show":"1 Aralık 1948. Avustralya'da, Adelaide'deki Somerton sahilinde şık giyimli bir adam ölü bulunuyor."},
+ "Üzerinde kimlik yok. Kıyafetlerinin etiketleri kesilmiş. Ölüm nedeni bile belirlenemiyor."]},
+{"motif":"parchment","params":{"plant":false},"lines":[
+ "Gizli bir cebinde küçük bir kâğıt parçası var. Üzerinde Farsça iki kelime: Tamam Şud. Yani, bitti.",
+ "Kâğıt, Ömer Hayyam'ın Rubailer kitabından koparılmış. Polis o kitabı aylar sonra buluyor.",
+ "Ve kitabın arka sayfasında, kimsenin çözemediği harflerden oluşan bir şifre var."]},
+{"motif":"seal","lines":[
+ {"say":"İki bin yirmi ikide araştırmacılar DNA ile adamın Melbourne'lü bir mühendis olan Carl Webb olduğunu açıkladı.","show":"2022'de araştırmacılar DNA ile adamın Melbourne'lü bir mühendis olan Carl Webb olduğunu açıkladı."},
+ "Ama şifre hâlâ çözülemedi. Sence o harfler ne anlatıyordu?"]}
+]}

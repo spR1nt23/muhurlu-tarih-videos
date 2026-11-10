@@ -1,0 +1,12 @@
+{"format":"short","seed":51,"scenes":[
+{"motif":"forest","heading":"TUNGUSKA","lines":[
+ {"say":"Otuz Haziran, bin dokuz yüz sekiz. Sibirya'nın ıssız ormanlarının üzerinde gökyüzü yarılıyor.","show":"30 Haziran 1908. Sibirya'nın ıssız ormanlarının üzerinde gökyüzü yarılıyor."},
+ "Kör edici bir ışık, ardından top sesine benzeyen gürlemeler ve dev bir şok dalgası."]},
+{"motif":"year","params":{"year":"1908"},"lines":[
+ {"say":"Yaklaşık iki bin yüz elli kilometrekarelik orman yerle bir oluyor. Seksen milyon ağaç devriliyor.","show":"Yaklaşık 2.150 km² orman yerle bir oluyor. 80 milyon ağaç devriliyor."},
+ "Yüzlerce kilometre uzaktaki evlerin camları kırılıyor."]},
+{"motif":"stars","lines":[
+ {"say":"Ama bölgeye ilk bilimsel sefer ancak bin dokuz yüz yirmi yedide ulaşabiliyor. Ve bir krater bulamıyor.","show":"Ama bölgeye ilk bilimsel sefer ancak 1927'de ulaşabiliyor. Ve bir krater bulamıyor."},
+ "Bugünkü en güçlü açıklama: bir göktaşı ya da kuyrukluyıldız parçası, yere çarpmadan havada patladı.",
+ "Peki aynı şey bugün bir şehrin üzerinde olsaydı ne olurdu?"]}
+]}

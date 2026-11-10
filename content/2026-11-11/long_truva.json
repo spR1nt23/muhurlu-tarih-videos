@@ -1,0 +1,81 @@
+{"format":"long","seed":54,"intro":true,"title_card":"Truva Gerçekten Var mıydı?","scenes":[
+{"motif":"ruins","heading":"TRUVA","lines":[
+ "Bir tahta at, on yıl süren bir kuşatma, uğruna savaşılan bir kraliçe ve yerle bir edilen bir şehir.",
+ "Truva Savaşı, insanlık tarihinin en çok anlatılan hikâyelerinden biri.",
+ "Ama yüzyıllar boyunca pek çok kişi Truva'yı sadece bir efsane, Homeros'un hayal gücünün bir ürünü sandı.",
+ "Oysa bugün Çanakkale'de, Hisarlık denen bir tepede, ziyaretçiler Truva'nın surları arasında yürüyor.",
+ "Peki bu kalıntılar gerçekten Homeros'un anlattığı şehir mi? Ve Truva Savaşı hiç yaşandı mı?"]},
+{"motif":"parchment","heading":"HOMEROS","lines":[
+ {"say":"Hikâyeyi bize ulaştıran, İlyada destanı. Genellikle milattan önce sekizinci yüzyıla tarihleniyor.","show":"Hikâyeyi bize ulaştıran, İlyada destanı. Genellikle MÖ 8. yüzyıla tarihleniyor."},
+ "Destanda Truvalı prens Paris, Spartalı Helene'yi kaçırıyor. Akha ordusu da intikam için Truva'yı kuşatıyor.",
+ "Ünlü tahta at hikâyesi ise aslında İlyada'da yok. O, daha sonraki anlatılardan, özellikle Romalı şair Vergilius'tan geliyor.",
+ "Antik çağda Yunanlar ve Romalılar Truva'nın gerçek olduğuna inanıyordu. Hatta Büyük İskender bölgeyi ziyaret edip kurban sunmuştu.",
+ "Ama Orta Çağ'dan sonra şehrin yeri unutuldu ve Truva, yavaş yavaş bir masala dönüştü."]},
+{"motif":"map","params":{"x":true},"heading":"KAYIP ŞEHRİ ARAMAK","lines":[
+ "On dokuzuncu yüzyılda gezginler ve araştırmacılar Truva'nın yerini bulmak için Çanakkale kıyılarını taradı.",
+ "Bazıları Pınarbaşı yakınlarındaki bir tepeyi işaret ediyordu. Ama bölgede yaşayan İngiliz Frank Calvert farklı düşünüyordu.",
+ {"say":"Calvert, Hisarlık tepesinin bir kısmını satın almış ve bin sekiz yüz altmış beşte burada küçük kazılar yapmıştı.","show":"Calvert, Hisarlık tepesinin bir kısmını satın almış ve 1865'te burada küçük kazılar yapmıştı."},
+ "Tepenin, antik çağda İlion denen şehrin yeri olduğundan emindi. Ama büyük bir kazı için parası yoktu.",
+ "İşte tam bu noktada sahneye zengin ve hırslı bir Alman tüccar çıktı."]},
+{"motif":"year","params":{"year":"1871"},"heading":"SCHLIEMANN","lines":[
+ "Heinrich Schliemann, çocukluğundan beri Truva'yı bulmayı hayal ettiğini anlatıyordu.",
+ {"say":"Calvert'in yönlendirmesiyle bin sekiz yüz yetmişte Hisarlık'ta ilk hendeği açtı. Asıl büyük kazılar bin sekiz yüz yetmiş birde başladı.","show":"Calvert'in yönlendirmesiyle 1870'te Hisarlık'ta ilk hendeği açtı. Asıl büyük kazılar 1871'de başladı."},
+ "Schliemann aceleciydi. Homeros'un şehrinin en altta olduğunu düşündü ve tepenin ortasından dev bir yarık açtı.",
+ "Bu yarık, bugün arkeologların hâlâ hayıflandığı bir tahribata yol açtı. Üstteki pek çok katman bilgi alınmadan yok edildi.",
+ "Ama Schliemann, aradığını bulduğuna inanıyordu."]},
+{"motif":"seal","heading":"PRİAMOS'UN HAZİNESİ","lines":[
+ {"say":"Bin sekiz yüz yetmiş üçte Schliemann altın taçlar, küpeler ve kaplardan oluşan bir hazine bulduğunu duyurdu.","show":"1873'te Schliemann altın taçlar, küpeler ve kaplardan oluşan bir hazine bulduğunu duyurdu."},
+ "Ona Truva'nın efsanevi kralının adını verdi: Priamos'un Hazinesi.",
+ "Ama hazineyi Osmanlı yetkililerinden gizleyerek yurt dışına kaçırdı. Bu da Osmanlı Devleti ile yıllarca süren bir anlaşmazlığa yol açtı.",
+ "Hazinenin bir kısmı İstanbul Arkeoloji Müzeleri'ne verildi. Büyük kısmı ise Berlin'e gitti.",
+ {"say":"İkinci Dünya Savaşı'nın sonunda Berlin'deki parçalar ortadan kayboldu. Yıllar sonra Moskova'daki Puşkin Müzesi'nde oldukları ortaya çıktı.","show":"II. Dünya Savaşı'nın sonunda Berlin'deki parçalar ortadan kayboldu. Yıllar sonra Moskova'daki Puşkin Müzesi'nde oldukları ortaya çıktı."},
+ "Ve işin ironik yanı şu: hazine, Priamos'un yaşadığı varsayılan dönemden bin yıldan fazla daha eskiydi."]},
+{"motif":"pillars","heading":"DOKUZ ŞEHİR","lines":[
+ "Çünkü Hisarlık tek bir şehir değil. Üst üste kurulmuş şehirlerden oluşan bir tepe.",
+ "Her şehir yıkıldığında, yenisi onun kalıntıları üzerine inşa edildi. Böylece tepe, binlerce yılda katman katman yükseldi.",
+ "Arkeologlar bu katmanları Truva Bir'den Truva Dokuz'a kadar numaralandırıyor.",
+ {"say":"En alttaki Truva Bir, yaklaşık milattan önce üç binlere tarihleniyor. En üstteki Truva Dokuz ise Roma dönemi İlion'u.","show":"En alttaki Truva I, yaklaşık MÖ 3000'lere tarihleniyor. En üstteki Truva IX ise Roma dönemi İlion'u."},
+ "Schliemann'ın hazinesi, Truva İki denen çok eski bir katmandan çıkmıştı. Homeros'un anlattığı dönemle ilgisi yoktu.",
+ {"say":"Daha sonra Wilhelm Dörpfeld ve Carl Blegen'in kazıları, şehrin en az dokuz ana katmanı olduğunu ve onlarca alt evreye ayrıldığını gösterdi.","show":"Daha sonra Wilhelm Dörpfeld ve Carl Blegen'in kazıları, şehrin en az 9 ana katmanı olduğunu ve onlarca alt evreye ayrıldığını gösterdi."}]},
+{"motif":"hourglass","heading":"HANGİ TRUVA?","lines":[
+ "Peki bu katmanlardan hangisi Homeros'un Truva'sı olabilir? Gözler iki adaya çevrildi: Truva Altı ve Truva Yedi A.",
+ {"say":"Truva Altı, Tunç Çağı'nın güçlü ve zengin bir şehriydi. Etkileyici surları vardı. Ama yaklaşık milattan önce bin üç yüzlerde büyük hasar gördü.","show":"Truva VI, Tunç Çağı'nın güçlü ve zengin bir şehriydi. Etkileyici surları vardı. Ama yaklaşık MÖ 1300'lerde büyük hasar gördü."},
+ "Çöken duvarlar ve kaymalar, birçok araştırmacıya bir depremi düşündürüyor. Yangın izi ya da savaş kurbanı bulunmadı.",
+ {"say":"Onun yerine kurulan Truva Yedi A ise yaklaşık milattan önce bin yüz seksenlerde yıkıldı. Bu kez yangın izleri ve saldırı belirtileri var.","show":"Onun yerine kurulan Truva VIIa ise yaklaşık MÖ 1180'lerde yıkıldı. Bu kez yangın izleri ve saldırı belirtileri var."},
+ "Bu tarih, antik Yunan yazarlarının Truva Savaşı için verdiği tarihlere şaşırtıcı derecede yakın."]},
+{"motif":"document","params":{"stamp":"WİLUSA"},"heading":"HİTİT ARŞİVLERİ","lines":[
+ "Truva gizeminin en heyecan verici ipuçlarından biri Yunanistan'dan değil, Anadolu'nun içlerinden, Hitit başkenti Hattuşa'dan geldi.",
+ "Hattuşa'da bulunan kil tabletlerde, batı Anadolu'da Wilusa adında bir krallıktan söz ediliyor.",
+ "Pek çok dilbilimci Wilusa'nın, Yunanca İlion adının eski biçimi olduğunu düşünüyor. Bugün Truva Altı ve Yedi genellikle Wilusa ile eşleştiriliyor.",
+ "Tabletlerden birinde, Wilusa kralı Alaksandu ile Hitit kralı arasında yapılmış bir antlaşma var.",
+ "Alaksandu adı, İlyada'da Paris'in diğer adı olan Aleksandros'a çok benziyor. Bu bir tesadüf mü, yoksa efsanenin içinde saklı bir gerçek mi?",
+ "Bazı Hitit metinlerinde Wilusa yüzünden çıkan anlaşmazlıklardan da söz ediliyor. Ama hiçbiri Homeros'un anlattığı savaşı birebir doğrulamıyor."]},
+{"motif":"mountains","heading":"AŞAĞI ŞEHİR","lines":[
+ {"say":"Bin dokuz yüz seksen sekizde Alman arkeolog Manfred Korfmann yönetiminde yeni bir kazı dönemi başladı.","show":"1988'de Alman arkeolog Manfred Korfmann yönetiminde yeni bir kazı dönemi başladı."},
+ "Korfmann'ın ekibi modern yöntemlerle, kalenin dışında, tepenin eteklerindeki toprağı inceledi.",
+ "Ve büyük bir sürpriz ortaya çıktı: kalenin çevresinde, hendekle korunan geniş bir aşağı şehir vardı.",
+ "Bu keşif, Tunç Çağı Truva'sının sanılandan çok daha büyük ve önemli bir yerleşim olduğunu gösterdi.",
+ "Ama aşağı şehrin ne kadar kalabalık olduğu ve ne kadar önemli olduğu, arkeologlar arasında hâlâ tartışılıyor."]},
+{"motif":"sea","params":{"ship":true},"heading":"BOĞAZIN BEKÇİSİ","lines":[
+ "Truva'nın konumu, onun neden bu kadar önemli olduğunu açıklıyor olabilir.",
+ "Şehir, Ege'yi Karadeniz'e bağlayan yolun girişinde, Çanakkale Boğazı'nın hemen yakınındaydı.",
+ "Antik çağda boğazdan geçen gemiler, rüzgâr ve akıntı yüzünden çoğu zaman burada beklemek zorunda kalıyordu.",
+ "Böyle bir yeri kontrol eden şehir, ticaretten pay alır ve zenginleşirdi. Bazı araştırmacılara göre bu durum, kıskançlık ve savaş için yeterli bir sebepti.",
+ "Yine de bu, şimdilik akla yatkın bir tahmin. Kanıtlanmış bir gerçek değil."]},
+{"motif":"question","heading":"PEKİ SAVAŞ?","lines":[
+ "Şimdi asıl soruya dönelim. Truva Savaşı gerçekten yaşandı mı?",
+ "Bugün çoğu arkeolog, Hisarlık'taki şehrin antik Truva, yani İlion olduğunu kabul ediyor. Bu konuda büyük bir şüphe yok.",
+ "Ama Homeros'un anlattığı on yıllık kuşatmayı, Akhilleus'u ya da tahta atı doğrulayan bir yazıt veya kesin bir kanıt bulunmuş değil.",
+ "Bazı tarihçiler destanın, Tunç Çağı'nda bölgede yaşanmış gerçek çatışmaların yüzyıllar içinde birleşip büyütülmüş bir hatırası olduğunu düşünüyor.",
+ "Bazıları ise Truva Savaşı'nı tamamen bir şiirsel kurgu olarak görüyor. Tartışma hâlâ sürüyor."]},
+{"motif":"ruins","heading":"BUGÜNKÜ TRUVA","lines":[
+ {"say":"Truva antik kenti, bin dokuz yüz doksan sekizde UNESCO Dünya Mirası Listesi'ne girdi.","show":"Truva antik kenti, 1998'de UNESCO Dünya Mirası Listesi'ne girdi."},
+ {"say":"İki bin on sekizde kazı alanının hemen yakınında Troya Müzesi açıldı.","show":"2018'de kazı alanının hemen yakınında Troya Müzesi açıldı."},
+ "Bugün Hisarlık'ta yürürken, beş bin yıla yayılan şehirlerin katmanlarını tek bir bakışta görebiliyorsunuz.",
+ "Kazılar hâlâ devam ediyor ve her sezon yeni sorular ortaya çıkıyor."]},
+{"motif":"question","lines":[
+ "Truva gerçekten vardı. Bunu artık biliyoruz.",
+ "Ama Helene, Akhilleus ve tahta at, tarihin mi yoksa şiirin mi parçası? İşte bu mühür hâlâ tam olarak açılmadı.",
+ "Sence Truva Savaşı gerçek bir savaşın hatırası mı, yoksa sadece güzel bir efsane mi? Yorumlarda yaz.",
+ "Bir sonraki mührü birlikte açmak için abone olmayı unutma. Mühürlü Tarih'te görüşmek üzere."]}
+]}
