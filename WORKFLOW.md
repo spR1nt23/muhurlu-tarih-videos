@@ -3,16 +3,16 @@
 Kanal: Mühürlü Tarih (@muhurlu_tarih) · Kanal kimliği: `UCeb67GPB2yhPnIcxO_jUXsA`
 Google hesabı: **selinarica.2007** (Secret Spawn ile aynı hesap). Dil: Türkçe. Saat dilimi: Europe/Istanbul (Studio GMT+03:00).
 
-## Her gün: 3 Shorts + 1 uzun video
+## Günlük plan (2026-11-11'den itibaren)
 
-| Video | Yayın saati |
-|---|---|
-| Shorts 1 | 12:30 |
-| Shorts 2 | 17:30 |
-| Uzun video (5–8 dk) | 20:00 |
-| Shorts 3 | 21:30 |
+Uzun videolar az izlendiği için uzun video **haftada 3 gün**: hedef tarih **Pazartesi, Çarşamba veya Cumartesi** ise.
 
-Görev her akşam 22:37 (İstanbul) çalışır ve **ertesi günün** videolarını üretip ertesi güne planlar. Tarih seçiciden doğru günü seçmeyi unutma.
+| Hedef gün | 12:30 | 17:30 | 20:00 | 21:30 |
+|---|---|---|---|---|
+| Pzt / Çar / Cmt | Shorts | Shorts | **Uzun video (5–8 dk)** | Shorts |
+| Diğer günler | Shorts | Shorts | **Shorts** | Shorts |
+
+Görev her akşam 22:37 (İstanbul) çalışır ve **ertesi günün** videolarını üretip ertesi güne planlar. Tarih seçiciden doğru günü seçmeyi unutma. Hedef günün hangi gün olduğunu `date -d tomorrow +%A` (TZ=Europe/Istanbul) ile kontrol et.
 
 ## 1. Kurulum (her oturumda)
 ```bash
