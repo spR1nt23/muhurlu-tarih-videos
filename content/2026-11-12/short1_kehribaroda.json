@@ -1,0 +1,13 @@
+{"format":"short","seed":51,"scenes":[
+{"motif":"ruins","heading":"KAYIP KEHRİBAR ODA","lines":[
+ "Duvarları tonlarca kehribar, altın varak ve aynalarla kaplı bir oda düşün. Ona dünyanın sekizinci harikası diyorlardı.",
+ "Prusya'da yapıldı, Rus çarına hediye edildi ve Sankt Petersburg yakınındaki Katerina Sarayı'na yerleştirildi."]},
+{"motif":"document","params":{"stamp":"1941"},"lines":[
+ {"say":"Bin dokuz yüz kırk birde Nazi askerleri sarayı ele geçirdi ve odayı otuz altı saatte söküp sandıklara koydu.","show":"1941'de Nazi askerleri sarayı ele geçirdi ve odayı 36 saatte söküp sandıklara koydu."},
+ "Oda Königsberg Şatosu'nda yeniden kuruldu ve sergilendi.",
+ {"say":"Sonra şehir önce bombalandı, bin dokuz yüz kırk beşte de Kızıl Ordu kapıya dayandı. Ve kehribar oda ortadan kayboldu.","show":"Sonra şehir önce bombalandı, 1945'te de Kızıl Ordu kapıya dayandı. Ve kehribar oda ortadan kayboldu."}]},
+{"motif":"question","lines":[
+ "Sovyet raporuna göre oda, şatoyla birlikte yanarak yok oldu.",
+ "Ama bazıları hâlâ bir madende, gizli bir sığınakta ya da batık bir gemide saklı olduğuna inanıyor.",
+ "Bugün sarayda bir kopyası var. Asıl oda yandı mı, yoksa hâlâ bir yerde mi? Sence?"]}
+]}

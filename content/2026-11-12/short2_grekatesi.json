@@ -1,0 +1,13 @@
+{"format":"short","seed":52,"scenes":[
+{"motif":"sea","heading":"GREK ATEŞİ","lines":[
+ "Suyun üstünde bile sönmeyen bir ateş. Bizans'ın en büyük sırrı buydu.",
+ {"say":"Yedinci yüzyılda Arap donanması İstanbul'u kuşattığında, Bizans gemileri bu sıvıyı borulardan düşman gemilerine püskürttü.","show":"7. yüzyılda Arap donanması İstanbul'u kuşattığında, Bizans gemileri bu sıvıyı borulardan düşman gemilerine püskürttü."}]},
+{"motif":"parchment","params":{"plant":false},"lines":[
+ "Kaynaklara göre silahı Kallinikos adında, Suriye'den kaçıp gelen bir mimar geliştirdi.",
+ "Tarif bir devlet sırrı olarak saklandı. Bir imparator, oğluna bu sırrı asla yabancılara vermemesini yazdı.",
+ "Sır o kadar iyi korundu ki, sonunda tarifin kendisi de kayboldu."]},
+{"motif":"question","lines":[
+ "Bugün kimse içinde tam olarak ne olduğunu bilmiyor. Ham petrol, reçine, kükürt, sönmemiş kireç gibi tahminler var.",
+ "Ama denemelerin hiçbiri tam olarak aynı silahı yeniden yaratamadı.",
+ "Sence Grek ateşinin sırrı neydi?"]}
+]}
