@@ -9,7 +9,7 @@ Uzun videolar az izlendiği için uzun video **haftada 3 gün**: hedef tarih **P
 
 | Hedef gün | 12:30 | 17:30 | 20:00 | 21:30 |
 |---|---|---|---|---|
-| Pzt / Çar / Cmt | Shorts | Shorts | **Uzun video (5–8 dk)** | Shorts |
+| Pzt / Çar / Cmt | Shorts | Shorts | **Uzun video (3–4 dk)** | Shorts |
 | Diğer günler | Shorts | Shorts | **Shorts** | Shorts |
 
 Görev her akşam 22:37 (İstanbul) çalışır ve **ertesi günün** videolarını üretip ertesi güne planlar. Tarih seçiciden doğru günü seçmeyi unutma. Hedef günün hangi gün olduğunu `date -d tomorrow +%A` (TZ=Europe/Istanbul) ile kontrol et.
@@ -25,7 +25,7 @@ bash /home/claude/muhurlu-tarih-videos/tools/setup.sh
 ## 2. Konu seç
 - `TOPICS.md` dosyasına bak; **daha önce işlenen konuyu tekrar etme**.
 - Shorts: tek bir çarpıcı gizem, 30–55 sn. İlk cümle kanca olsun, son cümle izleyiciye soru sorsun.
-- Uzun video: 5–8 dk (yaklaşık 60–70 cümle, 8–10 sahne). Türk izleyicinin ilgisini çekecek konuları sık seç (Osmanlı, Anadolu, Bizans, Selçuklu gizemleri) ama dünya gizemleri de olur.
+- Uzun video: 3–4 dk (yaklaşık 30–38 cümle, 5–6 sahne). Daha uzun yapma: kısa ve sıkı anlatım, sahne başına 5–7 cümle. Türk izleyicinin ilgisini çekecek konuları sık seç (Osmanlı, Anadolu, Bizans, Selçuklu gizemleri) ama dünya gizemleri de olur.
 - **Gerçekleri web aramasıyla doğrula.** Tartışmalı konularda farklı görüşleri dürüstçe ver; uydurma rakam, alıntı, tarih yok. Komplo teorilerini gerçek gibi sunma.
 
 ## 3. Spec yaz ve render et
