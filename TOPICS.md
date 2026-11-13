@@ -16,6 +16,10 @@
 | 2026-11-11 | Uzun | Truva gerçekten var mıydı? (Hisarlık, Schliemann, Wilusa) |
 | 2026-11-12 | Shorts | Kayıp Kehribar Oda |
 | 2026-11-12 | Shorts | Grek ateşi |
+| 2026-11-14 | Shorts | Rongorongo yazısı |
+| 2026-11-14 | Shorts | Kayıp 9. Lejyon |
+| 2026-11-14 | Shorts | D. B. Cooper |
+| 2026-11-14 | Uzun | Hititler neden yok oldu? (Hattuşa, Kadeş, kuraklık, Deniz Kavimleri) |
 
 ## Konu havuzu (fikir)
-Nazca çizgileri · Sümela'nın sırları · Topkapı'daki Kaşıkçı Elmas efsanesi · Hattuşa'nın çöküşü (Tunç Çağı çöküşü) · Kayıp Kral Midas hazinesi · Cem Sultan'ın ölümü · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Kayıp 9. Lejyon · Franklin seferi · Oak Island · Zodiac şifresi · D. B. Cooper · Kaspar Hauser · Kayıp Atlantis efsanesinin kaynağı · Rongorongo yazısı · Linear A · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Sardes'te Lidya altını · Efes'in Yedi Uyurlar mağarası · Hasankeyf · Nemrut Dağı · Şahmeran efsanesi
+Nazca çizgileri · Sümela'nın sırları · Topkapı'daki Kaşıkçı Elmas efsanesi · Kayıp Kral Midas hazinesi · Cem Sultan'ın ölümü · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Franklin seferi · Oak Island · Zodiac şifresi · Kaspar Hauser · Kayıp Atlantis efsanesinin kaynağı · Linear A · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Sardes'te Lidya altını · Efes'in Yedi Uyurlar mağarası · Hasankeyf · Nemrut Dağı · Şahmeran efsanesi

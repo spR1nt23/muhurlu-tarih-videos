@@ -1,0 +1,13 @@
+{"format":"short","seed":62,"scenes":[
+{"motif":"forest","heading":"9. LEJYON","lines":[
+ "Beş bin kişilik bir Roma lejyonu, tarihin sayfalarından sessizce siliniyor.",
+ {"say":"Dokuzuncu Lejyon Hispana, Britanya'da Roma'nın en tecrübeli birliklerinden biriydi.","show":"9. Lejyon Hispana, Britanya'da Roma'nın en tecrübeli birliklerinden biriydi."}]},
+{"motif":"year","params":{"year":"108"},"lines":[
+ {"say":"Britanya'daki son kesin izi, York'ta bulunan ve milattan sonra yüz sekize tarihlenen bir yazıt.","show":"Britanya'daki son kesin izi, York'ta bulunan ve MS 108'e tarihlenen bir yazıt."},
+ "Birkaç on yıl sonra Roma'nın lejyon listelerinde artık adı geçmiyor."]},
+{"motif":"map","params":{"x":true},"lines":[
+ "Ünlü teoriye göre lejyon İskoçya'nın sisli dağlarında pusuya düşüp yok oldu.",
+ "Ama Hollanda'da bulunan damgalı tuğlalar, birliğin bir kısmının Ren kıyısına taşındığını gösteriyor.",
+ "Belki de doğuda, Yahudi isyanında ya da Part savaşında son buldu.",
+ "Sence beş bin asker nasıl iz bırakmadan kaybolur?"]}
+]}

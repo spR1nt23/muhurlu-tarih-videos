@@ -1,0 +1,13 @@
+{"format":"short","seed":61,"scenes":[
+{"motif":"sea","params":{"ship":false},"heading":"RONGORONGO","lines":[
+ "Okyanusun ortasında bir ada ve kimsenin okuyamadığı bir yazı.",
+ "Paskalya Adası'nın dev taş heykellerini herkes bilir. Ama adanın asıl sırrı tahta tabletlerde saklı."]},
+{"motif":"document","heading":"OKUNAMAYAN İŞARETLER","lines":[
+ "Rongorongo denen bu yazıda balıklar, kuşlar ve insan figürleri satır satır diziliyor.",
+ "Satırlar bir soldan sağa, bir sağdan sola akıyor. Okumak için tableti her satırda ters çevirmek gerekiyor.",
+ {"say":"Bugün elimizde yalnızca yirmi küsur yazılı tahta parça var.","show":"Bugün elimizde yalnızca 20 küsur yazılı tahta parça var."}]},
+{"motif":"hourglass","lines":[
+ {"say":"Bin sekiz yüz altmışlarda köle baskınları ve salgınlar adanın nüfusunu neredeyse yok etti. Yazıyı bilenler de onlarla birlikte gitti.","show":"1860'larda köle baskınları ve salgınlar adanın nüfusunu neredeyse yok etti. Yazıyı bilenler de onlarla birlikte gitti."},
+ "Kimi araştırmacılar bu yazının Avrupalıları gördükten sonra icat edildiğini düşünüyor. Yeni tarihleme çalışmaları ise daha eski olabileceğini gösteriyor.",
+ "Sence bu işaretler gerçek bir dil mi, yoksa sadece hafızaya yardımcı semboller mi?"]}
+]}

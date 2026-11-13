@@ -1,0 +1,13 @@
+{"format":"short","seed":63,"scenes":[
+{"motif":"stars","heading":"D. B. COOPER","lines":[
+ {"say":"Yirmi dört Kasım, bin dokuz yüz yetmiş bir. Bir yolcu, uçuş görevlisine bir not uzatıyor.","show":"24 Kasım 1971. Bir yolcu, uçuş görevlisine bir not uzatıyor."},
+ "Notta tek bir cümle var: Çantamda bomba var."]},
+{"motif":"document","params":{"stamp":"FBI"},"lines":[
+ {"say":"Kendine Dan Cooper diyen adam iki yüz bin dolar ve dört paraşüt istiyor.","show":"Kendine Dan Cooper diyen adam 200.000 dolar ve 4 paraşüt istiyor."},
+ "Seattle'da yolcuları bırakıyor, parayı alıyor ve uçak yeniden havalanıyor.",
+ "Gece karanlığında, yağmurun altında arka merdiveni açıyor ve atlıyor."]},
+{"motif":"forest","lines":[
+ {"say":"Dokuz yıl sonra Columbia Nehri kıyısında bir çocuk, çürümüş yirmi dolarlık banknotlar buluyor. Seri numaraları fidye parasıyla eşleşiyor.","show":"9 yıl sonra Columbia Nehri kıyısında bir çocuk, çürümüş 20 dolarlık banknotlar buluyor. Seri numaraları fidye parasıyla eşleşiyor."},
+ {"say":"Ama Cooper'dan başka hiçbir iz yok. FBI aktif soruşturmayı iki bin on altıda kapattı.","show":"Ama Cooper'dan başka hiçbir iz yok. FBI aktif soruşturmayı 2016'da kapattı."},
+ "Sence o gece atlayışı sağ atlattı mı?"]}
+]}
