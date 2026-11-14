@@ -1,0 +1,13 @@
+{"format":"short","seed":72,"scenes":[
+{"motif":"seal","heading":"CEM SULTAN","lines":[
+ "Fatih'in oğlu, ömrünün son on üç yılını Avrupa'da bir esir olarak geçirdi.",
+ {"say":"Bin dört yüz seksen birde Fatih Sultan Mehmet ölünce, oğulları Bayezid ile Cem taht için savaştı.","show":"1481'de Fatih Sultan Mehmet ölünce, oğulları Bayezid ile Cem taht için savaştı."}]},
+{"motif":"sea","params":{"ship":true},"heading":"ALTIN KARŞILIĞI ESİR","lines":[
+ "Kaybeden Cem, Rodos şövalyelerine sığındı. Ama misafir değil, pazarlık kozu oldu.",
+ "Sultan Bayezid, kardeşini tutsak tutsunlar diye her yıl büyük miktarda altın ödedi.",
+ "Cem önce Fransa'da kalelerde tutuldu, sonra Roma'da Papa'ya teslim edildi."]},
+{"motif":"hourglass","lines":[
+ {"say":"Bin dört yüz doksan beşte Fransız kralının yanında, Napoli'de aniden öldü.","show":"1495'te Fransız kralının yanında, Napoli'de aniden öldü."},
+ "Papa'nın onu zehirlettiği söylendi. Birçok tarihçi ise ölümün bir hastalıktan olduğunu düşünüyor.",
+ "Naaşı yıllar sonra Bursa'ya getirildi. Sence Cem Sultan zehirlendi mi?"]}
+]}

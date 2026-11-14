@@ -1,0 +1,13 @@
+{"format":"short","seed":74,"scenes":[
+{"motif":"map","params":{"x":0.3},"heading":"NAZCA ÇİZGİLERİ","lines":[
+ "Yerden bakınca sadece taşlı bir çöl görürsün. Havadan bakınca ise dev bir sinek kuşu.",
+ "Peru'daki Nazca çölünde yüzlerce çizgi, geometrik şekil ve hayvan figürü yere kazınmış."]},
+{"motif":"stars","heading":"KİM, NEDEN?","lines":[
+ {"say":"Bunları yaklaşık iki bin yıl önce Nazca halkı, koyu renkli taşları kenara çekerek yaptı.","show":"Bunları yaklaşık 2.000 yıl önce Nazca halkı, koyu renkli taşları kenara çekerek yaptı."},
+ "Maymun, örümcek, balina... Bazıları o kadar büyük ki tamamı ancak yukarıdan görülebiliyor.",
+ "Bir görüşe göre bir gök takvimiydi. Bir başkasına göre su ve bereket için yürünen tören yollarıydı."]},
+{"motif":"question","lines":[
+ "Son yıllarda yapay zekâ destekli taramalarla yüzlerce yeni figür bulundu.",
+ "Ama asıl soru hâlâ cevapsız: Hiç göremeyecekleri resimleri neden çizdiler?",
+ "Sence bu çizgiler kimin için yapıldı?"]}
+]}

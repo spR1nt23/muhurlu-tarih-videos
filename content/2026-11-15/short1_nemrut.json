@@ -1,0 +1,13 @@
+{"format":"short","seed":71,"scenes":[
+{"motif":"mountains","heading":"NEMRUT DAĞI","lines":[
+ "Bir kral, kendi mezarını bir dağın tepesine sakladı. Ve onu hâlâ kimse bulamadı.",
+ {"say":"Adıyaman'da, iki bin metreyi aşan Nemrut Dağı'nın zirvesinde, insan eliyle yığılmış devasa bir taş tepesi yükseliyor.","show":"Adıyaman'da, 2.000 metreyi aşan Nemrut Dağı'nın zirvesinde, insan eliyle yığılmış devasa bir taş tepesi yükseliyor."}]},
+{"motif":"ruins","heading":"KOMMAGENE KRALI","lines":[
+ {"say":"Bu tümülüsü milattan önce birinci yüzyılda Kommagene Kralı Birinci Antiokhos yaptırdı.","show":"Bu tümülüsü MÖ 1. yüzyılda Kommagene Kralı I. Antiokhos yaptırdı."},
+ "Etrafına tanrılarla yan yana oturan kendi dev heykellerini dizdirdi. Bugün o devlerin başları yerde duruyor.",
+ "Yazıtında, bedeninin burada sonsuza dek dinleneceğini söylüyor."]},
+{"motif":"question","lines":[
+ "Ama onlarca yıllık araştırmaya rağmen, küçük çakıl taşlarından oluşan bu tepenin altında bir mezar odasına ulaşılamadı.",
+ "Gevşek taşlar kazıyı çok tehlikeli kılıyor. Mezar belki tepenin altında, belki hiç orada değil.",
+ "Sence Antiokhos gerçekten bu dağın içinde mi yatıyor?"]}
+]}

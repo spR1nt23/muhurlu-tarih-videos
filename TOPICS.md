@@ -20,6 +20,10 @@
 | 2026-11-14 | Shorts | Kayıp 9. Lejyon |
 | 2026-11-14 | Shorts | D. B. Cooper |
 | 2026-11-14 | Uzun | Hititler neden yok oldu? (Hattuşa, Kadeş, kuraklık, Deniz Kavimleri) |
+| 2026-11-15 | Shorts | Nemrut Dağı (Antiokhos'un bulunamayan mezarı) |
+| 2026-11-15 | Shorts | Cem Sultan'ın esareti ve ölümü |
+| 2026-11-15 | Shorts | Franklin seferi (Erebus ve Terror) |
+| 2026-11-15 | Shorts | Nazca çizgileri |
 
 ## Konu havuzu (fikir)
-Nazca çizgileri · Sümela'nın sırları · Topkapı'daki Kaşıkçı Elmas efsanesi · Kayıp Kral Midas hazinesi · Cem Sultan'ın ölümü · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Franklin seferi · Oak Island · Zodiac şifresi · Kaspar Hauser · Kayıp Atlantis efsanesinin kaynağı · Linear A · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Sardes'te Lidya altını · Efes'in Yedi Uyurlar mağarası · Hasankeyf · Nemrut Dağı · Şahmeran efsanesi
+Sümela'nın sırları · Topkapı'daki Kaşıkçı Elmas efsanesi · Kayıp Kral Midas hazinesi · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Oak Island · Zodiac şifresi · Kaspar Hauser · Kayıp Atlantis efsanesinin kaynağı · Linear A · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Sardes'te Lidya altını · Efes'in Yedi Uyurlar mağarası · Hasankeyf · Şahmeran efsanesi

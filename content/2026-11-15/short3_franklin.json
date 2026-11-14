@@ -1,0 +1,13 @@
+{"format":"short","seed":73,"scenes":[
+{"motif":"sea","params":{"ship":true},"heading":"FRANKLIN SEFERİ","lines":[
+ {"say":"Bin sekiz yüz kırk beşte iki İngiliz gemisi Kuzey Kutbu'na doğru yola çıktı ve bir daha geri dönmedi.","show":"1845'te iki İngiliz gemisi Kuzey Kutbu'na doğru yola çıktı ve bir daha geri dönmedi."},
+ {"say":"Erebus ve Terror gemilerinde yüz yirmi dokuz kişi vardı. Hedef, efsanevi Kuzeybatı Geçidi'ydi.","show":"Erebus ve Terror gemilerinde 129 kişi vardı. Hedef, efsanevi Kuzeybatı Geçidi'ydi."}]},
+{"motif":"document","heading":"BUZDAKİ NOT","lines":[
+ "Gemiler buzlara hapsoldu. Yıllar sonra bulunan kısa bir not, Franklin'in öldüğünü yazıyordu.",
+ "Hayatta kalanlar gemileri terk edip buzun üzerinde yürümeye başlamıştı. Hiçbiri kurtulamadı.",
+ "İnuitlerin anlattıkları ve kemiklerdeki kesik izleri, son günlerin ne kadar korkunç geçtiğini gösteriyor."]},
+{"motif":"question","lines":[
+ {"say":"Gemilerin enkazı ancak iki bin on dört ve iki bin on altıda bulundu.","show":"Gemilerin enkazı ancak 2014 ve 2016'da bulundu."},
+ "Konserve kutularından kurşun zehirlenmesi mi, açlık mı, iskorbüt mü? Tartışma hâlâ sürüyor.",
+ "Sence yüz yirmi dokuz kişiyi asıl öldüren neydi?"]}
+]}
