@@ -1,0 +1,12 @@
+{"format":"short","seed":83,"scenes":[
+{"motif":"parchment","heading":"ZODIAC ŞİFRESİ","lines":[
+ "Bir katil, gazetelere şifreli mektuplar gönderdi ve polisle alay etti.",
+ {"say":"Bin dokuz yüz altmışların sonunda Kaliforniya'da cinayetler işleyen kişi kendine Zodiac diyordu.","show":"1960'ların sonunda Kaliforniya'da cinayetler işleyen kişi kendine Zodiac diyordu."}]},
+{"motif":"document","params":{"stamp":"340"},"heading":"51 YIL","lines":[
+ {"say":"Üç yüz kırk sembollük şifresi, elli bir yıl boyunca çözülemedi.","show":"340 sembollük şifresi, 51 yıl boyunca çözülemedi."},
+ {"say":"İki bin yirmide üç amatör şifre meraklısı, bilgisayar desteğiyle sembollerin okunma sırasını buldu ve şifreyi çözdü.","show":"2020'de 3 amatör şifre meraklısı, bilgisayar desteğiyle sembollerin okunma sırasını buldu ve şifreyi çözdü."},
+ "FBI çözümü doğruladı. Ama mesajda katilin adı yoktu."]},
+{"motif":"question","lines":[
+ "Zodiac hiçbir zaman resmen teşhis edilmedi. Bazı kısa şifreleri ise hâlâ tartışılıyor.",
+ "Sence Zodiac'ın kimliği bir gün ortaya çıkacak mı?"]}
+]}

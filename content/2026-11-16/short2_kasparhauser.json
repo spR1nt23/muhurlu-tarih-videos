@@ -1,0 +1,13 @@
+{"format":"short","seed":82,"scenes":[
+{"motif":"forest","heading":"KASPAR HAUSER","lines":[
+ {"say":"Bin sekiz yüz yirmi sekiz yılında Nürnberg sokaklarında, elinde bir mektupla bir genç belirdi.","show":"1828'de Nürnberg sokaklarında, elinde bir mektupla bir genç belirdi."},
+ "Neredeyse konuşamıyor, adını bile zor yazabiliyordu."]},
+{"motif":"hourglass","heading":"KARANLIK HÜCRE","lines":[
+ "Sonradan anlattığına göre yıllarca karanlık bir hücrede, kimseyi görmeden tutulmuştu.",
+ "Kısa sürede Avrupa'nın en çok konuşulan gizemi oldu. Bir söylentiye göre Baden hanedanından kaçırılmış bir prensti.",
+ {"say":"Bin sekiz yüz otuz üçte bıçaklandı ve birkaç gün sonra öldü.","show":"1833'te bıçaklandı ve birkaç gün sonra öldü."}]},
+{"motif":"question","lines":[
+ {"say":"İki bin yirmi dörtte yapılan DNA analizi, Baden hanedanıyla anne soyu bağını dışladı.","show":"2024'te yapılan DNA analizi, Baden hanedanıyla anne soyu bağını dışladı."},
+ "Yani prens değildi. Ama kim olduğu hâlâ bilinmiyor.",
+ "Sence Kaspar Hauser kimdi?"]}
+]}

@@ -24,6 +24,10 @@
 | 2026-11-15 | Shorts | Cem Sultan'ın esareti ve ölümü |
 | 2026-11-15 | Shorts | Franklin seferi (Erebus ve Terror) |
 | 2026-11-15 | Shorts | Nazca çizgileri |
+| 2026-11-16 | Shorts | Yedi Uyurlar / Ashab-ı Kehf mağarası |
+| 2026-11-16 | Shorts | Kaspar Hauser |
+| 2026-11-16 | Shorts | Zodiac şifresi (Z340) |
+| 2026-11-16 | Uzun | Kral Midas gerçek miydi? (Gordion, Tümülüs MM, Mita, cenaze ziyafeti) |
 
 ## Konu havuzu (fikir)
-Sümela'nın sırları · Topkapı'daki Kaşıkçı Elmas efsanesi · Kayıp Kral Midas hazinesi · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Oak Island · Zodiac şifresi · Kaspar Hauser · Kayıp Atlantis efsanesinin kaynağı · Linear A · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Sardes'te Lidya altını · Efes'in Yedi Uyurlar mağarası · Hasankeyf · Şahmeran efsanesi
+Sümela'nın sırları · Topkapı'daki Kaşıkçı Elmas efsanesi · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Oak Island · Kayıp Atlantis efsanesinin kaynağı · Linear A · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Sardes'te Lidya altını · Hasankeyf · Şahmeran efsanesi

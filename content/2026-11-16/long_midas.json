@@ -1,0 +1,53 @@
+{
+"format": "long",
+"seed": 91,
+"intro": true,
+"title_card": "Kral Midas Gerçek miydi?",
+"scenes": [
+{"motif": "parchment", "heading": "ALTIN DOKUNUŞ", "lines": [
+"Dokunduğu her şeyi altına çeviren bir kral. Bu hikâyeyi neredeyse herkes bilir.",
+"Yunan efsanesine göre tanrı Dionysos, Kral Midas'a bir dilek hakkı verdi. Midas, dokunduğu her şeyin altın olmasını istedi.",
+"Ama ekmeği de suyu da altına dönüşünce, armağanın bir lanet olduğunu anladı.",
+"Kurtulmak için Sardes yakınlarındaki Paktolos Irmağı'nda yıkandı. Antik yazarlara göre bu ırmak o günden sonra altın taşıdı.",
+"Peki bu masalın arkasında gerçek bir kral var mı? Cevap, Ankara'nın hemen yanında saklı."
+]},
+{"motif": "ruins", "heading": "GORDİON", "lines": [
+"Ankara'nın Polatlı ilçesinde, Yassıhüyük köyünün yanında Frigya'nın başkenti Gordion'un kalıntıları uzanıyor.",
+{"say": "Frigler, milattan önce birinci binyılda Orta Anadolu'da güçlü bir krallık kurdu.", "show": "Frigler, MÖ 1. binyılda Orta Anadolu'da güçlü bir krallık kurdu."},
+{"say": "Gordion, iki bin yirmi üçte UNESCO Dünya Mirası Listesi'ne girdi.", "show": "Gordion, 2023'te UNESCO Dünya Mirası Listesi'ne girdi."},
+"Ünlü Gordion düğümü de buradan geliyor. Efsaneye göre bu düğümü çözen Asya'ya hükmedecekti.",
+{"say": "Milattan önce üç yüz otuz üçte Büyük İskender buraya geldi. Anlatıların çoğuna göre düğümü kılıcıyla kesti.", "show": "MÖ 333'te Büyük İskender buraya geldi. Anlatıların çoğuna göre düğümü kılıcıyla kesti."}
+]},
+{"motif": "document", "params": {"stamp": "MITA"}, "heading": "ASUR KAYITLARI", "lines": [
+"Midas'ın gerçek olduğuna dair en güçlü kanıt, beklenmedik bir yerden geliyor: Asur kayıtlarından.",
+{"say": "Milattan önce sekizinci yüzyılın sonunda Asur kralı İkinci Sargon, yazıtlarında Muşkili Mita adında bir kraldan söz ediyor.", "show": "MÖ 8. yüzyılın sonunda Asur kralı II. Sargon, yazıtlarında Muşkili Mita adında bir kraldan söz ediyor."},
+"Tarihçilerin büyük çoğunluğu bu Mita'nın, Frig kralı Midas olduğunu düşünüyor.",
+"Eskişehir'deki Midas Şehri'nde ise kayaya oyulmuş dev bir anıtın üzerinde Frig alfabesiyle Midas adı okunuyor.",
+"Yani Midas bir masal kahramanı değil. Gerçekten yaşamış bir kraldı."
+]},
+{"motif": "mountains", "heading": "BÜYÜK TÜMÜLÜS", "lines": [
+"Gordion'un ufkunu dev bir toprak tepe kaplıyor. Yerliler ona uzun yıllar boyunca Midas Tümülüsü dedi.",
+{"say": "Bin dokuz yüz elli yedide Amerikalı arkeolog Rodney Young, tepenin içine bir tünel kazdı.", "show": "1957'de Amerikalı arkeolog Rodney Young, tepenin içine bir tünel kazdı."},
+"Toprağın derinlerinde, ardıç ve çam kütüklerinden yapılmış, hiç açılmamış bir mezar odası buldu.",
+"Bu oda bugün dünyada ayakta kalan en eski ahşap yapılardan biri sayılıyor.",
+"İçeride ileri yaşta bir adamın iskeleti, bronz kazanlar, ahşap mobilyalar ve yüzlerce bronz eşya vardı.",
+"Ama işin ironik yanı şu: Altın dokunuşlu kralın mezarı sanılan bu odada altın bulunmadı."
+]},
+{"motif": "year", "params": {"year": "MÖ 740"}, "heading": "AĞAÇ HALKALARI", "lines": [
+"Peki mezardaki adam gerçekten Midas mıydı?",
+{"say": "Mezar odasının kütükleri üzerindeki ağaç halkası çalışmaları, yapının yaklaşık milattan önce yedi yüz kırkta inşa edildiğini gösterdi.", "show": "Mezar odasının kütükleri üzerindeki ağaç halkası çalışmaları, yapının yaklaşık MÖ 740'ta inşa edildiğini gösterdi."},
+"Bu tarih, Asur kayıtlarındaki Midas için biraz erken. Bu yüzden pek çok araştırmacı mezarın Midas'ın babasına ait olduğunu düşünüyor.",
+"Belki de cenazeyi bizzat Midas kaldırdı.",
+"O cenazenin menüsü bile bugün biliniyor.",
+"Kaplardaki kalıntıları inceleyen Patrick McGovern'ın ekibi, baharatlı bir kuzu ya da keçi ve mercimek yahnisi tespit etti.",
+"İçki ise şarap, arpa birası ve bal şarabının karışımıydı."
+]},
+{"motif": "question", "heading": "EFSANENİN KAYNAĞI", "lines": [
+"Peki altın efsanesi nereden çıktı?",
+"Paktolos Irmağı gerçekten de altın ve gümüş karışımı elektrum taşıyordu. Komşu Lidyalılar bu metalden ilk sikkeleri bastı.",
+"Belki de zengin Frig kralının ünü, zamanla komşu krallığın altınıyla birleşip bir masala dönüştü.",
+"Antik kaynaklara göre Midas'ın sonu ise trajikti. Kimmerler krallığı istila ettiğinde, rivayete göre kendi canına kıydı.",
+"Sence Midas efsanesi gerçek bir kralın zenginliğinden mi doğdu, yoksa tamamen bir masal mı? Yorumlara yaz."
+]}
+]
+}
