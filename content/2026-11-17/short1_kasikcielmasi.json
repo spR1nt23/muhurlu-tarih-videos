@@ -1,0 +1,14 @@
+{"format":"short","seed":91,"scenes":[
+{"motif":"seal","heading":"KAŞIKÇI ELMASI","lines":[
+ "Osmanlı hazinesinin en ünlü taşı, rivayete göre bir çöplükte bulundu.",
+ {"say":"Topkapı Sarayı'nda sergilenen Kaşıkçı Elması, seksen altı karat ağırlığında, armut biçimli bir elmas.","show":"Topkapı Sarayı'nda sergilenen Kaşıkçı Elması, 86 karat ağırlığında, armut biçimli bir elmas."},
+ {"say":"Etrafını kırk dokuz iri pırlanta çeviriyor.","show":"Etrafını 49 iri pırlanta çeviriyor."}]},
+{"motif":"parchment","heading":"ÜÇ KAŞIK","lines":[
+ {"say":"Defterdar Sarı Mehmed Paşa'nın anlattığına göre, bin altı yüz yetmiş dokuzda İstanbul'da Eğrikapı'daki bir çöplükte parlak bir taş bulundu.","show":"Defterdar Sarı Mehmed Paşa'nın anlattığına göre, 1679'da İstanbul'da Eğrikapı'daki bir çöplükte parlak bir taş bulundu."},
+ "Taş, karşılığında yalnızca üç kaşık verilerek el değiştirdi. Sonunda değeri anlaşıldı ve saraya ulaştı.",
+ "Adı da bu hikâyeden geliyor."]},
+{"motif":"question","lines":[
+ "Başka bir anlatı ise taşı, Hindistan'dan Avrupa'ya giden ünlü Pigot Elması ile birleştiriyor.",
+ {"say":"Ama Pigot Elması kırk yedi karat civarındaydı. Bu yüzden iki taşın aynı olması pek olası görünmüyor.","show":"Ama Pigot Elması 47 karat civarındaydı. Bu yüzden iki taşın aynı olması pek olası görünmüyor."},
+ "Sence Kaşıkçı Elması gerçekte nereden geldi?"]}
+]}

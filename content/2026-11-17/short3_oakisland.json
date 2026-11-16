@@ -1,0 +1,13 @@
+{"format":"short","seed":93,"scenes":[
+{"motif":"forest","heading":"OAK ADASI","lines":[
+ "İki yüz yılı aşkın süredir aynı çukuru kazıyorlar. Ve hâlâ hazine yok.",
+ {"say":"Anlatılana göre bin yedi yüz doksan beşte Kanada'daki Oak Adası'nda bir genç, bir meşe ağacının yanında çökmüş bir toprak buldu.","show":"Anlatılana göre 1795'te Kanada'daki Oak Adası'nda bir genç, bir meşe ağacının yanında çökmüş bir toprak buldu."}]},
+{"motif":"sea","heading":"PARA ÇUKURU","lines":[
+ "Kazanlar, belli aralıklarla döşenmiş kütük katmanlarına rastladıklarını anlattı.",
+ {"say":"Bin sekiz yüz dörtte, yaklaşık otuz metre derinlikte çukur aniden deniz suyuyla doldu.","show":"1804'te, yaklaşık 30 metre derinlikte çukur aniden deniz suyuyla doldu."},
+ "Sonraki tüm kazılar da suya ve çökmelere yenildi. Bu uğurda altı kişi hayatını kaybetti."]},
+{"motif":"question","lines":[
+ "Korsan hazinesi mi, kayıp bir hazine mi? Kesin bir bulgu yok.",
+ "Bazı bilim insanları çukurun, kireçtaşı arazideki doğal bir obruk olabileceğini düşünüyor.",
+ "Sence Oak Adası'nda gerçekten bir hazine var mı?"]}
+]}

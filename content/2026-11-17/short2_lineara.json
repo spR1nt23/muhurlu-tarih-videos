@@ -1,0 +1,14 @@
+{"format":"short","seed":92,"scenes":[
+{"motif":"document","params":{"stamp":"A"},"heading":"LİNEER A","lines":[
+ "Harflerini okuyabiliyoruz. Ama tek bir cümlesini anlayamıyoruz.",
+ {"say":"Lineer A, Bronz Çağı'nda Girit'teki Minos uygarlığının kullandığı bir yazı.","show":"Lineer A, Bronz Çağı'nda Girit'teki Minos uygarlığının kullandığı bir yazı."},
+ "Kil tabletlerde, kaplarda ve adak eşyalarında karşımıza çıkıyor."]},
+{"motif":"parchment","heading":"KARDEŞ YAZI","lines":[
+ "Onun kardeşi sayılan Lineer B, Lineer A'dan uyarlanmıştı.",
+ {"say":"Bin dokuz yüz elli ikide Michael Ventris, Alice Kober'in çalışmalarından da yararlanarak Lineer B'yi çözdü.","show":"1952'de Michael Ventris, Alice Kober'in çalışmalarından da yararlanarak Lineer B'yi çözdü."},
+ "Çıkan dil, Yunancanın çok eski bir biçimiydi."]},
+{"motif":"question","lines":[
+ "Benzer işaretler sayesinde Lineer A'daki pek çok sözcüğün kabaca nasıl okunduğu tahmin ediliyor.",
+ "Ama yazının arkasındaki dil bilinmiyor. Hiçbir bilinen dille güvenilir bir eşleşme bulunamadı.",
+ "Sence Minosların dili bir gün çözülebilecek mi?"]}
+]}

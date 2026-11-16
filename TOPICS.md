@@ -28,6 +28,10 @@
 | 2026-11-16 | Shorts | Kaspar Hauser |
 | 2026-11-16 | Shorts | Zodiac şifresi (Z340) |
 | 2026-11-16 | Uzun | Kral Midas gerçek miydi? (Gordion, Tümülüs MM, Mita, cenaze ziyafeti) |
+| 2026-11-17 | Shorts | Kaşıkçı Elması (Eğrikapı çöplüğü rivayeti, Pigot iddiası) |
+| 2026-11-17 | Shorts | Lineer A yazısı (Minos, Ventris ve Lineer B) |
+| 2026-11-17 | Shorts | Oak Adası Para Çukuru |
+| 2026-11-17 | Shorts | Lidya, ilk sikkeler ve Krezüs'ün altını (Sardes) |
 
 ## Konu havuzu (fikir)
-Sümela'nın sırları · Topkapı'daki Kaşıkçı Elmas efsanesi · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Oak Island · Kayıp Atlantis efsanesinin kaynağı · Linear A · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Sardes'te Lidya altını · Hasankeyf · Şahmeran efsanesi
+Sümela'nın sırları · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Kayıp Atlantis efsanesinin kaynağı · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Hasankeyf · Şahmeran efsanesi
