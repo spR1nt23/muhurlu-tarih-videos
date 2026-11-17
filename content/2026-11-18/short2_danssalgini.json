@@ -1,0 +1,14 @@
+{"format":"short","seed":119,"scenes":[
+{"motif":"parchment","heading":"DANS SALGINI","lines":[
+ {"say":"Bin beş yüz on sekiz yazında, Strazburg'da bir kadın sokağın ortasında dans etmeye başladı.","show":"1518 yazında, Strazburg'da bir kadın sokağın ortasında dans etmeye başladı."},
+ "Kaynaklarda adı Frau Troffea olarak geçiyor. Durmadı. Günlerce dans etti.",
+ {"say":"Bir hafta içinde ona otuzdan fazla kişi katıldı.","show":"Bir hafta içinde ona 30'dan fazla kişi katıldı."}]},
+{"motif":"hourglass","heading":"YÜZLERCE KİŞİ","lines":[
+ {"say":"Anlatılara göre birkaç hafta sonra dans edenlerin sayısı dört yüzü buldu.","show":"Anlatılara göre birkaç hafta sonra dans edenlerin sayısı 400'ü buldu."},
+ "Şehir yöneticileri bir çözüm buldu: Daha çok müzik! Dansçılar için yer ayırıp müzisyen tuttular.",
+ "Ama işe yaramadı. Bazı kaynaklar bitkinlikten ölenlerden söz ediyor, sayıları ise tartışmalı.",
+ "Sonunda dansçılar Aziz Vitus'un tapınağına götürüldü ve salgın yatıştı."]},
+{"motif":"question","lines":[
+ "Bazıları çavdar mantarı zehirlenmesini, bazı tarihçiler ise açlık ve korkuyla gelen toplu bir psikolojik kriz olduğunu düşünüyor.",
+ "Sence insanları ölesiye dans ettiren neydi?"]}
+]}

@@ -1,0 +1,14 @@
+{"format":"short","seed":118,"scenes":[
+{"motif":"pillars","heading":"YEREBATAN SARNICI","lines":[
+ "İstanbul'un altında, karanlık suyun içinde iki taş Medusa başı duruyor. Biri yan yatmış, diğeri baş aşağı.",
+ {"say":"Yerebatan Sarnıcı, altıncı yüzyılda İmparator Justinianus döneminde inşa edildi.","show":"Yerebatan Sarnıcı, 6. yüzyılda İmparator Justinianus döneminde inşa edildi."},
+ {"say":"Tavanını üç yüz otuz altı sütun taşıyor.","show":"Tavanını 336 sütun taşıyor."}]},
+{"motif":"ruins","heading":"İKİ BAŞ","lines":[
+ "Medusa başları bu sarnıç için yapılmadı. Büyük olasılıkla Geç Roma dönemine ait başka bir yapıdan getirilip sütun kaidesi olarak kullanıldı.",
+ "Peki neden düz konmadılar?",
+ "Bir görüşe göre ustalar taşları sadece sütun boyuna uyacak şekilde yerleştirdi.",
+ "Halk arasındaki bir yoruma göre ise baş aşağı çevrilen Medusa'nın taşa çeviren bakışı etkisiz kalıyordu."]},
+{"motif":"question","lines":[
+ "Bazıları da bunu pagan bir sembole karşı bilinçli bir tavır olarak görüyor. Ama kesin bir belge yok.",
+ "Sence Medusa başları neden ters konuldu?"]}
+]}

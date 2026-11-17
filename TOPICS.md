@@ -32,6 +32,10 @@
 | 2026-11-17 | Shorts | Lineer A yazısı (Minos, Ventris ve Lineer B) |
 | 2026-11-17 | Shorts | Oak Adası Para Çukuru |
 | 2026-11-17 | Shorts | Lidya, ilk sikkeler ve Krezüs'ün altını (Sardes) |
+| 2026-11-18 | Shorts | Yerebatan Sarnıcı'ndaki Medusa başları |
+| 2026-11-18 | Shorts | 1518 Strazburg dans salgını |
+| 2026-11-18 | Shorts | Eilean Mor (Flannan Adaları) deniz feneri bekçileri |
+| 2026-11-18 | Uzun | Kızıl Elma neredeydi? (Augustaion heykeli ve küre, Roma/Budin/Viyana, Ziya Gökalp) |
 
 ## Konu havuzu (fikir)
-Sümela'nın sırları · Kızıl Elma efsanesi · Zelve ve Kapadokya mağara şehirleri · Kayıp Atlantis efsanesinin kaynağı · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Hasankeyf · Şahmeran efsanesi
+Sümela'nın sırları · Zelve ve Kapadokya mağara şehirleri · Kayıp Atlantis efsanesinin kaynağı · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Hasankeyf · Şahmeran efsanesi

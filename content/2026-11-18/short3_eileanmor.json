@@ -1,0 +1,13 @@
+{"format":"short","seed":120,"scenes":[
+{"motif":"sea","heading":"EILEAN MOR","lines":[
+ {"say":"Aralık bin dokuz yüz. İskoçya açıklarındaki Flannan Adaları'nda bir deniz feneri karanlığa gömüldü.","show":"Aralık 1900. İskoçya açıklarındaki Flannan Adaları'nda bir deniz feneri karanlığa gömüldü."},
+ "Fenerde üç bekçi vardı: James Ducat, Thomas Marshall ve Donald MacArthur."]},
+{"motif":"stars","heading":"BOŞ FENER","lines":[
+ {"say":"Yirmi altı Aralık'ta erzak gemisi Hesperus adaya ulaştığında, kimse karşılamaya gelmedi.","show":"26 Aralık'ta erzak gemisi Hesperus adaya ulaştığında, kimse karşılamaya gelmedi."},
+ "Fenerde bekçilerin hiçbiri yoktu. İçeride kayda değer bir düzensizlik de görünmüyordu.",
+ "İki bekçinin dış giysileri yoktu. Ama MacArthur'un tek ceketi hâlâ asılıydı.",
+ "Yani biri, fırtınada ceketsiz dışarı koşmuştu."]},
+{"motif":"question","lines":[
+ "Resmî soruşturmaya göre üçü de dev bir dalgaya kapılıp denize sürüklendi. Başka teoriler de var ama hiçbiri kanıtlanmadı.",
+ "Sence o gece fenerde ne oldu?"]}
+]}

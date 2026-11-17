@@ -1,0 +1,96 @@
+{
+ "format": "long",
+ "seed": 121,
+ "intro": true,
+ "title_card": "Kızıl Elma Neredeydi?",
+ "scenes": [
+  {
+   "motif": "seal",
+   "heading": "KIZIL ELMA",
+   "lines": [
+    "Türk tarihinde yüzyıllardır dilden dile dolaşan bir hedef var: Kızıl Elma.",
+    "Kimine göre bir şehir, kimine göre bir imparatorluğun tacı, kimine göre de ulaşılamayan bir ülkü.",
+    "Peki Kızıl Elma gerçekten bir yer miydi? Ve eğer öyleyse, neredeydi?",
+    "Bu sorunun cevabı, yüzyıllar boyunca defalarca değişti."
+   ]
+  },
+  {
+   "motif": "pillars",
+   "heading": "AUGUSTAİON",
+   "lines": [
+    "Hikâye Konstantinopolis'te, Ayasofya'nın hemen önündeki Augustaion meydanında başlıyor.",
+    "Burada yüksek bir sütunun tepesinde, bronz bir atlı imparator heykeli dururdu.",
+    "Bizanslı tarihçi Prokopios, bu heykeli ve yüksek sütununu ayrıntılı biçimde anlatmıştı.",
+    "Bizanslılar onu İmparator Justinianus olarak biliyordu. Araştırmacılara göre heykel aslında daha eski bir Theodosius heykelinin yeniden kullanılmış hali olabilir.",
+    "İmparatorun elinde, üzerinde haç bulunan büyük bir küre vardı. Bu küre, dünya üzerindeki hâkimiyetin simgesiydi.",
+    "Pek çok araştırmacıya göre Türkler bu parlak küreye Kızıl Elma dedi. O dönemin Türkçesinde kızıl, aynı zamanda altın rengini anlatıyordu."
+   ]
+  },
+  {
+   "motif": "stars",
+   "heading": "DÜŞEN KÜRE",
+   "lines": [
+    {
+     "say": "On beşinci yüzyılın başında, küre imparatorun elinden düştü.",
+     "show": "15. yüzyılın başında, küre imparatorun elinden düştü."
+    },
+    "Şehirde bu olay kötüye yorumlandı. Bazılarına göre imparatorluğun sonunun yaklaştığının işaretiydi.",
+    "Bazı anlatılara göre küre, şehri koruyan bir tılsım olarak görülüyordu.",
+    {
+     "say": "Bin dört yüz elli üçte İstanbul fethedildi.",
+     "show": "1453'te İstanbul fethedildi."
+    },
+    "Kaynaklar heykelin sonrasını farklı anlatıyor. Bir kısmına göre fetihten kısa süre sonra indirildi.",
+    {
+     "say": "On altıncı yüzyılda Fransız bilgin Pierre Gilles, heykelin dev parçalarını saray çevresinde gördüğünü yazdı.",
+     "show": "16. yüzyılda Fransız bilgin Pierre Gilles, heykelin dev parçalarını saray çevresinde gördüğünü yazdı."
+    },
+    "Ona göre bu parçalar, top dökümhanesine götürülüyordu."
+   ]
+  },
+  {
+   "motif": "map",
+   "params": {
+    "x": 0.55
+   },
+   "heading": "YER DEĞİŞTİREN HEDEF",
+   "lines": [
+    "İstanbul alındıktan sonra Kızıl Elma ortadan kaybolmadı. Sadece yer değiştirdi.",
+    "Osmanlı anlatılarında hedef, bu kez Roma'ya kaydı. Roma da imparatorluğun ve dünya hâkimiyetinin simgesiydi.",
+    "Daha sonra Budin ve özellikle Viyana, Kızıl Elma olarak anılmaya başladı.",
+    "Hedef her ulaşıldığında ya da ulaşılamadığında, Kızıl Elma bir adım daha batıya kaydı.",
+    "Yani Kızıl Elma sabit bir şehir değil, her dönemde bir sonraki büyük hedefin adı oldu.",
+    "Rivayetlere göre yeniçeriler arasında bile Kızıl Elma'ya dair sözler dolaşıyordu."
+   ]
+  },
+  {
+   "motif": "document",
+   "heading": "ZİYA GÖKALP",
+   "lines": [
+    "Osmanlı'nın son döneminde Kızıl Elma bambaşka bir anlam kazandı.",
+    {
+     "say": "Ziya Gökalp, bin dokuz yüz on üçte Türk Yurdu dergisinde yayımlanan Kızıl Elma adlı manzum hikâyesini yazdı.",
+     "show": "Ziya Gökalp, 1913'te Türk Yurdu dergisinde yayımlanan Kızılelma adlı manzum hikâyesini yazdı."
+    },
+    "Gökalp'te Kızıl Elma artık bir şehir değil, ulaşılmak istenen bir ülküydü.",
+    "Şiirde Kızıl Elma, Türklerin yüzyıllardır özlemini çektiği büyük bir ideal olarak anlatılıyordu.",
+    {
+     "say": "Bu yorum, yirminci yüzyıl Türk milliyetçiliğinde çok etkili oldu.",
+     "show": "Bu yorum, 20. yüzyıl Türk milliyetçiliğinde çok etkili oldu."
+    },
+    "Bazı araştırmacılar kavramın kökünü Osmanlı'dan da eski Türk geleneklerinde arıyor. Ama bu konuda kesin bir uzlaşma yok."
+   ]
+  },
+  {
+   "motif": "question",
+   "heading": "BİR UFUK ÇİZGİSİ",
+   "lines": [
+    "Bugün Kızıl Elma'nın tek ve kesin bir tanımı yok. Farklı yazarlar ona farklı anlamlar yükledi.",
+    "Bir dönem Ayasofya'nın önündeki bronz küre, bir dönem Roma, bir dönem Viyana oldu.",
+    "Bronz heykel yok oldu, sütun yıkıldı ama adı hâlâ yaşıyor.",
+    "Belki de Kızıl Elma'yı bu kadar güçlü yapan şey, hiçbir zaman tam olarak ulaşılamamasıydı.",
+    "Sence Kızıl Elma gerçek bir yer miydi, yoksa hep bir sonraki hedefin adı mı? Yorumlara yaz."
+   ]
+  }
+ ]
+}
