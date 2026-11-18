@@ -1,0 +1,13 @@
+{"format":"short","seed":157,"scenes":[
+{"motif":"seal","heading":"FESTOS DİSKİ","lines":[
+ "Avuç içi büyüklüğünde bir kil disk. Üzerinde kimsenin okuyamadığı işaretler var.",
+ {"say":"Bin dokuz yüz sekiz yılında İtalyan arkeolog Luigi Pernier, Girit'teki Festos Sarayı'nda bu diski buldu.","show":"1908'de İtalyan arkeolog Luigi Pernier, Girit'teki Festos Sarayı'nda bu diski buldu."}]},
+{"motif":"stars","heading":"DAMGALI YAZI","lines":[
+ {"say":"İki yüzünde, sarmal şeklinde dizilmiş iki yüz kırkı aşkın işaret var. Kırk beş farklı işaret kullanılmış.","show":"İki yüzünde, sarmal şeklinde dizilmiş 240'ı aşkın işaret var. 45 farklı işaret kullanılmış."},
+ "En şaşırtıcısı şu: İşaretler elle çizilmemiş, damgayla basılmış.",
+ "Yani bu, bilinen en eski matbaa denemelerinden biri olabilir."]},
+{"motif":"question","lines":[
+ "Bu damgalardan başka hiçbir yerde bulunmadı. Karşılaştıracak metin olmadığı için çözmek neredeyse imkânsız.",
+ "Bazıları bir dua, bazıları bir takvim diyor. Birkaç araştırmacı ise sahte olduğunu bile ileri sürüyor.",
+ "Sence Festos Diski'nde ne yazıyor?"]}
+]}

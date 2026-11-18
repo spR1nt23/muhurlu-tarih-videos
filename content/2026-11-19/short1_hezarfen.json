@@ -1,0 +1,14 @@
+{"format":"short","seed":131,"scenes":[
+{"motif":"pillars","heading":"HEZARFEN","lines":[
+ "Bir adam Galata Kulesi'nden atladı ve Boğaz'ı uçarak geçti. Öyle mi?",
+ "Anlatı Evliya Çelebi'nin Seyahatname'sinden geliyor. Kahramanı, bin fen bilen anlamında Hezarfen lakaplı Ahmed Çelebi.",
+ "Evliya'ya göre Hezarfen önce kuşların uçuşunu inceledi, sonra kanatlarını Okmeydanı'nda defalarca denedi."]},
+{"motif":"sea","heading":"GALATA'DAN ÜSKÜDAR'A","lines":[
+ {"say":"Rivayete göre bin altı yüz otuzlu yıllarda, Dördüncü Murad döneminde, kuleden kendini bıraktı ve Üsküdar'daki Doğancılar'a indi.","show":"Rivayete göre 1630'lu yıllarda, IV. Murad döneminde, kuleden kendini bıraktı ve Üsküdar'daki Doğancılar'a indi."},
+ "Padişah onu ödüllendirdi ama böyle bir adamın tehlikeli olabileceğini düşünüp Cezayir'e sürdü.",
+ "Evliya'ya göre Hezarfen orada öldü."]},
+{"motif":"question","lines":[
+ "Sorun şu: Bu uçuşun Evliya Çelebi'den başka hiçbir kaynağı yok. Tarihi bile kaynaktan kaynağa değişiyor.",
+ "Evliya'nın abartılı hikâyeleri de meşhur. Bu yüzden pek çok tarihçi olayı bir efsane sayıyor.",
+ "Sence Hezarfen gerçekten Boğaz'ı uçarak geçti mi?"]}
+]}

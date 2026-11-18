@@ -1,0 +1,14 @@
+{"format":"short","seed":137,"scenes":[
+{"motif":"ruins","heading":"FİRAVUNUN LANETİ","lines":[
+ "Mezarı açtılar ve birkaç ay sonra kazının finansörü öldü. Lanet mi, tesadüf mü?",
+ {"say":"Bin dokuz yüz yirmi iki kasımında Howard Carter, Krallar Vadisi'nde Tutankamon'un mezarını buldu.","show":"Kasım 1922'de Howard Carter, Krallar Vadisi'nde Tutankamon'un mezarını buldu."},
+ "Kazıyı finanse eden kişi Lord Carnarvon'du."]},
+{"motif":"hourglass","heading":"CARNARVON'UN ÖLÜMÜ","lines":[
+ {"say":"Bin dokuz yüz yirmi üç baharında Carnarvon'u bir sivrisinek ısırdı. Tıraş olurken yarayı kesti ve yara enfekte oldu.","show":"1923 baharında Carnarvon'u bir sivrisinek ısırdı. Tıraş olurken yarayı kesti ve yara enfekte oldu."},
+ {"say":"Beş Nisan'da Kahire'de hayatını kaybetti.","show":"5 Nisan'da Kahire'de hayatını kaybetti."},
+ "Gazeteler hemen bir lanetten söz etmeye başladı. Sherlock Holmes'un yazarı Arthur Conan Doyle bile buna inandığını söyledi."]},
+{"motif":"question","lines":[
+ "Ama mezarda böyle bir lanet yazıtı bulunmadı. Ünlü lanet sözleri gazetelerin uydurmasıydı.",
+ {"say":"Üstelik mezarı açan Howard Carter, on yedi yıl daha yaşadı ve bin dokuz yüz otuz dokuzda öldü.","show":"Üstelik mezarı açan Howard Carter, 17 yıl daha yaşadı ve 1939'da öldü."},
+ "Sence firavunun laneti sadece iyi satan bir manşet miydi?"]}
+]}

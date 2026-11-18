@@ -1,0 +1,15 @@
+{"format":"short","seed":149,"scenes":[
+{"motif":"mountains","heading":"BUZ ADAMI ÖTZİ","lines":[
+ "Beş bin yıllık bir cinayet, Alplerde buzun içinde bekliyordu.",
+ {"say":"Bin dokuz yüz doksan bir eylülünde iki yürüyüşçü, Ötztal Alpleri'nde buzdan çıkan bir ceset buldu.","show":"Eylül 1991'de iki yürüyüşçü, Ötztal Alpleri'nde buzdan çıkan bir ceset buldu."},
+ "Önce yakın zamanda ölmüş bir dağcı sandılar."]},
+{"motif":"year","params":{"year":"MÖ 3300"},"heading":"5300 YIL","lines":[
+ {"say":"Ama ceset yaklaşık beş bin üç yüz yıllıktı. Avrupa'nın en eski doğal mumyalarından biriydi.","show":"Ama ceset yaklaşık 5300 yıllıktı. Avrupa'nın en eski doğal mumyalarından biriydi."},
+ "Yanında bakır bir balta, bir yay ve oklar vardı. Uzmanlar onun soğuktan donarak öldüğünü düşündü."]},
+{"motif":"forest","heading":"OMUZDAKİ OK","lines":[
+ {"say":"İki bin bir yılında çekilen röntgenler her şeyi değiştirdi: Sol omzunda taştan bir ok ucu vardı.","show":"2001'de çekilen röntgenler her şeyi değiştirdi: Sol omzunda taştan bir ok ucu vardı."},
+ "Ok arkadan gelmişti ve büyük ihtimalle kan kaybından öldü. Okun gövdesi ise kırılıp götürülmüştü."]},
+{"motif":"question","lines":[
+ "Onu kim vurdu, ve neden değerli bakır baltasını bıraktı? Bunu hâlâ bilmiyoruz.",
+ "Sence Ötzi'yi kim öldürdü?"]}
+]}

@@ -36,6 +36,10 @@
 | 2026-11-18 | Shorts | 1518 Strazburg dans salgını |
 | 2026-11-18 | Shorts | Eilean Mor (Flannan Adaları) deniz feneri bekçileri |
 | 2026-11-18 | Uzun | Kızıl Elma neredeydi? (Augustaion heykeli ve küre, Roma/Budin/Viyana, Ziya Gökalp) |
+| 2026-11-19 | Shorts | Hezarfen Ahmed Çelebi'nin Galata uçuşu (tek kaynak Evliya Çelebi) |
+| 2026-11-19 | Shorts | Tutankamon'un laneti (Lord Carnarvon, Howard Carter) |
+| 2026-11-19 | Shorts | Buz Adamı Ötzi (2001'de bulunan ok ucu) |
+| 2026-11-19 | Shorts | Festos (Phaistos) Diski |
 
 ## Konu havuzu (fikir)
 Sümela'nın sırları · Zelve ve Kapadokya mağara şehirleri · Kayıp Atlantis efsanesinin kaynağı · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Hasankeyf · Şahmeran efsanesi
