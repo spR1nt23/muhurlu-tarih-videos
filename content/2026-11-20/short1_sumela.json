@@ -1,0 +1,15 @@
+{"format":"short","seed":157,"scenes":[
+{"motif":"mountains","heading":"SÜMELA","lines":[
+ "Bir kayalığın yamacına asılı duran bu manastırın en büyük hazinesi, yıllarca toprağın altında saklandı.",
+ "Trabzon'daki Sümela Manastırı, geleneğe göre dördüncü yüzyılda iki Atinalı keşiş tarafından kuruldu.",
+ "Manastırın kalbi, Meryem'i tasvir eden ve rivayete göre Aziz Luka'nın yaptığı bir ikondu."]},
+{"motif":"year","params":{"year":"1923"},"heading":"GİZLİ ŞAPEL","lines":[
+ {"say":"Bin dokuz yüz yirmi üçte keşişler manastırı terk etmek zorunda kaldı ve yanlarına eşya alamadılar.","show":"1923'te keşişler manastırı terk etmek zorunda kaldı ve yanlarına eşya alamadılar."},
+ "Bu yüzden ikonu ve değerli eşyaları Aziz Barbara şapelinin zeminine gömdüler."]},
+{"motif":"document","heading":"GERİ DÖNÜŞ","lines":[
+ {"say":"Bin dokuz yüz otuzların başında eski keşişlerden Ambrosios, izinle manastıra döndü ve gömülü hazineyi çıkardı.","show":"1930'ların başında eski keşişlerden Ambrosios, izinle manastıra döndü ve gömülü hazineyi çıkardı."},
+ "İkon bugün Yunanistan'da, Vermio Dağı'nda kurulan yeni bir manastırda duruyor."]},
+{"motif":"question","lines":[
+ "Ama ikonun gerçekten Aziz Luka'ya ait olduğunu kanıtlayan bir belge yok. Bu yalnızca bir gelenek.",
+ "Sence bir eser, efsanesi yüzünden mi değerlidir, yoksa tarihi yüzünden mi?"]}
+]}

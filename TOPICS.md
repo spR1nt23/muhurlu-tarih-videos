@@ -40,6 +40,10 @@
 | 2026-11-19 | Shorts | Tutankamon'un laneti (Lord Carnarvon, Howard Carter) |
 | 2026-11-19 | Shorts | Buz Adamı Ötzi (2001'de bulunan ok ucu) |
 | 2026-11-19 | Shorts | Festos (Phaistos) Diski |
+| 2026-11-20 | Shorts | Sümela Manastırı'nın gömülü ikonu (1923, Ambrosios) |
+| 2026-11-20 | Shorts | Şahmeran efsanesi (Tarsus Şahmeran Hamamı, Camsab/Lokman) |
+| 2026-11-20 | Shorts | Atlantis efsanesinin kaynağı (Platon, Timaios/Kritias) |
+| 2026-11-20 | Shorts | Gılgamış ve tufan tableti (George Smith, Utnapiştim) |
 
 ## Konu havuzu (fikir)
-Sümela'nın sırları · Zelve ve Kapadokya mağara şehirleri · Kayıp Atlantis efsanesinin kaynağı · Sea Peoples (Deniz Kavimleri) · Gılgamış ve tufan · Hasankeyf · Şahmeran efsanesi
+Zelve ve Kapadokya mağara şehirleri · Sea Peoples (Deniz Kavimleri) · Hasankeyf

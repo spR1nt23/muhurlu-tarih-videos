@@ -1,0 +1,15 @@
+{"format":"short","seed":173,"scenes":[
+{"motif":"parchment","heading":"TUFAN TABLETİ","lines":[
+ "Bir müze çalışanı kil bir tableti okudu ve heyecandan yerinde duramadı.",
+ {"say":"Bin sekiz yüz yetmiş ikide British Museum'da çalışan George Smith, Ninova'dan gelen bir tablette büyük bir tufan hikâyesi buldu.","show":"1872'de British Museum'da çalışan George Smith, Ninova'dan gelen bir tablette büyük bir tufan hikâyesi buldu."}]},
+{"motif":"sea","heading":"UTNAPİŞTİM","lines":[
+ "Tablet, Gılgamış Destanı'nın on birinci tabletiydi.",
+ "Burada tanrılar bir tufan gönderir. Utnapiştim adlı bir adam dev bir gemi yapar, ailesini ve hayvanları kurtarır.",
+ "Sular çekilsin diye bir güvercin, bir kırlangıç ve bir kuzgun salar."]},
+{"motif":"document","heading":"NUH'TAN ÖNCE","lines":[
+ "Bu hikâye, Nuh tufanına çok benziyordu. Üstelik Mezopotamya'daki kökleri çok daha eskiydi.",
+ "Sonraki bir anlatıya göre Smith o kadar heyecanlandı ki odada koşturup üstünü çıkarmaya başladı."]},
+{"motif":"question","lines":[
+ "Bilim insanları, bölgedeki büyük nehir taşkınlarının bu anlatılara ilham vermiş olabileceğini düşünüyor.",
+ "Sence bu benzerlik ortak bir hafızadan mı geliyor?"]}
+]}

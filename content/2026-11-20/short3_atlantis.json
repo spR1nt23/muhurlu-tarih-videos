@@ -1,0 +1,15 @@
+{"format":"short","seed":167,"scenes":[
+{"motif":"sea","heading":"ATLANTİS","lines":[
+ "Atlantis'i anlatan ilk ve tek antik kaynak, tek bir filozof.",
+ {"say":"Platon, milattan önce yaklaşık üç yüz altmış yılında yazdığı Timaios ve Kritias diyaloglarında bu adadan söz etti.","show":"Platon, MÖ yaklaşık 360'ta yazdığı Timaios ve Kritias diyaloglarında bu adadan söz etti."}]},
+{"motif":"map","params":{"x":0.3},"heading":"HERAKLES SÜTUNLARI","lines":[
+ "Anlatıya göre hikâyeyi Atinalı devlet adamı Solon, Mısır'daki Sais şehrinde rahiplerden duydu.",
+ {"say":"Atlantis, Herakles Sütunları'nın ötesinde, dokuz bin yıl önce yaşamış güçlü bir ada krallığıydı.","show":"Atlantis, Herakles Sütunları'nın ötesinde, 9000 yıl önce yaşamış güçlü bir ada krallığıydı."},
+ "Atina'ya savaş açtı, yenildi ve tek bir gün ve gecede denize gömüldü."]},
+{"motif":"ruins","heading":"KAYNAK YOK","lines":[
+ "Ama Platon'dan önce hiçbir yazar Atlantis'ten bahsetmiyor.",
+ "Tarihçilerin çoğu, Platon'un bu hikâyeyi felsefi bir ders vermek için kurguladığını düşünüyor.",
+ "Bazıları ise Santorini'deki büyük volkan patlamasının efsaneye ilham vermiş olabileceğini söylüyor."]},
+{"motif":"question","lines":[
+ "Sence Atlantis kayıp bir uygarlık mı, yoksa bir filozofun hayal ürünü mü?"]}
+]}
