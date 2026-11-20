@@ -1,0 +1,12 @@
+{"format":"short","seed":132,"scenes":[
+{"motif":"pillars","heading":"FERİYE SARAYI","lines":[
+ "Tahttan indirilmesinden sadece beş gün sonra, bir padişah bilekleri kesilmiş halde bulundu.",
+ {"say":"Dört Haziran bin sekiz yüz yetmiş altı. Sultan Abdülaziz, Feriye Sarayı'nda hayatını kaybetti.","show":"4 Haziran 1876. Sultan Abdülaziz, Feriye Sarayı'nda hayatını kaybetti."}]},
+{"motif":"document","heading":"RAPOR","lines":[
+ {"say":"On dokuz doktorun imzaladığı rapora göre bu bir intihardı. Padişah bileklerini bir makasla kesmişti.","show":"19 doktorun imzaladığı rapora göre bu bir intihardı. Padişah bileklerini bir makasla kesmişti."},
+ "Ama eleştirenlere göre doktorlar cesedi ayrıntılı incelemeden karar verdi."]},
+{"motif":"seal","heading":"YILDIZ MAHKEMESİ","lines":[
+ {"say":"Beş yıl sonra İkinci Abdülhamid dosyayı yeniden açtırdı. Yıldız Mahkemesi, olayın cinayet olduğuna hükmetti.","show":"5 yıl sonra II. Abdülhamid dosyayı yeniden açtırdı. Yıldız Mahkemesi, olayın cinayet olduğuna hükmetti."},
+ "Mithat Paşa da suçlananlar arasındaydı. Bazı tarihçiler ise bu davayı siyasi buluyor.",
+ "Sence Sultan Abdülaziz intihar mı etti, yoksa öldürüldü mü?"]}
+]}

@@ -44,6 +44,10 @@
 | 2026-11-20 | Shorts | Şahmeran efsanesi (Tarsus Şahmeran Hamamı, Camsab/Lokman) |
 | 2026-11-20 | Shorts | Atlantis efsanesinin kaynağı (Platon, Timaios/Kritias) |
 | 2026-11-20 | Shorts | Gılgamış ve tufan tableti (George Smith, Utnapiştim) |
+| 2026-11-21 | Shorts | Aziz Nikola'nın kemikleri (Demre/Myra, 1087 Bari, 2017 iddiası) |
+| 2026-11-21 | Shorts | Sultan Abdülaziz'in ölümü (Feriye Sarayı, 19 doktor raporu, Yıldız Mahkemesi) |
+| 2026-11-21 | Shorts | Amelia Earhart'ın kaybolması (Howland, Nikumaroro kemikleri) |
+| 2026-11-21 | Uzun | Fatih Sultan Mehmed zehirlendi mi? (Hünkâr Çayırı 1481, gizli sefer, Yakup Paşa, Venedik, Babinger) |
 
 ## Konu havuzu (fikir)
 Zelve ve Kapadokya mağara şehirleri · Sea Peoples (Deniz Kavimleri) · Hasankeyf

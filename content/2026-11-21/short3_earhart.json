@@ -1,0 +1,13 @@
+{"format":"short","seed":133,"scenes":[
+{"motif":"sea","heading":"AMELIA EARHART","lines":[
+ "Dünyanın en ünlü kadın pilotu, Pasifik'in ortasında iz bırakmadan kayboldu.",
+ {"say":"İki Temmuz bin dokuz yüz otuz yedi. Amelia Earhart ve navigatörü Fred Noonan, dünya turunun son ayaklarındaydı.","show":"2 Temmuz 1937. Amelia Earhart ve navigatörü Fred Noonan, dünya turunun son ayaklarındaydı."},
+ "Yeni Gine'den kalkıp minicik Howland Adası'na ulaşmaları gerekiyordu. Adayı asla bulamadılar."]},
+{"motif":"map","params":{"x":0.6},"heading":"NİKUMARORO","lines":[
+ "En yaygın görüşe göre yakıtları bitti ve okyanusa düştüler.",
+ {"say":"Ama bin dokuz yüz kırkta, Howland'ın güneyindeki ıssız Nikumaroro adasında bir kamp ateşinin yanında kemikler bulundu.","show":"Ama 1940'ta, Howland'ın güneyindeki ıssız Nikumaroro adasında bir kamp ateşinin yanında kemikler bulundu."}]},
+{"motif":"question","heading":"KAYIP KEMİKLER","lines":[
+ "O dönem bir doktor kemiklerin bir erkeğe ait olduğunu söyledi. Sonra kemikler kayboldu.",
+ {"say":"İki bin on sekizde yapılan bir analiz, kalan ölçülerin Earhart'a çok benzediğini öne sürdü. Bu sonuç hâlâ tartışmalı.","show":"2018'de yapılan bir analiz, kalan ölçülerin Earhart'a çok benzediğini öne sürdü. Bu sonuç hâlâ tartışmalı."},
+ "Sence Amelia Earhart okyanusa mı düştü, yoksa ıssız bir adada mı öldü?"]}
+]}

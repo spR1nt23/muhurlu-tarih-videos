@@ -1,0 +1,90 @@
+{
+ "format": "long",
+ "seed": 124,
+ "intro": true,
+ "title_card": "Fatih Zehirlendi mi?",
+ "scenes": [
+  {
+   "motif": "seal",
+   "heading": "FATİH SULTAN MEHMED",
+   "lines": [
+    "İstanbul'u fetheden padişah, son seferine çıktıktan sadece birkaç gün sonra öldü.",
+    "Ordusu yoldaydı, hedefi ise kimseye söylenmemişti.",
+    "Ölümü bir süre gizlendi, ardından başkentte kanlı bir isyan çıktı.",
+    "Beş yüz yılı aşkın süredir aynı soru soruluyor: Fatih Sultan Mehmed eceliyle mi öldü, yoksa zehirlendi mi?"
+   ]
+  },
+  {
+   "motif": "map",
+   "params": {
+    "x": 0.48
+   },
+   "heading": "SON SEFER",
+   "lines": [
+    {
+     "say": "Bin dört yüz seksen bir baharında Fatih, Üsküdar'dan büyük bir orduyla Anadolu yakasına geçti.",
+     "show": "1481 baharında Fatih, Üsküdar'dan büyük bir orduyla Anadolu yakasına geçti."
+    },
+    "Otuz yıl boyunca seferlerin çoğuna bizzat katılmış, Balkanlardan Anadolu'ya kadar savaşmıştı.",
+    "Seferin nereye yapılacağını, alışkanlığı olduğu üzere kimseye açıklamamıştı.",
+    "Bazı tarihçilere göre hedef Rodos'tu, bazılarına göre Memlükler. Bir kısmı ise İtalya seferinin devam edeceğini düşünüyor.",
+    {
+     "say": "Çünkü bir yıl önce Osmanlı askerleri İtalya'daki Otranto'yu almıştı.",
+     "show": "Çünkü bir yıl önce Osmanlı askerleri İtalya'daki Otranto'yu almıştı."
+    },
+    "Ama ordu Gebze yakınlarındaki çayıra vardığında padişah ağır biçimde hastalandı.",
+    {
+     "say": "Mayıs bin dört yüz seksen birin başında, kırk dokuz yaşında hayatını kaybetti.",
+     "show": "Mayıs 1481'in başında, 49 yaşında hayatını kaybetti."
+    },
+    "Bu yer bugün Hünkâr Çayırı olarak biliniyor."
+   ]
+  },
+  {
+   "motif": "hourglass",
+   "heading": "GİZLENEN ÖLÜM",
+   "lines": [
+    "Sadrazam Karamani Mehmed Paşa, ölümü askerden saklamaya çalıştı.",
+    "Amacı, iki şehzadeden birinin tahta geçmesini sağlamaktı: Bayezid ya da Cem.",
+    "Ancak haber yayıldı ve yeniçeriler ayaklandı.",
+    "Askerler dükkânları yağmaladı, şehirde günlerce kargaşa yaşandı.",
+    "İsyan sırasında sadrazam öldürüldü. Padişahın uzun yıllardır hekimi olan Yakup Paşa da isyancıların hedefi oldu ve öldürüldü.",
+    "Sonunda tahta Bayezid geçti. Cem Sultan ise yıllar sürecek bir sürgüne sürüklendi."
+   ]
+  },
+  {
+   "motif": "document",
+   "heading": "HASTALIK",
+   "lines": [
+    "Fatih uzun süredir hastaydı. Kaynaklar onun yıllardır nikris, yani gut hastalığından çektiğini anlatıyor.",
+    "Ağrılı ataklar zaman zaman onu yürüyemez hale getiriyordu.",
+    "Bu yüzden bazı tarihçilere göre ölüm, hastalığın ve ilerleyen komplikasyonların doğal bir sonucuydu.",
+    "Son günlerinde verilen ilaçların durumunu kötüleştirdiği de anlatılır. Ama bunun bilinçli bir zehirleme olduğu kesin değil.",
+    "Kaynaklar, hastalığın kaç gün sürdüğü ve ölüm tarihi konusunda bile birbirini tutmuyor."
+   ]
+  },
+  {
+   "motif": "sea",
+   "heading": "VENEDİK",
+   "lines": [
+    "Zehir şüphesini güçlendiren önemli bir ayrıntı var.",
+    "Venedik, Fatih'le yıllarca savaşmıştı ve Venedik kayıtlarında ona yönelik çok sayıda suikast planından söz ediliyor.",
+    "Bu planlardan bazılarında, padişahın yakın çevresindeki kişileri satın alma fikri bile konuşulmuştu.",
+    "Ünlü Fatih biyografisinin yazarı Alman tarihçi Franz Babinger, padişahın zehirlenmiş olabileceğini savundu.",
+    "Bazı araştırmacılar ise kaynaklardaki belirtilere bakarak afyonla zehirleme ihtimali üzerinde durdu.",
+    "Ama Şehabettin Tekindağ gibi tarihçiler bu görüşe karşı çıktı. Plan yapılmış olması, planın uygulandığını göstermiyor."
+   ]
+  },
+  {
+   "motif": "question",
+   "heading": "CEVAPSIZ SORU",
+   "lines": [
+    "Bugün elimizde kesin bir kanıt yok. Ne zehri doğrulayan bir belge var, ne de onu tamamen dışlayan.",
+    "Beş yüz yıl sonra yapılabilecek bir inceleme de yok, çünkü türbedeki naaşa dokunulmuyor.",
+    "Bildiğimiz şu: Fatih, hedefi gizli bir seferin başında öldü ve ölümü imparatorluğu bir anda sarstı.",
+    "Eğer yaşasaydı o ordu nereye gidecekti? Bu da en az ölümü kadar büyük bir sır.",
+    "Sence Fatih Sultan Mehmed eceliyle mi öldü, yoksa zehirlendi mi? Yorumlara yaz."
+   ]
+  }
+ ]
+}

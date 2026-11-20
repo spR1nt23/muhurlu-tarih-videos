@@ -1,0 +1,13 @@
+{"format":"short","seed":131,"scenes":[
+{"motif":"ruins","heading":"DEMRE","lines":[
+ "Noel Baba'nın hikâyesine ilham veren adam, Antalya'nın Demre ilçesinde yaşadı.",
+ {"say":"Aziz Nikola, dördüncü yüzyılda antik Myra şehrinin piskoposuydu.","show":"Aziz Nikola, 4. yüzyılda antik Myra şehrinin piskoposuydu."},
+ "Öldükten sonra buradaki kiliseye gömüldü."]},
+{"motif":"sea","heading":"BARİ","lines":[
+ {"say":"Ama bin seksen yedi yılında İtalya'nın Bari şehrinden gelen denizciler mezarı açtı ve kemikleri gemiyle götürdü.","show":"Ama 1087'de İtalya'nın Bari şehrinden gelen denizciler mezarı açtı ve kemikleri gemiyle götürdü."},
+ "Bugün bu kalıntılar Bari'deki bazilikada saklanıyor."]},
+{"motif":"question","heading":"YANLIŞ MEZAR MI?","lines":[
+ {"say":"İki bin on yedide Antalya'daki uzmanlar, kilisenin zemini altında el değmemiş bir mezar olabileceğini açıkladı.","show":"2017'de Antalya'daki uzmanlar, kilisenin zemini altında el değmemiş bir mezar olabileceğini açıkladı."},
+ "Onlara göre denizciler yanlış kemikleri götürmüş olabilirdi. Ama bu iddia bugüne kadar kanıtlanmadı.",
+ "Sence Aziz Nikola'nın kemikleri hâlâ Demre'de mi?"]}
+]}
