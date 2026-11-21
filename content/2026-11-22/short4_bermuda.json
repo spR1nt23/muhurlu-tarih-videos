@@ -1,0 +1,15 @@
+{"format":"short","seed":224,"scenes":[
+{"motif":"sea","heading":"BERMUDA ŞEYTAN ÜÇGENİ","lines":[
+ "Uçakları ve gemileri yuttuğu söylenen bir deniz üçgeni var. Ama bu efsanenin adı bir dergide doğdu.",
+ {"say":"Beş Aralık bin dokuz yüz kırk beşte, Flight on dokuz adlı beş Amerikan donanma uçağı Atlantik üzerinde kayboldu.","show":"5 Aralık 1945'te Flight 19 adlı beş Amerikan donanma uçağı Atlantik üzerinde kayboldu."},
+ "Onları aramaya çıkan bir deniz uçağı da geri dönmedi."]},
+{"motif":"year","params":{"year":"1964"},"heading":"BİR DERGİ MAKALESİ","lines":[
+ {"say":"Bin dokuz yüz altmış dörtte yazar Vincent Gaddis, Argosy dergisinde bu olayları birleştirip bölgeye Bermuda Üçgeni adını verdi.","show":"1964'te yazar Vincent Gaddis, Argosy dergisinde bu olayları birleştirip bölgeye Bermuda Üçgeni adını verdi."},
+ "Sonra kitaplar ve belgeseller efsaneyi büyüttü."]},
+{"motif":"map","params":{"x":true},"heading":"İSTATİSTİK","lines":[
+ "Oysa Amerikan Sahil Güvenlik ve sigorta şirketi Lloyd's, bölgenin başka yoğun denizlerden daha tehlikeli olmadığını söylüyor.",
+ "Uçakların büyük ihtimalle yönünü kaybettiği ve yakıtının bittiği düşünülüyor."]},
+{"motif":"question","lines":[
+ "Yani gizem denizde değil, anlatılan hikâyelerde olabilir.",
+ "Sence Bermuda Üçgeni'nden geçen bir gemiye biner miydin?"]}
+]}

@@ -48,6 +48,10 @@
 | 2026-11-21 | Shorts | Sultan Abdülaziz'in ölümü (Feriye Sarayı, 19 doktor raporu, Yıldız Mahkemesi) |
 | 2026-11-21 | Shorts | Amelia Earhart'ın kaybolması (Howland, Nikumaroro kemikleri) |
 | 2026-11-21 | Uzun | Fatih Sultan Mehmed zehirlendi mi? (Hünkâr Çayırı 1481, gizli sefer, Yakup Paşa, Venedik, Babinger) |
+| 2026-11-22 | Shorts | Zelve vadisi (Kapadokya, 1952 civarı boşaltma, Aktepe/Yeni Zelve, 1967 müze) |
+| 2026-11-22 | Shorts | Genç Osman'ın öldürülmesi (1622, Yedikule, Kara Davud Paşa) |
+| 2026-11-22 | Shorts | Londra Kulesi'ndeki prensler (1483, 1674 iskeletleri, 1933 incelemesi) |
+| 2026-11-22 | Shorts | Bermuda Şeytan Üçgeni (Flight 19, Gaddis 1964, Lloyd's/Sahil Güvenlik) |
 
 ## Konu havuzu (fikir)
-Zelve ve Kapadokya mağara şehirleri · Sea Peoples (Deniz Kavimleri) · Hasankeyf
+Sea Peoples (Deniz Kavimleri) · Hasankeyf

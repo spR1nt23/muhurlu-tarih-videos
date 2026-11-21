@@ -1,0 +1,15 @@
+{"format":"short","seed":223,"scenes":[
+{"motif":"pillars","heading":"KULEDEKİ PRENSLER","lines":[
+ "İngiltere'nin on iki yaşındaki kralı ve küçük kardeşi, Londra Kulesi'ne girdi ve bir daha görülmedi.",
+ {"say":"Bin dört yüz seksen üçte babaları ölünce, Beşinci Edward tahtın varisi oldu.","show":"1483'te babaları ölünce, V. Edward tahtın varisi oldu."},
+ "Ama amcası Richard, çocukları kuleye yerleştirdi ve kısa süre sonra kendini kral ilan ettirdi."]},
+{"motif":"year","params":{"year":"1674"},"heading":"MERDİVEN ALTINDA","lines":[
+ {"say":"Neredeyse iki yüz yıl sonra, bin altı yüz yetmiş dörtte kulede bir merdivenin altından iki çocuk iskeleti çıktı.","show":"Neredeyse 200 yıl sonra, 1674'te kulede bir merdivenin altından iki çocuk iskeleti çıktı."},
+ "Kral İkinci Charles, kemikleri Westminster Manastırı'nda bir vazoya koydurdu."]},
+{"motif":"document","heading":"KANIT YOK","lines":[
+ {"say":"Bin dokuz yüz otuz üçte yapılan incelemede kemiklerin çocuklara ait olduğu söylendi, ama yaşları ve cinsiyetleri kesin belirlenemedi.","show":"1933'te yapılan incelemede kemiklerin çocuklara ait olduğu söylendi, ama yaşları ve cinsiyetleri kesin belirlenemedi."},
+ "Bugüne kadar DNA testine izin verilmedi."]},
+{"motif":"question","lines":[
+ "Suçlu gerçekten Üçüncü Richard mıydı, yoksa tarihi kazananlar mı yazdı?",
+ "Sence o vazo açılmalı mı?"]}
+]}

@@ -1,0 +1,15 @@
+{"format":"short","seed":222,"scenes":[
+{"motif":"seal","heading":"GENÇ OSMAN","lines":[
+ "Osmanlı tarihinde ilk kez bir padişah, kendi askerleri tarafından öldürüldü.",
+ "İkinci Osman, tahta çıktığında henüz on dört yaşında bir gençti; bu yüzden Genç Osman diye anılır.",
+ "Yeniçerileri disipline etmek ve yeni bir ordu kurmak istediği konuşuluyordu."]},
+{"motif":"year","params":{"year":"1622"},"heading":"İSYAN","lines":[
+ {"say":"Bin altı yüz yirmi iki baharında yeniçeriler ayaklandı ve genç padişahı tahttan indirdi.","show":"1622 baharında yeniçeriler ayaklandı ve genç padişahı tahttan indirdi."},
+ "Yerine amcası Birinci Mustafa yeniden tahta çıkarıldı."]},
+{"motif":"pillars","heading":"YEDİKULE","lines":[
+ "Genç Osman, Yedikule Zindanları'na götürüldü ve orada boğularak öldürüldü.",
+ "Kaynaklar, emrin Kara Davud Paşa'dan geldiğini yazar; o da kısa süre sonra aynı yerde idam edildi."]},
+{"motif":"question","lines":[
+ "Bu olay, padişahın dokunulmaz olmadığını gösteren bir kırılma noktası sayılıyor.",
+ "Sence Genç Osman'ı yenilikleri mi öldürdü, yoksa aceleciliği mi?"]}
+]}

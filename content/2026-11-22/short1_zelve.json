@@ -1,0 +1,15 @@
+{"format":"short","seed":221,"scenes":[
+{"motif":"pillars","heading":"ZELVE","lines":[
+ "Kapadokya'da insanların yüzyıllarca kayaların içinde yaşadığı bir vadi, bir gün tamamen boşaltıldı.",
+ "Zelve'de peri bacalarına ve vadinin yamaçlarına oyulmuş evler, kiliseler ve güvercinlikler var.",
+ "Bizans döneminde burası önemli bir manastır yerleşimiydi; sonra da Türk ve Rum aileler aynı vadide yaşadı."]},
+{"motif":"ruins","heading":"ÇÖKEN KAYALAR","lines":[
+ "Ama yumuşak tüf kayası rüzgâr ve yağmurla durmadan aşınıyordu.",
+ "Kaya düşmeleri arttıkça mağara evlerde yaşamak tehlikeli hâle geldi."]},
+{"motif":"year","params":{"year":"1952"},"heading":"GÖÇ","lines":[
+ {"say":"Bin dokuz yüz elli iki civarında köylüler vadiyi terk etti ve biraz ötede kurulan Aktepe'ye, yani Yeni Zelve'ye taşındı.","show":"1952 civarında köylüler vadiyi terk etti ve biraz ötede kurulan Aktepe'ye, yani Yeni Zelve'ye taşındı."},
+ {"say":"Boş kalan vadi, bin dokuz yüz altmış yedide açık hava müzesi olarak koruma altına alındı.","show":"Boş kalan vadi, 1967'de açık hava müzesi olarak koruma altına alındı."}]},
+{"motif":"question","lines":[
+ "Bugün o evlerin içinde hâlâ ocak izleri ve oyulmuş raflar görülebiliyor.",
+ "Sen olsan atalarının oyduğu bir kaya evini bırakıp gidebilir miydin?"]}
+]}
