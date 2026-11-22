@@ -52,6 +52,10 @@
 | 2026-11-22 | Shorts | Genç Osman'ın öldürülmesi (1622, Yedikule, Kara Davud Paşa) |
 | 2026-11-22 | Shorts | Londra Kulesi'ndeki prensler (1483, 1674 iskeletleri, 1933 incelemesi) |
 | 2026-11-22 | Shorts | Bermuda Şeytan Üçgeni (Flight 19, Gaddis 1964, Lloyd's/Sahil Güvenlik) |
+| 2026-11-23 | Shorts | Leonardo da Vinci'nin Haliç köprüsü (1502, II. Bayezid, Norveç 2001, MIT 2019) |
+| 2026-11-23 | Shorts | Anastasia Romanov ve Anna Anderson (1918, 1994 DNA, 2007 kalıntılar) |
+| 2026-11-23 | Shorts | Halikarnas Mozolesi (Bodrum, Rodos Şövalyeleri 1522, Newton 1857) |
+| 2026-11-23 | Uzun | Efes neden terk edildi? (Artemis, Küçük Menderes alüvyonu, Lysimakhos, Ayasuluk, İsa Bey Camii) |
 
 ## Konu havuzu (fikir)
 Sea Peoples (Deniz Kavimleri) · Hasankeyf

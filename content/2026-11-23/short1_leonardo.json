@@ -1,0 +1,13 @@
+{"format":"short","seed":141,"scenes":[
+{"motif":"sea","heading":"HALİÇ","lines":[
+ "Leonardo da Vinci, İstanbul için bir köprü tasarladı. Ama bu köprü hiç yapılmadı.",
+ {"say":"Bin beş yüz iki yılında Sultan İkinci Bayezid, Haliç'in iki yakasını birleştirecek bir köprü istiyordu.","show":"1502'de Sultan II. Bayezid, Haliç'in iki yakasını birleştirecek bir köprü istiyordu."},
+ "Leonardo sultana bir mektup yazıp kendi tasarımını önerdi."]},
+{"motif":"pillars","heading":"TEK KEMER","lines":[
+ {"say":"Taştan, tek kemerli ve iki yüz kırk metreyi aşan bir köprü. Kaynaklara göre iki yüz seksen metreye kadar.","show":"Taştan, tek kemerli ve 240 metreyi aşan bir köprü. Kaynaklara göre 280 metreye kadar."},
+ "O dönemde bu kadar uzun tek açıklıklı bir köprü yoktu. Sultan projeyi gerçekleştirmedi ve nedenini bilmiyoruz."]},
+{"motif":"question","heading":"İŞE YARAR MIYDI?","lines":[
+ {"say":"İki bin bir yılında Norveç'te bu tasarımdan esinlenen küçük bir yaya köprüsü yapıldı.","show":"2001'de Norveç'te bu tasarımdan esinlenen küçük bir yaya köprüsü yapıldı."},
+ {"say":"İki bin on dokuzda MIT mühendisleri bir model kurup tasarımın ayakta kalabileceğini gösterdi.","show":"2019'da MIT mühendisleri bir model kurup tasarımın ayakta kalabileceğini gösterdi."},
+ "Sence bu köprü yapılsaydı bugün hâlâ ayakta olur muydu?"]}
+]}

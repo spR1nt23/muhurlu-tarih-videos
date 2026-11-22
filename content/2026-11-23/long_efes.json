@@ -1,0 +1,106 @@
+{
+ "format": "long",
+ "seed": 145,
+ "intro": true,
+ "title_card": "Efes Neden Terk Edildi?",
+ "scenes": [
+  {
+   "motif": "ruins",
+   "heading": "EFES",
+   "lines": [
+    "Bir zamanlar Anadolu'nun en kalabalık ve en zengin şehirlerinden biriydi.",
+    "Limanına dünyanın dört bir yanından gemiler yanaşıyordu.",
+    "Bugün ise denizden kilometrelerce uzakta, sessiz bir harabe.",
+    "Peki bu büyük şehir neden terk edildi? Cevap tek bir felakette değil, yüzyıllara yayılan bir süreçte saklı."
+   ]
+  },
+  {
+   "motif": "pillars",
+   "heading": "ARTEMİS'İN ŞEHRİ",
+   "lines": [
+    "Efes'in ünü, antik dünyanın yedi harikasından biri olan Artemis Tapınağı'ndan geliyordu.",
+    {
+     "say": "Milattan önce üç yüz elli altıda Herostratos adlı bir adam, sadece ünlü olmak için tapınağı ateşe verdi.",
+     "show": "MÖ 356'da Herostratos adlı bir adam, sadece ünlü olmak için tapınağı ateşe verdi."
+    },
+    "Antik yazarlara göre aynı gece Büyük İskender doğmuştu. Plutarkhos, tanrıçanın doğumla meşgul olduğu için tapınağını koruyamadığını yazar.",
+    "Tapınak yeniden, daha da görkemli biçimde inşa edildi.",
+    "Roma döneminde Efes, Asya eyaletinin en önemli şehirlerinden biri oldu.",
+    "Celsus Kütüphanesi, büyük tiyatro ve mermer caddeler bu zenginliğin izleri.",
+    "Hristiyanlığın ilk dönemlerinde de Efes önemliydi. Havari Pavlus burada vaaz verdi ve kentin gümüşçüleri ona karşı ayaklandı."
+   ]
+  },
+  {
+   "motif": "sea",
+   "heading": "DÜŞMAN: ÇAMUR",
+   "lines": [
+    "Ama şehrin asıl düşmanı ne bir ordu ne de bir kraldı. Bir nehirdi.",
+    "Bugün Küçük Menderes dediğimiz nehir, her taşkında tonlarca alüvyon getiriyordu.",
+    "Bu çamur yavaş yavaş limanı doldurdu ve kıyı çizgisi her yüzyıl biraz daha batıya kaydı.",
+    {
+     "say": "Kayıtlara göre Romalılar milattan sonra birinci ve ikinci yüzyılda limanı temizlemek için büyük çalışmalar yaptı.",
+     "show": "Kayıtlara göre Romalılar MS 1. ve 2. yüzyılda limanı temizlemek için büyük çalışmalar yaptı."
+    },
+    "Liman yüzyıllar içinde birkaç kez yeniden kazıldı, denizle bağlantıyı sağlayan kanal uzatıldı.",
+    "Ama doğaya karşı verilen bu savaş uzun vadede kaybedildi.",
+    "Limanın çevresi bataklığa döndü ve bataklıklar sıtma getirdi.",
+    "Ticaret gemileri limana giremeyince, şehri zengin eden ticaret de yavaş yavaş başka limanlara kaydı."
+   ]
+  },
+  {
+   "motif": "map",
+   "params": {
+    "x": 0.55
+   },
+   "heading": "TAŞINAN ŞEHİR",
+   "lines": [
+    "Aslında Efes tarihi boyunca birkaç kez yer değiştirmiş bir şehirdi.",
+    {
+     "say": "Milattan önce üç yüz civarında Lysimakhos, şehri yeni bir yere kurdu ve halkı oraya taşınmaya zorladı.",
+     "show": "MÖ 300 civarında Lysimakhos, şehri yeni bir yere kurdu ve halkı oraya taşınmaya zorladı."
+    },
+    "Yeni şehre bir süre kralın eşinin adı verildi: Arsinoeia. Ama halk eski adı bırakmadı.",
+    {
+     "say": "Milattan sonra üçüncü yüzyılda Gotlar şehri yağmaladı ve Artemis Tapınağı bir kez daha yıkıldı.",
+     "show": "MS 3. yüzyılda Gotlar şehri yağmaladı ve Artemis Tapınağı bir kez daha yıkıldı."
+    },
+    "Ardından gelen depremler binaları yerle bir etti.",
+    "Hristiyanlık yayıldıkça tapınaklar terk edildi, taşları yeni yapılarda kullanıldı."
+   ]
+  },
+  {
+   "motif": "mountains",
+   "heading": "AYASULUK",
+   "lines": [
+    "Halk zamanla limandan uzaklaşıp yakındaki Ayasuluk tepesine çekildi.",
+    "Bizans İmparatoru Justinianus burada Aziz Yuhanna adına büyük bir bazilika yaptırdı.",
+    "Sahil ise artık o kadar uzaktı ki, eski liman kentinin denizle bağı neredeyse tamamen kopmuştu.",
+    {
+     "say": "On dördüncü yüzyılda Ayasuluk, Aydınoğulları Beyliği'nin önemli bir merkezi oldu.",
+     "show": "14. yüzyılda Ayasuluk, Aydınoğulları Beyliği'nin önemli bir merkezi oldu."
+    },
+    {
+     "say": "İsa Bey Camii, bin üç yüz yetmiş beşte bu dönemde inşa edildi.",
+     "show": "İsa Bey Camii, 1375'te bu dönemde inşa edildi."
+    },
+    "Bugünkü Selçuk ilçesi, işte bu yerleşimin devamı.",
+    "Eski Efes ise toprağın ve bitki örtüsünün altında kayboldu."
+   ]
+  },
+  {
+   "motif": "question",
+   "heading": "CEVAP",
+   "lines": [
+    "Yani Efes'i tek bir savaş ya da tek bir deprem yok etmedi.",
+    "Çamurla dolan liman, sıtma, yağmalar, depremler ve değişen dünya, şehri adım adım boşalttı.",
+    {
+     "say": "On dokuzuncu yüzyılda başlayan kazılar, unutulmuş şehri yeniden gün ışığına çıkardı.",
+     "show": "19. yüzyılda başlayan kazılar, unutulmuş şehri yeniden gün ışığına çıkardı."
+    },
+    "Bugün Efes, Türkiye'nin en çok ziyaret edilen antik kentlerinden biri.",
+    "Arkeologlar bugün bile kazılara devam ediyor ve şehrin henüz küçük bir kısmı gün ışığına çıkarılmış durumda.",
+    "Sence Efes'i asıl öldüren doğa mıydı, yoksa insanlar mı? Yorumlara yaz."
+   ]
+  }
+ ]
+}

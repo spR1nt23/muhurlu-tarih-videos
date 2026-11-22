@@ -1,0 +1,14 @@
+{"format":"short","seed":142,"scenes":[
+{"motif":"forest","heading":"YEKATERİNBURG","lines":[
+ "Yıllarca bir kadın, katliamdan kurtulan Rus prensesi olduğunu iddia etti.",
+ {"say":"Temmuz bin dokuz yüz on sekizde son Rus Çarı İkinci Nikolay ve ailesi Yekaterinburg'da kurşuna dizildi.","show":"Temmuz 1918'de son Rus Çarı II. Nikolay ve ailesi Yekaterinburg'da kurşuna dizildi."},
+ "Ama en küçük kızı Anastasia'nın kurtulduğu söylentisi hiç bitmedi."]},
+{"motif":"document","heading":"ANNA ANDERSON","lines":[
+ {"say":"Bin dokuz yüz yirmide Berlin'de bir kanaldan kurtarılan bir kadın, zamanla Anastasia olduğunu öne sürdü.","show":"1920'de Berlin'de bir kanaldan kurtarılan bir kadın, zamanla Anastasia olduğunu öne sürdü."},
+ "Adı Anna Anderson'dı. Bazı akrabalar ona inandı, bazıları ise onu sahtekâr ilan etti.",
+ {"say":"Mahkemeler onlarca yıl sürdü ve kesin bir karar çıkmadı. Kadın bin dokuz yüz seksen dörtte öldü.","show":"Mahkemeler onlarca yıl sürdü ve kesin bir karar çıkmadı. Kadın 1984'te öldü."}]},
+{"motif":"seal","heading":"DNA","lines":[
+ {"say":"Bin dokuz yüz doksan dörtte yapılan DNA testleri, onun Romanov olmadığını gösterdi. Polonyalı bir işçi olan Franziska Schanzkowska olduğu ortaya çıktı.","show":"1994'te yapılan DNA testleri, onun Romanov olmadığını gösterdi. Polonyalı bir işçi olan Franziska Schanzkowska olduğu ortaya çıktı."},
+ {"say":"İki bin yedide de kayıp iki çocuğun kalıntıları bulundu. Ailenin hiçbir üyesi kurtulamamıştı.","show":"2007'de de kayıp iki çocuğun kalıntıları bulundu. Ailenin hiçbir üyesi kurtulamamıştı."},
+ "Sence bir insan bütün hayatını nasıl başka biri olarak yaşayabilir?"]}
+]}

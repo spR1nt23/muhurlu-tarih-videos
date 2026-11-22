@@ -1,0 +1,14 @@
+{"format":"short","seed":143,"scenes":[
+{"motif":"ruins","heading":"BODRUM","lines":[
+ "Dünyanın yedi harikasından biri Bodrum'daydı. Bugün yerinde neredeyse hiçbir şey yok.",
+ {"say":"Karya kralı Mausolos ölünce, eşi Artemisia onun için dev bir anıt mezar yaptırdı.","show":"Karya kralı Mausolos ölünce, eşi Artemisia onun için dev bir anıt mezar yaptırdı."},
+ "Bu yapı o kadar ünlü oldu ki, mozole kelimesi onun adından geliyor."]},
+{"motif":"pillars","heading":"KAYBOLAN HARİKA","lines":[
+ "Mezar yüzyıllarca ayakta kaldı. Sonra ortaçağdaki depremler onu yıktı.",
+ "Bodrum'a gelen Rodos Şövalyeleri, kalıntıları taş ocağı gibi kullandı.",
+ {"say":"Bin beş yüz yirmi ikide kalan taşlar da Bodrum Kalesi'nin duvarlarına kondu. Heykellerin bir kısmı kireç yapmak için yakıldı.","show":"1522'de kalan taşlar da Bodrum Kalesi'nin duvarlarına kondu. Heykellerin bir kısmı kireç yapmak için yakıldı."}]},
+{"motif":"question","heading":"MEZAR ODASI","lines":[
+ "Anlatılana göre şövalyeler o sırada mezar odasını buldu. Ertesi gün döndüklerinde oda yağmalanmıştı.",
+ {"say":"Bin sekiz yüz elli yedide kazı yapan Charles Newton, kalan heykelleri Londra'ya götürdü.","show":"1857'de kazı yapan Charles Newton, kalan heykelleri Londra'ya götürdü."},
+ "Sence bu heykeller Bodrum'a geri dönmeli mi?"]}
+]}
