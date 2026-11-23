@@ -1,0 +1,17 @@
+{"format":"short","seed":244,"scenes":[
+{"motif":"sea","heading":"HASANKEYF","lines":[
+ "Dicle kıyısında binlerce yıllık bir şehir, birkaç ay içinde suların altında kaldı.",
+ "Hasankeyf, Batman'da, Dicle'nin iki yakasında kayalara oyulmuş evleriyle ünlüydü.",
+ "Artuklular ve Eyyubiler döneminde burada köprüler, camiler ve saraylar yapıldı."]},
+{"motif":"year","params":{"year":"2017"},"heading":"TAŞINAN TÜRBE","lines":[
+ "Ama Ilısu Barajı yapılınca şehrin büyük kısmının su altında kalacağı belliydi.",
+ {"say":"İki bin on yedide, bin yüz tonluk Zeynel Bey Türbesi tek parça hâlinde tekerlekli bir platformla yaklaşık iki kilometre taşındı.","show":"2017'de, 1.100 tonluk Zeynel Bey Türbesi tek parça hâlinde tekerlekli bir platformla yaklaşık 2 kilometre taşındı."},
+ "Başka anıtlar da sökülüp yeni kurulan kültür parkına götürüldü."]},
+{"motif":"ruins","heading":"YÜKSELEN SU","lines":[
+ {"say":"Baraj iki bin on dokuz yazında su tutmaya başladı. İki bin yirmi başında eski şehrin büyük kısmı sular altındaydı.","show":"Baraj 2019 yazında su tutmaya başladı. 2020 başında eski şehrin büyük kısmı sular altındaydı."},
+ "İnsanlar kıyıda toplanıp evlerinin kayboluşunu izledi.",
+ "Kayalara oyulmuş mağaraların birçoğu artık suyun altında."]},
+{"motif":"question","lines":[
+ "Kale ve birkaç yapı hâlâ suyun üstünde duruyor.",
+ "Sence enerji için tarihi bir şehri feda etmek doğru muydu?"]}
+]}

@@ -1,0 +1,16 @@
+{"format":"short","seed":241,"scenes":[
+{"motif":"year","params":{"year":"1566"},"heading":"ZİGETVAR","lines":[
+ "Kanuni Sultan Süleyman öldüğünde, ordusu bunu haftalarca bilmedi.",
+ {"say":"Bin beş yüz altmış altıda Kanuni, Macaristan'da Zigetvar Kalesi'ni kuşatırken çadırında hayatını kaybetti.","show":"1566'da Kanuni, Macaristan'da Zigetvar Kalesi'ni kuşatırken çadırında hayatını kaybetti."},
+ "Sadrazam Sokullu Mehmed Paşa, askerin morali bozulmasın diye ölümü gizledi."]},
+{"motif":"seal","heading":"GİZLİ ÖLÜM","lines":[
+ "Fermanlar padişah adına yazılmaya devam etti; kale düştü ve ordu yola çıktı.",
+ "Ölüm ancak oğlu İkinci Selim Belgrad'a ulaşıp orduyu devraldığında açıklandı.",
+ "Kanuni'nin naaşı İstanbul'a götürüldü; iç organlarının ise öldüğü yere gömüldüğü anlatılır."]},
+{"motif":"ruins","heading":"KAYIP TÜRBE","lines":[
+ "Oraya bir türbe ve Turbék adında küçük bir kasaba kuruldu. Ama bu yerler on yedinci yüzyılın sonunda yıkılıp unutuldu.",
+ {"say":"Macar araştırmacı Norbert Pap'ın ekibi, iki bin on beşte bir bağın altında türbe olabilecek temeller bulduğunu açıkladı.","show":"Macar araştırmacı Norbert Pap'ın ekibi, 2015'te bir bağın altında türbe olabilecek temeller bulduğunu açıkladı."}]},
+{"motif":"question","lines":[
+ "Kalbinin de orada gömülü olduğu söylenir, ama bunun kesin bir kanıtı yok.",
+ "Sence Sokullu'nun bu sırrı saklaması doğru bir karar mıydı?"]}
+]}

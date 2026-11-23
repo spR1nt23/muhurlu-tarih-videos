@@ -1,0 +1,17 @@
+{"format":"short","seed":243,"scenes":[
+{"motif":"stars","heading":"STONEHENGE","lines":[
+ "Stonehenge'in ortasındaki altı tonluk taş, kimsenin beklemediği bir yerden geldi.",
+ "İngiltere'deki bu taş çemberin dev blokları yakındaki tepelerden getirilmişti.",
+ "Daha küçük mavi taşların ise Galler'deki Preseli tepelerinden taşındığı biliniyordu."]},
+{"motif":"map","params":{"x":0.45},"heading":"SUNAK TAŞI","lines":[
+ "Ortadaki Sunak Taşı'nın da uzun süre Galler'den geldiği düşünüldü.",
+ {"say":"Ama iki bin yirmi dörtte Nature dergisinde yayımlanan bir araştırma bunu çürüttü.","show":"Ama 2024'te Nature dergisinde yayımlanan bir araştırma bunu çürüttü."},
+ "Taşın içindeki minerallerin yaşı ve kimyası, kuzeydoğu İskoçya'yı işaret ediyordu."]},
+{"motif":"sea","heading":"700 KİLOMETRE","lines":[
+ {"say":"Bu, yedi yüz kilometreden daha uzak bir yolculuk demek.","show":"Bu, 700 kilometreden daha uzak bir yolculuk demek."},
+ "Araştırmacılar taşın deniz yoluyla, teknelerle taşınmış olabileceğini düşünüyor.",
+ "Ama taşın tam olarak hangi kayadan koparıldığı hâlâ bulunamadı."]},
+{"motif":"question","lines":[
+ "Tekerleği bile olmayan insanlar bunu nasıl başardı?",
+ "Sence bu taş neden bu kadar uzaktan getirildi?"]}
+]}

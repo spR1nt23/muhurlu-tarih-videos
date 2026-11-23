@@ -1,0 +1,17 @@
+{"format":"short","seed":242,"scenes":[
+{"motif":"ruins","heading":"ÇATALHÖYÜK","lines":[
+ "Konya ovasında, binlerce insanın yaşadığı ama hiç sokağı olmayan bir şehir vardı.",
+ {"say":"Çatalhöyük yaklaşık dokuz bin yıl önce kuruldu ve yüzyıllarca yaşadı.","show":"Çatalhöyük yaklaşık 9 bin yıl önce kuruldu ve yüzyıllarca yaşadı."},
+ "Evler bal peteği gibi birbirine yapışıktı; aralarında yol yoktu."]},
+{"motif":"pillars","heading":"ÇATIDAN GİRİŞ","lines":[
+ "İnsanlar damların üzerinde yürüyor, evlerine çatıdaki bir delikten merdivenle iniyordu.",
+ "Aynı delik ocağın dumanını dışarı atıyor, içeri ışık ve hava alıyordu.",
+ "Kısacası damlar, bu şehrin sokaklarıydı."]},
+{"motif":"document","heading":"TABANIN ALTINDA","lines":[
+ "Daha şaşırtıcısı, ölüler evlerin sıvalı tabanlarının altına gömülüyordu.",
+ "Aileler, atalarının üzerinde uyuyup yemek pişiriyordu.",
+ {"say":"Höyüğü bin dokuz yüz elli sekizde James Mellaart buldu; bugün UNESCO Dünya Mirası listesinde.","show":"Höyüğü 1958'de James Mellaart buldu; bugün UNESCO Dünya Mirası listesinde."}]},
+{"motif":"question","lines":[
+ "Neden sokak yapmadıklarını hâlâ kesin olarak bilmiyoruz.",
+ "Sen sokaksız bir şehirde, damdan girilen bir evde yaşayabilir miydin?"]}
+]}

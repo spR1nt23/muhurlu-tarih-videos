@@ -56,6 +56,10 @@
 | 2026-11-23 | Shorts | Anastasia Romanov ve Anna Anderson (1918, 1994 DNA, 2007 kalıntılar) |
 | 2026-11-23 | Shorts | Halikarnas Mozolesi (Bodrum, Rodos Şövalyeleri 1522, Newton 1857) |
 | 2026-11-23 | Uzun | Efes neden terk edildi? (Artemis, Küçük Menderes alüvyonu, Lysimakhos, Ayasuluk, İsa Bey Camii) |
+| 2026-11-24 | Shorts | Kanuni'nin ölümünün gizlenmesi ve Zigetvar türbesi (1566, Sokullu, Turbék, Norbert Pap 2015) |
+| 2026-11-24 | Shorts | Çatalhöyük'ün sokaksız evleri (çatıdan giriş, taban altı gömüler, Mellaart 1958) |
+| 2026-11-24 | Shorts | Stonehenge Sunak Taşı'nın İskoçya kökeni (Nature 2024, Preseli mavi taşları) |
+| 2026-11-24 | Shorts | Hasankeyf'in sular altında kalması (Ilısu Barajı, Zeynel Bey Türbesi 2017, 2020) |
 
 ## Konu havuzu (fikir)
-Sea Peoples (Deniz Kavimleri) · Hasankeyf
+Sea Peoples (Deniz Kavimleri)
