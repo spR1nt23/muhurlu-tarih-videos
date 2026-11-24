@@ -60,6 +60,10 @@
 | 2026-11-24 | Shorts | Çatalhöyük'ün sokaksız evleri (çatıdan giriş, taban altı gömüler, Mellaart 1958) |
 | 2026-11-24 | Shorts | Stonehenge Sunak Taşı'nın İskoçya kökeni (Nature 2024, Preseli mavi taşları) |
 | 2026-11-24 | Shorts | Hasankeyf'in sular altında kalması (Ilısu Barajı, Zeynel Bey Türbesi 2017, 2020) |
+| 2026-11-25 | Shorts | XI. Konstantinos'un kayıp cesedi ve Mermer İmparator efsanesi (1453, Altınkapı) |
+| 2026-11-25 | Shorts | Delfi kâhini ve etilen gazı (Pythia, Plutarkhos, de Boer 2001, fay hatları) |
+| 2026-11-25 | Shorts | Qin Shi Huang'ın açılmayan mezarı (Terracotta Ordusu 1974, Sima Qian, cıva ölçümleri) |
+| 2026-11-25 | Uzun | Alparslan'ın mezarı nerede? (1072 Ceyhun, Yusuf el-Harezmi, Merv, 1221 Moğol, Jukovski/Mahan Cuma Camisi, Halaçoğlu 2009, TİKA kazısı 2015 kitabe) |
 
 ## Konu havuzu (fikir)
 Sea Peoples (Deniz Kavimleri)

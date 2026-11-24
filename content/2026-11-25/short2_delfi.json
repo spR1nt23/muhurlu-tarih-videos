@@ -1,0 +1,14 @@
+{"format":"short","seed":252,"scenes":[
+{"motif":"pillars","heading":"DELFİ","lines":[
+ "Antik dünyanın en ünlü kâhini, kehanetlerini kendinden geçmiş hâlde söylüyordu.",
+ "Yunanistan'daki Delfi'de, Apollon Tapınağı'nın kâhinine Pythia deniyordu.",
+ "Krallar ve şehirler savaşa girmeden önce ona danışırdı."]},
+{"motif":"mountains","heading":"YERDEN GELEN GAZ","lines":[
+ "Antik yazar Plutarkhos, tapınakta yerden tatlı kokulu bir buhar yükseldiğini yazar.",
+ {"say":"İki bin bir yılında jeolog de Boer ve ekibi, tapınağın altında kesişen iki fay hattı bulduklarını açıkladı.","show":"2001'de jeolog de Boer ve ekibi, tapınağın altında kesişen iki fay hattı bulduklarını açıkladı."},
+ "Yakındaki kaynak suyunda etilen gibi gazlar ölçtüler ve kâhinin bu gazla trans hâline girdiğini öne sürdüler."]},
+{"motif":"question","heading":"HÂLÂ TARTIŞMALI","lines":[
+ "Ama eleştirmenler, ölçülen gaz miktarının kimseyi sarhoş etmeye yetmeyeceğini savundu.",
+ "Faylar ve gaz çıkışı doğrulandı; gazın kâhini etkileyip etkilemediği ise hâlâ tartışılıyor.",
+ "Sence Delfi kâhininin sırrı gaz mıydı, yoksa iyi bir gösteri mi?"]}
+]}

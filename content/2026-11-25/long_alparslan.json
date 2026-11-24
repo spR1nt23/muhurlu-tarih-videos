@@ -1,0 +1,102 @@
+{
+ "format": "long",
+ "seed": 255,
+ "intro": true,
+ "title_card": "Alparslan'ın Mezarı Nerede?",
+ "scenes": [
+  {
+   "motif": "stars",
+   "heading": "KAYIP MEZAR",
+   "lines": [
+    {
+     "say": "Bin yetmiş bir yılında Malazgirt'te Bizans ordusunu yenen ve Anadolu'nun kapılarını açan sultan.",
+     "show": "1071'de Malazgirt'te Bizans ordusunu yenen ve Anadolu'nun kapılarını açan sultan."
+    },
+    "Adını her Türk öğrencisi bilir: Sultan Alparslan.",
+    "Bizans İmparatoru Romen Diyojen'i esir alıp sonra serbest bırakan da oydu.",
+    "Ama şaşırtıcı bir gerçek var. Bugün onun mezarının tam olarak nerede olduğunu kimse bilmiyor.",
+    "Peki tarihin en ünlü Türk hükümdarlarından birinin kabri nasıl kaybolabildi?"
+   ]
+  },
+  {
+   "motif": "map",
+   "params": {
+    "x": 0.7
+   },
+   "heading": "CEYHUN KIYISINDA",
+   "lines": [
+    "Hikâye, Malazgirt zaferinden sadece bir yıl sonra başlıyor.",
+    "Alparslan büyük bir orduyla doğuya, Maveraünnehir'e sefere çıkmıştı.",
+    "Ordusu Ceyhun Nehri'ni, yani bugünkü Amu Derya'yı geçti.",
+    "Ele geçirilen bir kalenin komutanı Yusuf el-Harezmi esir olarak sultanın huzuruna getirildi.",
+    "Kaynaklara göre sultanla tartışan Yusuf, ansızın bir hançer çekip Alparslan'a saldırdı.",
+    {
+     "say": "Ağır yaralanan sultan birkaç gün sonra, bin yetmiş iki yılının sonlarında hayatını kaybetti.",
+     "show": "Ağır yaralanan sultan birkaç gün sonra, 1072 yılının sonlarında hayatını kaybetti."
+    },
+    "Ölüm tarihi bile kaynaklarda farklı veriliyor.",
+    "Yerine oğlu Melikşah geçti ve babasının cenazesini kaldırma görevi ona düştü."
+   ]
+  },
+  {
+   "motif": "ruins",
+   "heading": "MERV",
+   "lines": [
+    "Ortaçağ kaynakları burada büyük ölçüde birleşiyor: Alparslan'ın naaşı Merv şehrine götürüldü.",
+    "Merv, bugün Türkmenistan'ın Mari şehri yakınında. O dönemde ise Selçukluların en önemli merkezlerinden biriydi.",
+    "Merv, o dönemde dünyanın en kalabalık şehirlerinden biri sayılıyordu.",
+    "Oğlu Melikşah, babasını burada, babası Çağrı Bey'in yanına defnettirdi.",
+    "Yani mezarın şehri biliniyor. Asıl sorun, şehrin kendi kaderinde.",
+    {
+     "say": "Bin iki yüz yirmi birde Moğol ordusu Merv'i kuşattı, ele geçirdi ve büyük bir yıkıma uğrattı.",
+     "show": "1221'de Moğol ordusu Merv'i kuşattı, ele geçirdi ve büyük bir yıkıma uğrattı."
+    },
+    "Şehir bir daha eski ihtişamına kavuşamadı ve zamanla toprağa gömüldü.",
+    "Bugün Merv'de ayakta kalan en ünlü yapı, Sultan Sencer'in türbesi. Alparslan'ın türbesinden ise iz yok."
+   ]
+  },
+  {
+   "motif": "document",
+   "heading": "HANGİ CAMİ?",
+   "lines": [
+    "Bazı kaynaklar sultanın bir Cuma Camisi'nin yanına gömüldüğünü aktarıyor.",
+    "Ama sorun şu: Merv'in farklı dönemlerinden kalma birden fazla Cuma Camisi var.",
+    {
+     "say": "On dokuzuncu yüzyılda Rus araştırmacı Jukovski, mezarın Mahan Cuma Camisi'nin içinde olabileceğini öne sürdü.",
+     "show": "19. yüzyılda Rus araştırmacı Jukovski, mezarın Mahan Cuma Camisi'nin içinde olabileceğini öne sürdü."
+    },
+    "Bu fikir uzun süre doğrulanamadı.",
+    {
+     "say": "İki bin dokuz yılında Profesör Yusuf Halaçoğlu mezarın yerini bulduğunu söyledi ama yağma korkusuyla konumu açıklamadı.",
+     "show": "2009'da Prof. Yusuf Halaçoğlu mezarın yerini bulduğunu söyledi ama yağma korkusuyla konumu açıklamadı."
+    }
+   ]
+  },
+  {
+   "motif": "parchment",
+   "heading": "KAZILAR",
+   "lines": [
+    "Daha sonra TİKA'nın desteğiyle Türk ve Türkmen bilim insanları Merv'de ortak çalışma başlattı.",
+    "Önce Ortaçağ kaynakları yeniden incelendi, ardından yüzey araştırmaları yapıldı.",
+    {
+     "say": "İki bin on beşte ekip, kazı alanında kırık bir kitabe parçası bulduğunu duyurdu.",
+     "show": "2015'te ekip, kazı alanında kırık bir kitabe parçası bulduğunu duyurdu."
+    },
+    "Ekip, başka parçalar bulunursa yapının kimliğinin anlaşılabileceğini söyledi.",
+    "Toprağın altını kazmadan görebilmek için yer radarı gibi jeofizik yöntemler de kullanıldı.",
+    "Ama bugüne kadar bilim dünyasının kabul ettiği kesin bir mezar bulunmuş değil."
+   ]
+  },
+  {
+   "motif": "question",
+   "heading": "SIR HÂLÂ TOPRAKTA",
+   "lines": [
+    "Belki türbe Moğol yıkımında tamamen yok oldu. Belki de hâlâ Merv'in toprağı altında bekliyor.",
+    "Merv bugün UNESCO Dünya Mirası listesinde ve antik şehrin büyük kısmı hâlâ kazılmayı bekliyor.",
+    "İronik olan şu: Anadolu'yu Türklere açan sultanın kabri, Anadolu'dan binlerce kilometre uzakta.",
+    "Ve tarih kitaplarında yaşayan bu isim, kendi mezarında bir sır olarak kalmaya devam ediyor.",
+    "Sence Alparslan'ın mezarı bir gün bulunabilir mi? Yorumlara yaz."
+   ]
+  }
+ ]
+}

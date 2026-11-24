@@ -1,0 +1,14 @@
+{"format":"short","seed":251,"scenes":[
+{"motif":"pillars","heading":"1453","lines":[
+ "Bizans'ın son imparatorunun cesedi hiçbir zaman kesin olarak bulunamadı.",
+ {"say":"Yirmi dokuz Mayıs bin dört yüz elli üçte İstanbul fethedildiğinde, On Birinci Konstantinos surlarda savaşıyordu.","show":"29 Mayıs 1453'te İstanbul fethedildiğinde, XI. Konstantinos surlarda savaşıyordu."},
+ "Kaynakların çoğuna göre imparatorluk işaretlerini çıkarıp sıradan bir asker gibi çarpıştı ve öldü."]},
+{"motif":"ruins","heading":"KAYIP CESET","lines":[
+ "Bazı kaynaklar, Fatih Sultan Mehmed'e onun olduğu söylenen bir baş getirildiğini anlatır.",
+ "Ama bunun gerçekten imparatora ait olup olmadığı hiçbir zaman doğrulanamadı.",
+ "Tarihçilerin çoğu, onun diğer askerlerle birlikte toplu bir mezara gömüldüğünü düşünüyor."]},
+{"motif":"question","heading":"MERMER İMPARATOR","lines":[
+ "Bu belirsizlik bir efsane doğurdu: Bir meleğin imparatoru mermere çevirip Altınkapı'nın altındaki bir mağaraya sakladığı anlatıldı.",
+ "Efsaneye göre bir gün uyanıp şehrini geri alacaktı.",
+ "Sence son imparatorun mezarı bir gün bulunabilir mi?"]}
+]}
