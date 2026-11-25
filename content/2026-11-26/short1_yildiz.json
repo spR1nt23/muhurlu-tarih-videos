@@ -1,0 +1,17 @@
+{"format":"short","seed":261,"scenes":[
+{"motif":"year","params":{"year":"1905"},"heading":"YILDIZ CAMİİ","lines":[
+ "Sultan İkinci Abdülhamid'i ölümden, birkaç dakikalık bir sohbet kurtardı.",
+ {"say":"Yirmi bir Temmuz bin dokuz yüz beşte, Yıldız'daki Hamidiye Camii'nde Cuma namazı kılınıyordu.","show":"21 Temmuz 1905'te, Yıldız'daki Hamidiye Camii'nde Cuma namazı kılınıyordu."},
+ "Caminin önündeki bir arabada, saatli bir bomba bekliyordu."]},
+{"motif":"hourglass","heading":"HESAPLANAN SÜRE","lines":[
+ "Suikastçılar, padişahın camiden çıkıp arabasına varmasının ne kadar sürdüğünü önceden ölçmüştü.",
+ "Bombanın saati de tam bu süreye göre kuruldu.",
+ "Ama o gün padişah, kapıda Şeyhülislam Cemaleddin Efendi ile sohbete daldı."]},
+{"motif":"ruins","heading":"PATLAMA","lines":[
+ {"say":"Bomba, padişah daha arabasına varmadan patladı. Yirmi altı kişi öldü, elli sekiz kişi yaralandı.","show":"Bomba, padişah daha arabasına varmadan patladı. 26 kişi öldü, 58 kişi yaralandı."},
+ "Suikastı Ermeni Devrimci Federasyonu planlamıştı; Belçikalı anarşist Edward Joris de yakalandı.",
+ "Joris idama mahkûm edildi, ama Belçika'nın baskısıyla sonunda serbest bırakıldı."]},
+{"motif":"question","lines":[
+ "Gecikmenin tesadüf mü, yoksa padişahın temkini mi olduğu kaynaklarda tartışmalı.",
+ "Sence bu bir şans mıydı, yoksa Abdülhamid bir şeylerden şüphelenmiş miydi?"]}
+]}

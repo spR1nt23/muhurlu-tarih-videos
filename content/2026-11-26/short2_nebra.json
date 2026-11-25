@@ -1,0 +1,16 @@
+{"format":"short","seed":262,"scenes":[
+{"motif":"stars","heading":"NEBRA GÖK DİSKİ","lines":[
+ "Gökyüzünün bilinen en eski somut tasvirlerinden biri, kaçakçıların elinden kurtarıldı.",
+ {"say":"Bin dokuz yüz doksan dokuzda iki define avcısı, Almanya'da Nebra yakınlarında metal dedektörüyle bronz bir disk buldu.","show":"1999'da iki define avcısı, Almanya'da Nebra yakınlarında metal dedektörüyle bronz bir disk buldu."},
+ "Diski yasa dışı yollarla sattılar ve el değiştirdi."]},
+{"motif":"year","params":{"year":"2002"},"heading":"BASEL OPERASYONU","lines":[
+ {"say":"İki bin iki yılında İsviçre'nin Basel kentinde, polis bir alıcı tuzağı kurdu.","show":"2002'de İsviçre'nin Basel kentinde, polis bir alıcı tuzağı kurdu."},
+ "Arkeolog Harald Meller alıcı rolünü oynadı ve disk satıcıların elinden alındı."]},
+{"motif":"seal","heading":"ALTIN GÖKYÜZÜ","lines":[
+ {"say":"Yaklaşık otuz iki santimlik diskin üzerinde altından bir güneş ya da dolunay, bir hilal ve yıldızlar var.","show":"Yaklaşık 32 santimlik diskin üzerinde altından bir güneş ya da dolunay, bir hilal ve yıldızlar var."},
+ "Yedi noktalık küme, birçok araştırmacıya göre Ülker yıldız kümesi.",
+ "Kenarlara sonradan eklenen yaylar, gündönümlerinde güneşin doğup battığı noktaları gösteriyor olabilir."]},
+{"motif":"question","lines":[
+ {"say":"Çoğu uzman diski yaklaşık üç bin altı yüz yıl önceye tarihliyor; bazıları ise daha genç olabileceğini savunuyor.","show":"Çoğu uzman diski yaklaşık 3.600 yıl önceye tarihliyor; bazıları ise daha genç olabileceğini savunuyor."},
+ "Sence Tunç Çağı insanları gökyüzünü bu kadar iyi izliyor muydu?"]}
+]}

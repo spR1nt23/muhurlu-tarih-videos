@@ -64,6 +64,10 @@
 | 2026-11-25 | Shorts | Delfi kâhini ve etilen gazı (Pythia, Plutarkhos, de Boer 2001, fay hatları) |
 | 2026-11-25 | Shorts | Qin Shi Huang'ın açılmayan mezarı (Terracotta Ordusu 1974, Sima Qian, cıva ölçümleri) |
 | 2026-11-25 | Uzun | Alparslan'ın mezarı nerede? (1072 Ceyhun, Yusuf el-Harezmi, Merv, 1221 Moğol, Jukovski/Mahan Cuma Camisi, Halaçoğlu 2009, TİKA kazısı 2015 kitabe) |
+| 2026-11-26 | Shorts | Yıldız suikastı (21 Temmuz 1905, Hamidiye Camii, Şeyhülislam sohbeti, 26 ölü, Edward Joris) |
+| 2026-11-26 | Shorts | Nebra Gök Diski (1999 define avcıları, 2002 Basel polis tuzağı, Harald Meller, Ülker, tarihleme tartışması) |
+| 2026-11-26 | Shorts | Durupınar yapısı / Nuh'un Gemisi iddiası (1959 NATO fotoğrafı, Üzengili, 1960 ekibi, doğal oluşum) |
+| 2026-11-26 | Shorts | Zeugma Çingene Kızı mozaiği (1998, Birecik Barajı, Bowling Green 2012, 2018 iade) |
 
 ## Konu havuzu (fikir)
 Sea Peoples (Deniz Kavimleri)

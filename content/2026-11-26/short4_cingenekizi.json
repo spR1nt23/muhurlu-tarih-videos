@@ -1,0 +1,16 @@
+{"format":"short","seed":264,"scenes":[
+{"motif":"ruins","heading":"ZEUGMA","lines":[
+ "Türkiye'nin en ünlü mozaiğinin yüzü bulundu, ama gövdesinin büyük kısmı kayıptı.",
+ "Gaziantep'teki antik Zeugma kenti, Fırat kıyısında Romalıların önemli bir şehriydi.",
+ {"say":"Bin dokuz yüz doksan sekizde, Birecik Barajı suları kenti kaplamadan önce kurtarma kazıları yapılıyordu.","show":"1998'de, Birecik Barajı suları kenti kaplamadan önce kurtarma kazıları yapılıyordu."}]},
+{"motif":"parchment","heading":"ÇİNGENE KIZI","lines":[
+ "Bu kazılarda, iri gözleriyle izleyeni takip ediyormuş gibi bakan bir yüz ortaya çıktı.",
+ "Ona Çingene Kızı adı verildi; ama mozaiğin geri kalanı yerinde yoktu.",
+ {"say":"Zeugma mozaiklerinin bir kısmı, bin dokuz yüz altmışlarda kaçakçılar tarafından yurt dışına çıkarılmıştı.","show":"Zeugma mozaiklerinin bir kısmı, 1960'larda kaçakçılar tarafından yurt dışına çıkarılmıştı."}]},
+{"motif":"map","params":{"x":0.3},"heading":"OHİO'DAN DÖNÜŞ","lines":[
+ {"say":"İki bin on ikide, on iki parçanın Amerika'daki Bowling Green Devlet Üniversitesi'nde sergilendiği anlaşıldı.","show":"2012'de, 12 parçanın Amerika'daki Bowling Green Devlet Üniversitesi'nde sergilendiği anlaşıldı."},
+ {"say":"Yıllar süren görüşmelerden sonra parçalar, iki bin on sekizde Gaziantep'e geri getirildi.","show":"Yıllar süren görüşmelerden sonra parçalar, 2018'de Gaziantep'e geri getirildi."}]},
+{"motif":"question","lines":[
+ "Ama mozaiğin bazı parçaları hâlâ kayıp.",
+ "Sence kaçırılan eserlerin tamamı bir gün geri dönebilir mi?"]}
+]}

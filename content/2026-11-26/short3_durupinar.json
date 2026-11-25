@@ -1,0 +1,16 @@
+{"format":"short","seed":263,"scenes":[
+{"motif":"mountains","heading":"AĞRI DAĞI","lines":[
+ "Bir askeri uçaktan çekilen fotoğrafta, gemiye benzeyen dev bir şekil vardı.",
+ {"say":"Bin dokuz yüz elli dokuzda Türk ordusundan Yüzbaşı İlhan Durupınar, bir NATO haritalama uçuşunun fotoğraflarını inceliyordu.","show":"1959'da Türk ordusundan Yüzbaşı İlhan Durupınar, bir NATO haritalama uçuşunun fotoğraflarını inceliyordu."},
+ "Doğubayazıt yakınlarında, Üzengili köyünün yanında tekne biçimli bir yapı gördü."]},
+{"motif":"map","params":{"x":0.62},"heading":"GEMİ Mİ?","lines":[
+ {"say":"Şeklin uzunluğu yüz altmış metreyi aşıyordu.","show":"Şeklin uzunluğu 160 metreyi aşıyordu."},
+ "Ağrı Dağı'na yakınlığı yüzünden, bunun Nuh'un Gemisi olduğu iddia edildi.",
+ {"say":"Bin dokuz yüz altmışta bölgeye bir araştırma ekibi gitti, ama gemiye ait bir kalıntı bulamadı.","show":"1960'ta bölgeye bir araştırma ekibi gitti, ama gemiye ait bir kalıntı bulamadı."}]},
+{"motif":"document","heading":"JEOLOJİNİN CEVABI","lines":[
+ "Jeologlara göre bu, kayaların kıvrılmasıyla oluşmuş doğal bir yapı.",
+ "Yine de alan, yıllardır meraklıları ve araştırmacıları çekmeye devam ediyor.",
+ "Yeni ölçümler yapılsa da, bunun bir gemi olduğunu gösteren somut bir kanıt bulunmadı."]},
+{"motif":"question","lines":[
+ "Sence bu şekil doğanın bir oyunu mu, yoksa ardında bir sır mı var?"]}
+]}
