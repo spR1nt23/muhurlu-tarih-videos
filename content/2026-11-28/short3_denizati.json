@@ -1,0 +1,15 @@
+{"format":"short","seed":283,"scenes":[
+{"motif":"seal","heading":"KANATLI DENİZATI","lines":[
+ "Müzedeki altın broş bir gün sahtesiyle değiştirildi ve kimse fark etmedi.",
+ "Kanatlı Denizatı broşu, Lidya dönemine ait Karun Hazinesi'nin en ünlü parçalarından biri."]},
+{"motif":"map","params":{"x":0.45},"heading":"UZUN YOLCULUK","lines":[
+ {"say":"Hazine bin dokuz yüz altmışlarda Uşak yakınlarındaki tümülüslerden kaçak kazılarla çıkarıldı ve Amerika'daki Metropolitan Müzesi'ne ulaştı.","show":"Hazine 1960'larda Uşak yakınlarındaki tümülüslerden kaçak kazılarla çıkarıldı ve ABD'deki Metropolitan Müzesi'ne ulaştı."},
+ {"say":"Türkiye'nin açtığı davadan sonra bin dokuz yüz doksan üçte geri döndü ve Uşak Müzesi'nde sergilendi.","show":"Türkiye'nin açtığı davadan sonra 1993'te geri döndü ve Uşak Müzesi'nde sergilendi."}]},
+{"motif":"document","heading":"SAHTE ALTIN","lines":[
+ {"say":"Ama iki bin altı yılında vitrindeki denizatının sahte olduğu ortaya çıktı.","show":"Ama 2006'da vitrindeki denizatının sahte olduğu ortaya çıktı."},
+ "İncelemeler, sahte broşun modern altından yapıldığını gösterdi. Müze müdürü yargılandı ve hapis cezası aldı.",
+ {"say":"Gerçek broş ise yıllar sonra Almanya'da bulundu ve iki bin on üçte Türkiye'ye geri getirildi.","show":"Gerçek broş ise yıllar sonra Almanya'da bulundu ve 2013'te Türkiye'ye geri getirildi."}]},
+{"motif":"question","lines":[
+ "Broşun o yıllarda kimlerin elinden geçtiği hâlâ tam bilinmiyor.",
+ "Sence bir müzeden eser çalmak bu kadar kolay olmalı mı?"]}
+]}

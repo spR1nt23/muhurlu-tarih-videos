@@ -68,6 +68,11 @@
 | 2026-11-26 | Shorts | Nebra Gök Diski (1999 define avcıları, 2002 Basel polis tuzağı, Harald Meller, Ülker, tarihleme tartışması) |
 | 2026-11-26 | Shorts | Durupınar yapısı / Nuh'un Gemisi iddiası (1959 NATO fotoğrafı, Üzengili, 1960 ekibi, doğal oluşum) |
 | 2026-11-26 | Shorts | Zeugma Çingene Kızı mozaiği (1998, Birecik Barajı, Bowling Green 2012, 2018 iade) |
+| 2026-11-28 | Shorts | Mimar Sinan'ın kayıp kafatası (1588, Süleymaniye türbesi, 1935 antropolojik inceleme, çelişen anlatılar) |
+| 2026-11-28 | Shorts | Wow! sinyali (15 Ağustos 1977, Big Ear, Jerry Ehman, 6EQUJ5, Yay takımyıldızı) |
+| 2026-11-28 | Uzun | Ayasofya'nın kubbesi neden çöktü? (532 Nika, Anthemios/İsidoros, 537, 558 çöküşü, Genç İsidoros 562, 989 Trdat, 14. yy, Sinan payandaları, harç) |
+| 2026-11-28 | Shorts | Karun Hazinesi Kanatlı Denizatı broşu (Metropolitan, 1993 iade, 2006 sahte, 2013 Almanya'dan dönüş) |
+
 
 ## Konu havuzu (fikir)
 Sea Peoples (Deniz Kavimleri)

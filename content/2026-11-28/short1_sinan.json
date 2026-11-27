@@ -1,0 +1,15 @@
+{"format":"short","seed":281,"scenes":[
+{"motif":"pillars","heading":"MİMAR SİNAN","lines":[
+ "Osmanlı'nın en büyük mimarının kafatası bugün nerede, kimse kesin olarak bilmiyor.",
+ {"say":"Mimar Sinan bin beş yüz seksen sekizde öldü ve Süleymaniye'nin yanında kendi tasarladığı sade türbeye gömüldü.","show":"Mimar Sinan 1588'de öldü ve Süleymaniye'nin yanında kendi tasarladığı sade türbeye gömüldü."}]},
+{"motif":"year","params":{"year":"1935"},"heading":"MEZAR AÇILIYOR","lines":[
+ {"say":"Bin dokuz yüz otuz beşte, antropolojik bir araştırma için türbesi açıldı.","show":"1935'te, antropolojik bir araştırma için türbesi açıldı."},
+ "Amaç, kafatasını ölçüp incelemekti. Olay dönemin gazetelerinde manşet oldu."]},
+{"motif":"document","heading":"İZ KAYBOLUYOR","lines":[
+ "Sonrası belirsiz. Bir anlatıya göre kafatası Ankara'ya götürüldü ve bir daha geri dönmedi.",
+ "Başka bir anlatıya göre geri getirildi; ama sonraki restorasyonlarda mezarda bulunamadı.",
+ "Bazı araştırmacılar ise kafatasının hiç çıkarılmadığını savunuyor."]},
+{"motif":"question","lines":[
+ "Belgeler çelişiyor ve kesin bir kayıt yok.",
+ "Sence Mimar Sinan'ın kafatası bir arşivde mi duruyor, yoksa hiç yerinden çıkmadı mı?"]}
+]}

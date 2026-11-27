@@ -1,0 +1,42 @@
+{"format":"long","seed":284,"intro":true,"title_card":"Ayasofya'nın Kubbesi Neden Çöktü?","scenes":[
+{"motif":"pillars","heading":"BİN BEŞ YÜZ YILLIK KUBBE","lines":[
+ "İstanbul'un ortasında, bin beş yüz yıla yakın süredir ayakta duran dev bir kubbe var.",
+ "Ama Ayasofya'nın bugün gördüğümüz kubbesi, ilk kubbe değil.",
+ "İlki ancak yirmi bir yıl dayanabildi ve sonunda yere çöktü.",
+ "Peki bu kubbe neden çöktü? Ve bunca depreme rağmen bugünkü kubbe nasıl ayakta kalabildi?"]},
+{"motif":"ruins","heading":"KÜLLERDEN DOĞAN YAPI","lines":[
+ {"say":"Hikâye beş yüz otuz iki yılında, Nika ayaklanmasıyla başlıyor.","show":"Hikâye 532 yılında, Nika ayaklanmasıyla başlıyor."},
+ "İsyan sırasında şehir yandı; eski Ayasofya kilisesi de alevlerde yok oldu.",
+ "İmparator Justinianus, yerine dünyanın görmediği bir yapı istedi.",
+ "İşi iki bilgine verdi: Trallesli Anthemios ve Miletli İsidoros. İkisi de mimardan çok matematikçi ve mühendisti.",
+ {"say":"Yapı inanılmaz bir hızla, yaklaşık beş yılda yükseldi ve beş yüz otuz yedide açıldı.","show":"Yapı inanılmaz bir hızla, yaklaşık 5 yılda yükseldi ve 537'de açıldı."},
+ "Rivayete göre Justinianus içeri girdiğinde, Süleyman, seni geçtim, diye haykırdı."]},
+{"motif":"stars","heading":"GÖKTEN ASILI KUBBE","lines":[
+ {"say":"Kubbenin çapı otuz metreyi aşıyordu ve tabanında bir sıra pencere vardı.","show":"Kubbenin çapı 30 metreyi aşıyordu ve tabanında bir sıra pencere vardı."},
+ "Pencerelerden giren ışık, kubbeyi duvarlardan kopmuş gibi gösteriyordu.",
+ "Dönemin tarihçisi Prokopios, kubbenin gökten altın bir zincirle asılı gibi durduğunu yazdı.",
+ "Ama bu büyüleyici görüntünün bir bedeli vardı. İlk kubbe oldukça basıktı.",
+ "Basık bir kubbe, ağırlığını aşağıya değil, yanlara doğru iter.",
+ "Bu itki, kubbeyi taşıyan dev ayakları ve kemerleri yavaş yavaş dışarı doğru zorladı."]},
+{"motif":"year","params":{"year":"558"},"heading":"ÇÖKÜŞ","lines":[
+ {"say":"Beş yüz elli üç ve beş yüz elli yedi yıllarındaki depremler yapıda çatlaklar açtı.","show":"553 ve 557 yıllarındaki depremler yapıda çatlaklar açtı."},
+ {"say":"Yedi Mayıs beş yüz elli sekizde, onarım sürerken kubbe çöktü.","show":"7 Mayıs 558'de, onarım sürerken kubbe çöktü."},
+ "Bazı dönem yazarları suçu mühendislere, kubbeyi taşıyan ayakları zayıf bırakmalarına yükledi.",
+ "Bugünkü uzmanların çoğu da basık kubbenin yarattığı yanal itkiyi asıl sebep olarak görüyor.",
+ "Justinianus vazgeçmedi. Yeniden yapım işini İsidoros'un yeğeni, Genç İsidoros üstlendi.",
+ {"say":"Yeni kubbe daha hafif malzemeyle ve yaklaşık altı metre daha yüksek yapıldı. Kilise beş yüz altmış ikide yeniden açıldı.","show":"Yeni kubbe daha hafif malzemeyle ve yaklaşık 6 metre daha yüksek yapıldı. Kilise 562'de yeniden açıldı."}]},
+{"motif":"document","heading":"YENİ ÇATLAKLAR","lines":[
+ "Ama İstanbul bir deprem şehriydi ve kubbenin sınavı bitmemişti.",
+ {"say":"Dokuz yüz seksen dokuzdaki büyük depremde batı kemeri ve kubbenin bir bölümü çöktü.","show":"989'daki büyük depremde batı kemeri ve kubbenin bir bölümü çöktü."},
+ "İmparator II. Basileios, onarım için Ermeni mimar Trdat'ı çağırdı.",
+ {"say":"On dördüncü yüzyılda kubbenin doğu bölümü bir kez daha çöktü ve yeniden onarıldı.","show":"14. yüzyılda kubbenin doğu bölümü bir kez daha çöktü ve yeniden onarıldı."},
+ {"say":"Bin dört yüz elli üçte İstanbul'un fethinden sonra yapı camiye dönüştürüldü.","show":"1453'te İstanbul'un fethinden sonra yapı camiye dönüştürüldü."},
+ "On altıncı yüzyılda Mimar Sinan, II. Selim döneminde yapıyı inceledi ve dış payandalarla güçlendirdi."]},
+{"motif":"question","heading":"NASIL AYAKTA?","lines":[
+ "Peki bugünkü kubbe nasıl bu kadar uzun süre dayandı?",
+ "Araştırmacılar, tuğlaların arasındaki kalın harca dikkat çekiyor. Bu harç, kırılmış tuğla parçalarıyla güçlendirilmişti.",
+ "Bazı uzmanlara göre bu harç yapıya esneklik kazandırdı ve sarsıntıları daha iyi tolere etmesini sağladı.",
+ "Sinan'ın payandaları ve yüzyıllar boyunca yapılan onarımlar da büyük rol oynadı.",
+ "Ama Ayasofya'nın ilerideki büyük bir depreme nasıl dayanacağı, hâlâ mühendislerin tartıştığı bir soru.",
+ "Sence bu kubbe bin beş yüz yıl daha ayakta kalabilir mi? Yorumlara yaz."]}
+]}
