@@ -72,7 +72,10 @@
 | 2026-11-28 | Shorts | Wow! sinyali (15 Ağustos 1977, Big Ear, Jerry Ehman, 6EQUJ5, Yay takımyıldızı) |
 | 2026-11-28 | Uzun | Ayasofya'nın kubbesi neden çöktü? (532 Nika, Anthemios/İsidoros, 537, 558 çöküşü, Genç İsidoros 562, 989 Trdat, 14. yy, Sinan payandaları, harç) |
 | 2026-11-28 | Shorts | Karun Hazinesi Kanatlı Denizatı broşu (Metropolitan, 1993 iade, 2006 sahte, 2013 Almanya'dan dönüş) |
-
+| 2026-11-29 | Shorts | Ani'nin terk edilişi (Bagratuni başkenti, 1064 Alparslan, 1236 Moğollar, 1319 depremi, 'bin bir kilise' lakabı) |
+| 2026-11-29 | Shorts | Hierapolis Plüton Kapısı / Cehennem Kapısı (Strabon'un serçeleri, D'Andria 2013, karbondioksit, Pfanz) |
+| 2026-11-29 | Shorts | Percy Fawcett'in kaybolması (1925, Jack ve Raleigh Rimell, kayıp şehir Z, 1952 Villas-Bôas kemikleri) |
+| 2026-11-29 | Shorts | Bergama Zeus Sunağı neden Berlin'de? (Carl Humann 1878, Pergamon Müzesi, 2014'ten beri kapalı salon, iade tartışması) |
 
 ## Konu havuzu (fikir)
 Sea Peoples (Deniz Kavimleri)

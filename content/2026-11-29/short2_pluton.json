@@ -1,0 +1,16 @@
+{"format":"short","seed":292,"scenes":[
+{"motif":"ruins","heading":"CEHENNEM KAPISI","lines":[
+ "Pamukkale'nin hemen yanında, içine giren hayvanları öldüren bir kapı vardı.",
+ "Antik Hierapolis'teki bu mağaraya Plüton Kapısı, yani yeraltı tanrısının kapısı deniyordu."]},
+{"motif":"document","heading":"STRABON","lines":[
+ "Antik coğrafyacı Strabon, içeri attığı serçelerin hemen öldüğünü yazdı.",
+ "Rahiplerin ise eğilip nefeslerini tutarak bir yere kadar girebildiğini anlattı."]},
+{"motif":"year","params":{"year":"2013"},"heading":"YENİDEN BULUNDU","lines":[
+ {"say":"İki bin on üçte İtalyan arkeolog Françesko D'Andria'nın ekibi mağarayı ortaya çıkardı.","show":"2013'te İtalyan arkeolog Francesco D'Andria'nın ekibi mağarayı ortaya çıkardı."},
+ "Kazı sırasında, sıcak ağza yaklaşan kuşların öldüğü görüldü."]},
+{"motif":"mountains","heading":"SIRRIN ADI","lines":[
+ "Sonraki ölçümler sırrı açıkladı: fay hattından sızan yoğun karbondioksit.",
+ "Gaz yere yakın birikiyordu; yani başı yukarıda olan rahipler kurtulurken, alçaktaki hayvanlar boğuluyordu."]},
+{"motif":"question","lines":[
+ "Sence rahipler bu sırrı biliyor muydu, yoksa gerçekten tanrıların koruduğuna mı inanıyorlardı?"]}
+]}

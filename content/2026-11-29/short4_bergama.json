@@ -1,0 +1,14 @@
+{"format":"short","seed":294,"scenes":[
+{"motif":"pillars","heading":"ZEUS SUNAĞI","lines":[
+ "Bergama'nın en ünlü anıtı bugün Bergama'da değil, Berlin'de duruyor.",
+ "Helenistik çağda, Bergama Krallığı döneminde yapılan dev sunak, tanrılarla devlerin savaşını anlatan kabartmalarla süslüydü."]},
+{"motif":"year","params":{"year":"1878"},"heading":"CARL HUMANN","lines":[
+ {"say":"Alman mühendis Karl Humann, bin sekiz yüz yetmiş sekizde Bergama'da kazılara başladı.","show":"Alman mühendis Carl Humann, 1878'de Bergama'da kazılara başladı."},
+ "Osmanlı yönetiminin izniyle sunağın kabartmaları parça parça Berlin'e taşındı.",
+ "Orada yeniden kurulan sunak, Pergamon Müzesi'nin yıldızı oldu."]},
+{"motif":"hourglass","heading":"BEKLEYİŞ","lines":[
+ {"say":"Sunağın bulunduğu salon, restorasyon nedeniyle iki bin on dörtten beri kapalı.","show":"Sunağın bulunduğu salon, restorasyon nedeniyle 2014'ten beri kapalı."},
+ "Türkiye'de sunağın geri getirilmesi yıllardır konuşuluyor; Almanya ise eserlerin yasal yollarla alındığını savunuyor."]},
+{"motif":"question","lines":[
+ "Sence Zeus Sunağı Berlin'de mi kalmalı, yoksa Bergama'ya mı dönmeli?"]}
+]}

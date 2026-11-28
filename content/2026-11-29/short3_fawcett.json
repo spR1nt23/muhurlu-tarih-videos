@@ -1,0 +1,15 @@
+{"format":"short","seed":293,"scenes":[
+{"motif":"forest","heading":"KAYIP ŞEHİR Z","lines":[
+ "Amazon'da kayıp bir şehri aramaya giden üç kişiden bir daha haber alınamadı.",
+ {"say":"Bin dokuz yüz yirmi beşte İngiliz kaşif Persi Foset, oğlu Cek ve arkadaşı Raleyğ Rimel ile Brezilya ormanlarına girdi.","show":"1925'te İngiliz kaşif Percy Fawcett, oğlu Jack ve arkadaşı Raleigh Rimell ile Brezilya ormanlarına girdi."}]},
+{"motif":"document","heading":"SON MEKTUP","lines":[
+ "Fawcett, ormanın derinliklerinde Z adını verdiği eski bir şehrin olduğuna inanıyordu.",
+ {"say":"Ailesine ulaşan son mektup yirmi dokuz Mayıs tarihliydi.","show":"Ailesine ulaşan son mektup 29 Mayıs tarihliydi."},
+ "Sonrasında üçünden de hiçbir iz çıkmadı."]},
+{"motif":"map","params":{"x":0.45},"heading":"KEMİKLER","lines":[
+ {"say":"Bin dokuz yüz elli ikide Orlando Vilas Boas, Fawcett'e ait olduğu söylenen kemikleri duyurdu.","show":"1952'de Orlando Villas-Bôas, Fawcett'e ait olduğu söylenen kemikleri duyurdu."},
+ "Ama sonraki incelemeler, kemiklerin Fawcett'e ait olmadığını gösterdi.",
+ "Yerlilerle çatışma, açlık ve hastalık gibi farklı açıklamalar hâlâ tartışılıyor."]},
+{"motif":"question","lines":[
+ "Sence Fawcett ormanda neyle karşılaştı?"]}
+]}

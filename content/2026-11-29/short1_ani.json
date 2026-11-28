@@ -1,0 +1,16 @@
+{"format":"short","seed":291,"scenes":[
+{"motif":"ruins","heading":"ANİ","lines":[
+ "Bir zamanlar bin bir kilisesiyle anılan bir şehir, neden bomboş kaldı?",
+ "Kars'ın yakınında, Arpaçay kıyısındaki Ani, orta çağda Ermeni Bagratuni krallığının başkentiydi.",
+ {"say":"Şehrin büyük katedrali bin bir yılı civarında tamamlandı.","show":"Şehrin büyük katedrali 1001 yılı civarında tamamlandı."}]},
+{"motif":"year","params":{"year":"1064"},"heading":"KUŞATMALAR","lines":[
+ {"say":"Bin altmış dörtte Sultan Alparslan, yirmi beş günlük kuşatmanın ardından şehri aldı.","show":"1064'te Sultan Alparslan, 25 günlük kuşatmanın ardından şehri aldı."},
+ {"say":"Bin iki yüz otuz altıda Moğollar şehri yağmaladı.","show":"1236'da Moğollar şehri yağmaladı."}]},
+{"motif":"hourglass","heading":"YAVAŞ ÖLÜM","lines":[
+ {"say":"Bin üç yüz on dokuzdaki büyük deprem, katedralin kubbesini bile çökertti.","show":"1319'daki büyük deprem, katedralin kubbesini bile çökertti."},
+ "Ticaret yolları da başka yöne kayınca şehir yavaş yavaş boşaldı ve birkaç yüzyıl içinde terk edildi.",
+ "Bin bir kilise ise bir lakaptı; gerçek sayı bunun çok altındaydı."]},
+{"motif":"question","lines":[
+ "Ani'yi bitiren tek bir felaket değil, üst üste gelen darbeler oldu.",
+ "Sence bir şehri asıl öldüren savaş mı, yoksa terk edilmek mi?"]}
+]}
